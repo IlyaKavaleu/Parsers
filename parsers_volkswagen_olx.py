@@ -2,6 +2,7 @@ import json
 from bs4 import BeautifulSoup
 import requests
 
+
 class OLXScraper:
     def __init__(self, url):
         self.url = url
@@ -55,9 +56,17 @@ class OLXScraper:
             print("Date and Counter:", item["date_and_counter"])
             print("\n")
 
-# Usage
-url = "https://www.olx.pl/oferty/q-volkswagen-cc/?search%5Bfilter_float_price:from%5D=10000&search%5Bfilter_float_price:to%5D=35000"
-scraper = OLXScraper(url)
-data = scraper.scrape_data()
-scraper.show_info(data)
-scraper.save_to_json(data, "file_volkswagen_passats_from_olx.json")
+    def main(self):
+        if __name__ == "__main__":
+            data = main.scrape_data()
+            main.show_info(data)
+            main.save_to_json(data, "file_volkswagen_passats_from_olx.json")
+
+
+if __name__ == "__main__":
+    url = "https://www.olx.pl/oferty/q-volkswagen-cc/?search%5Bfilter_float_price:from%5D=10000&search%5Bfilter_float_price:to%5D=35000"
+    main = OLXScraper(url)
+    main.main()
+
+
+
