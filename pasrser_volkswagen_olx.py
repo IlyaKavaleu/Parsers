@@ -1,4 +1,3 @@
-import csv
 import json
 from bs4 import BeautifulSoup
 import requests
@@ -33,6 +32,13 @@ if response.status_code == 200:
         }
 
         data.append(item)
+
+        # Print the data for each item
+        print("Name:", name_text)
+        print("Price:", price_text)
+        print("City:", city_text)
+        print("Date and Counter:", date_counter_text)
+        print("\n")
 
     with open("file_volkswagen_passats_from_olx.json", "w", encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
