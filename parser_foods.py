@@ -131,4 +131,4 @@ for category_name, category_href in categories_all.items():
         print('Program final!')
         break
     print(f"Stay: {iteration}")
-    # sleep(random.randrange(2, 4))
+    sleep(random.randrange(2, 4))
