@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Actimel Вишня",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n74 "
+    },
+    {
+        "title": "Actimel Гранат",
+        "calories": "\n2.7 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n73 "
+    },
+    {
+        "title": "Actimel Земляника и шиповник",
+        "calories": "\n2.7 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n73 "
+    },
+    {
+        "title": "Actimel Клубника",
+        "calories": "\n2.7 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n72 "
+    },
+    {
+        "title": "Actimel Малина и клюква",
+        "calories": "\n2.7 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n72 "
+    },
+    {
+        "title": "Actimel Мультифрукт",
+        "calories": "\n2.7 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n75 "
+    },
+    {
+        "title": "Actimel Натуральный",
+        "calories": "\n2.8 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n10.5 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Actimel Черника и ежевика",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n74 "
+    },
+    {
+        "title": "Exponenta High-Pro Черника-Алоэ",
+        "calories": "\n12.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n2.5 ",
+        "carbohydrates": "\n60 "
+    },
+    {
+        "title": "Fruttis Сливочное лакомство Клубника-Земляника",
+        "calories": "\n2.2 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n17.0 ",
+        "carbohydrates": "\n122 "
+    },
+    {
+        "title": "Neo Имунеле Natural",
+        "calories": "\n1.8 ",
+        "proteins": "\n0.9 ",
+        "fats": "\n11.8 ",
+        "carbohydrates": "\n63 "
+    },
+    {
+        "title": "Neo Имунеле Гранат-Вишня",
+        "calories": "\n2.5 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n12.4 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Neo Имунеле Клюква-Малина",
+        "calories": "\n2.5 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n12.6 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Neo Имунеле Лесные ягоды",
+        "calories": "\n2.5 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n13.1 ",
+        "carbohydrates": "\n73 "
+    },
+    {
+        "title": "Айран (тан) газированный",
+        "calories": "\n1.1 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n1.4 ",
+        "carbohydrates": "\n24 "
+    },
+    {
+        "title": "Айран (тан) из козьего молока",
+        "calories": "\n1.1 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n1.4 ",
+        "carbohydrates": "\n24 "
+    },
+    {
+        "title": "Айран (тан) негазированный",
+        "calories": "\n1.1 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n1.4 ",
+        "carbohydrates": "\n24 "
+    },
+    {
+        "title": "Айран (тан) негазированный нежирный",
+        "calories": "\n1.1 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n1.4 ",
+        "carbohydrates": "\n12 "
+    },
+    {
+        "title": "Айран (тан) с укропом и огурцом",
+        "calories": "\n1.1 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n1.4 ",
+        "carbohydrates": "\n19 "
+    },
+    {
+        "title": "Айран (тан) сильногазированный",
+        "calories": "\n1.1 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n1.4 ",
+        "carbohydrates": "\n19 "
+    },
+    {
+        "title": "Активиа Быстрый завтрак Клубника",
+        "calories": "\n4.3 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n20.9 ",
+        "carbohydrates": "\n127 "
+    },
+    {
+        "title": "Активиа Быстрый завтрак Натуральный",
+        "calories": "\n4.8 ",
+        "proteins": "\n3.1 ",
+        "fats": "\n14.4 ",
+        "carbohydrates": "\n107 "
+    },
+    {
+        "title": "Активиа Быстрый завтрак с овсянкой Яблоко-Груша",
+        "calories": "\n3.6 ",
+        "proteins": "\n3.1 ",
+        "fats": "\n16.7 ",
+        "carbohydrates": "\n110 "
+    },
+    {
+        "title": "Активиа Кефирная 1%",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n4.5 ",
+        "carbohydrates": "\n39 "
+    },
+    {
+        "title": "Активиа Кефирная 3%",
+        "calories": "\n2.9 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n3.6 ",
+        "carbohydrates": "\n53 "
+    },
+    {
+        "title": "Активиа Момент удовольствия Вишня",
+        "calories": "\n4.3 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n13.7 ",
+        "carbohydrates": "\n97 "
+    },
+    {
+        "title": "Активиа Момент удовольствия Земляника",
+        "calories": "\n4.3 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n12.9 ",
+        "carbohydrates": "\n97 "
+    },
+    {
+        "title": "Активиа Питьевая Ананас",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n12.2 ",
+        "carbohydrates": "\n77 "
+    },
+    {
+        "title": "Активиа Питьевая Бифидойогурт Классический 1.5%",
+        "calories": "\n3.4 ",
+        "proteins": "\n1.5 ",
+        "fats": "\n4.4 ",
+        "carbohydrates": "\n45 "
+    },
+    {
+        "title": "Активиа Питьевая Вишня и чёрная смородина",
+        "calories": "\n2.6 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n81 "
+    },
+    {
+        "title": "Активиа Питьевая Злаки",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n12.4 ",
+        "carbohydrates": "\n81 "
+    },
+    {
+        "title": "Активиа Питьевая Клубника и земляника",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n12.4 ",
+        "carbohydrates": "\n81 "
+    },
+    {
+        "title": "Активиа Питьевая Малина и злаки",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.1 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n74 "
+    },
+    {
+        "title": "Активиа Питьевая Натуральная",
+        "calories": "\n3.2 ",
+        "proteins": "\n2.4 ",
+        "fats": "\n4.5 ",
+        "carbohydrates": "\n52 "
+    },
+    {
+        "title": "Активиа Питьевая Тыква банан и корица",
+        "calories": "\n2.9 ",
+        "proteins": "\n2.1 ",
+        "fats": "\n10.9 ",
+        "carbohydrates": "\n74 "
+    },
+    {
+        "title": "Активиа Питьевая Чернослив",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n80 "
+    },
+    {
+        "title": "Активиа Питьевая Яблоко и злаки",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n13.0 ",
+        "carbohydrates": "\n83 "
+    },
+    {
+        "title": "Активиа Семейная Клубника",
+        "calories": "\n3.9 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n13.6 ",
+        "carbohydrates": "\n98 "
+    },
+    {
+        "title": "Активиа Семейная Персик",
+        "calories": "\n3.9 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n13.6 ",
+        "carbohydrates": "\n98 "
+    },
+    {
+        "title": "Активиа Творожная Клубника",
+        "calories": "\n5.0 ",
+        "proteins": "\n4.5 ",
+        "fats": "\n15.5 ",
+        "carbohydrates": "\n123 "
+    },
+    {
+        "title": "Активиа Творожная Малина",
+        "calories": "\n4.2 ",
+        "proteins": "\n4.5 ",
+        "fats": "\n11.4 ",
+        "carbohydrates": "\n102 "
+    },
+    {
+        "title": "Активиа Творожная Мюсли",
+        "calories": "\n5.0 ",
+        "proteins": "\n4.5 ",
+        "fats": "\n15.5 ",
+        "carbohydrates": "\n123 "
+    },
+    {
+        "title": "Активиа Творожная Мюсли и манго",
+        "calories": "\n4.8 ",
+        "proteins": "\n4.5 ",
+        "fats": "\n14.7 ",
+        "carbohydrates": "\n119 "
+    },
+    {
+        "title": "Активиа Творожная Натуральная",
+        "calories": "\n5.9 ",
+        "proteins": "\n4.5 ",
+        "fats": "\n3.7 ",
+        "carbohydrates": "\n79 "
+    },
+    {
+        "title": "Активиа Творожная Отруби и злаки",
+        "calories": "\n4.9 ",
+        "proteins": "\n4.3 ",
+        "fats": "\n13.7 ",
+        "carbohydrates": "\n113 "
+    },
+    {
+        "title": "Активиа Творожная Чернослив",
+        "calories": "\n4.7 ",
+        "proteins": "\n4.2 ",
+        "fats": "\n14.4 ",
+        "carbohydrates": "\n114 "
+    },
+    {
+        "title": "Активиа Фреш Арбуз",
+        "calories": "\n2.8 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n12.3 ",
+        "carbohydrates": "\n74 "
+    },
+    {
+        "title": "Активиа Фреш Вишня",
+        "calories": "\n2.8 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Активиа Фреш Гранат и Малина",
+        "calories": "\n2.8 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Активиа Фреш Манго",
+        "calories": "\n2.8 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n73 "
+    },
+    {
+        "title": "Активиа Фреш Персик",
+        "calories": "\n2.8 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Актуаль на сыворотке вкус арбуза",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n8.6 ",
+        "carbohydrates": "\n37 "
+    },
+    {
+        "title": "Ацидофилин 0.1%",
+        "calories": "\n3.0 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n3.9 ",
+        "carbohydrates": "\n31 "
+    },
+    {
+        "title": "Ацидофилин 1%",
+        "calories": "\n3.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Ацидофилин 3.2%",
+        "calories": "\n2.8 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n3.8 ",
+        "carbohydrates": "\n57 "
+    },
+    {
+        "title": "Ацидофилин 3.2% сладкий",
+        "calories": "\n2.8 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n8.6 ",
+        "carbohydrates": "\n77 "
+    },
+    {
+        "title": "Ацидофилин Останкинский 2.5%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n4.2 ",
+        "carbohydrates": "\n51 "
+    },
+    {
+        "title": "Биойогурт Активиа Виноград Манго Папайя Семена Чиа",
+        "calories": "\n4.1 ",
+        "proteins": "\n2.9 ",
+        "fats": "\n10.8 ",
+        "carbohydrates": "\n86 "
+    },
+    {
+        "title": "Биойогурт Активиа Клубника Яблоко Питахайя",
+        "calories": "\n4.1 ",
+        "proteins": "\n2.9 ",
+        "fats": "\n10.9 ",
+        "carbohydrates": "\n86 "
+    },
+    {
+        "title": "Биойогурт Останкинский 2.5%",
+        "calories": "\n3.2 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n8.9 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Биойогурт Слобода питьевой с грушей и злаками 2%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n73 "
+    },
+    {
+        "title": "Биойогурт Слобода с гранолой и изюмом 5%",
+        "calories": "\n3.6 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n14.3 ",
+        "carbohydrates": "\n117 "
+    },
+    {
+        "title": "Биойогурт Слобода с клубникой 2.5%",
+        "calories": "\n3.0 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n13.6 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Биойогурт Слобода термостатный двухслойный с цветочным медом 2%",
+        "calories": "\n3.5 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n10.5 ",
+        "carbohydrates": "\n75 "
+    },
+    {
+        "title": "Биойогурт Слобода термостатный двухслойный с черникой 2%",
+        "calories": "\n3.6 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n15.8 ",
+        "carbohydrates": "\n93 "
+    },
+    {
+        "title": "Биокефир Вкуснотеево 1%",
+        "calories": "\n3.1 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n5.5 ",
+        "carbohydrates": "\n43 "
+    },
+    {
+        "title": "Биокефир Останкинский 0.1%",
+        "calories": "\n3.0 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n3.6 ",
+        "carbohydrates": "\n27 "
+    },
+    {
+        "title": "Биолакт Сегодня и Всегда продукт кисломолочный Абрикос-Манго",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n78 "
+    },
+    {
+        "title": "Бифацил",
+        "calories": "\n2.9 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n7.9 ",
+        "carbohydrates": "\n66 "
+    },
+    {
+        "title": "Бифитат",
+        "calories": "\n2.8 ",
+        "proteins": "\n3.4 ",
+        "fats": "\n4.7 ",
+        "carbohydrates": "\n61 "
+    },
+    {
+        "title": "Варенец 2.5%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n50 "
+    },
+    {
+        "title": "Варенец Останкинский 2.5%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n4.2 ",
+        "carbohydrates": "\n51 "
+    },
+    {
+        "title": "Даниссимо Белый персик - белый шоколад",
+        "calories": "\n4.6 ",
+        "proteins": "\n6.1 ",
+        "fats": "\n18.3 ",
+        "carbohydrates": "\n147 "
+    },
+    {
+        "title": "Даниссимо Вишня",
+        "calories": "\n4.7 ",
+        "proteins": "\n5.4 ",
+        "fats": "\n17.5 ",
+        "carbohydrates": "\n138 "
+    },
+    {
+        "title": "Даниссимо Груша-ваниль",
+        "calories": "\n4.7 ",
+        "proteins": "\n5.4 ",
+        "fats": "\n17.1 ",
+        "carbohydrates": "\n136 "
+    },
+    {
+        "title": "Даниссимо Клубника",
+        "calories": "\n4.7 ",
+        "proteins": "\n5.4 ",
+        "fats": "\n17.1 ",
+        "carbohydrates": "\n136 "
+    },
+    {
+        "title": "Даниссимо Крем-брюле",
+        "calories": "\n4.6 ",
+        "proteins": "\n4.6 ",
+        "fats": "\n18.8 ",
+        "carbohydrates": "\n135 "
+    },
+    {
+        "title": "Даниссимо Лесные ягоды",
+        "calories": "\n4.7 ",
+        "proteins": "\n5.4 ",
+        "fats": "\n17.2 ",
+        "carbohydrates": "\n136 "
+    },
+    {
+        "title": "Даниссимо Малина-земляника",
+        "calories": "\n4.7 ",
+        "proteins": "\n5.4 ",
+        "fats": "\n16.0 ",
+        "carbohydrates": "\n131 "
+    },
+    {
+        "title": "Даниссимо Пахлава",
+        "calories": "\n4.7 ",
+        "proteins": "\n5.1 ",
+        "fats": "\n15.8 ",
+        "carbohydrates": "\n128 "
+    }
+]

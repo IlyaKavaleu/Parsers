@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Ассорти мясное",
+        "calories": "\n11.3 ",
+        "proteins": "\n23.5 ",
+        "fats": "\n0.9 ",
+        "carbohydrates": "\n264 "
+    },
+    {
+        "title": "Ассорти овощное",
+        "calories": "\n1.0 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n3.3 ",
+        "carbohydrates": "\n19 "
+    },
+    {
+        "title": "Ассорти рыбное",
+        "calories": "\n10.4 ",
+        "proteins": "\n4.7 ",
+        "fats": "\n0.5 ",
+        "carbohydrates": "\n78 "
+    },
+    {
+        "title": "Баклажаны по-корейски готовые",
+        "calories": "\n0.0 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n6.5 ",
+        "carbohydrates": "\n109 "
+    },
+    {
+        "title": "Баклажаны фаршированные готовые",
+        "calories": "\n1.5 ",
+        "proteins": "\n6.1 ",
+        "fats": "\n7.3 ",
+        "carbohydrates": "\n79 "
+    },
+    {
+        "title": "Винегрет овощной готовый",
+        "calories": "\n1.8 ",
+        "proteins": "\n3.7 ",
+        "fats": "\n8.8 ",
+        "carbohydrates": "\n75 "
+    },
+    {
+        "title": "Винегрет особый готовый",
+        "calories": "\n6.3 ",
+        "proteins": "\n18.8 ",
+        "fats": "\n15.9 ",
+        "carbohydrates": "\n218 "
+    },
+    {
+        "title": "Капуста по-корейски готовая",
+        "calories": "\n1.5 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n7.9 ",
+        "carbohydrates": "\n87 "
+    },
+    {
+        "title": "Морковь по-корейски классическая готовая",
+        "calories": "\n1.1 ",
+        "proteins": "\n8.2 ",
+        "fats": "\n10.7 ",
+        "carbohydrates": "\n121 "
+    },
+    {
+        "title": "Морковь по-корейски острая готовая",
+        "calories": "\n1.2 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n12.9 ",
+        "carbohydrates": "\n137 "
+    },
+    {
+        "title": "Морковь по-корейски с грибами готовая",
+        "calories": "\n1.3 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n5.7 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Морковь по-корейски с кальмарами готовая",
+        "calories": "\n5.3 ",
+        "proteins": "\n11.4 ",
+        "fats": "\n7.7 ",
+        "carbohydrates": "\n152 "
+    },
+    {
+        "title": "Морковь по-корейски с капустой готовая",
+        "calories": "\n0.0 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n5.3 ",
+        "carbohydrates": "\n113 "
+    },
+    {
+        "title": "Морковь по-корейски со спаржей готовая",
+        "calories": "\n1.5 ",
+        "proteins": "\n7.1 ",
+        "fats": "\n6.1 ",
+        "carbohydrates": "\n95 "
+    },
+    {
+        "title": "Морковь с чесноком и орехами готовая",
+        "calories": "\n2.0 ",
+        "proteins": "\n11.5 ",
+        "fats": "\n9.3 ",
+        "carbohydrates": "\n148 "
+    },
+    {
+        "title": "Морская капуста по-корейски готовая",
+        "calories": "\n0.9 ",
+        "proteins": "\n7.2 ",
+        "fats": "\n3.1 ",
+        "carbohydrates": "\n80 "
+    },
+    {
+        "title": "Опята остренькие готовые",
+        "calories": "\n2.0 ",
+        "proteins": "\n9.5 ",
+        "fats": "\n4.3 ",
+        "carbohydrates": "\n110 "
+    },
+    {
+        "title": "Салат Алые паруса готовый",
+        "calories": "\n6.9 ",
+        "proteins": "\n14.8 ",
+        "fats": "\n7.8 ",
+        "carbohydrates": "\n189 "
+    },
+    {
+        "title": "Салат Ариран готовый",
+        "calories": "\n17.9 ",
+        "proteins": "\n17.3 ",
+        "fats": "\n2.1 ",
+        "carbohydrates": "\n235 "
+    },
+    {
+        "title": "Салат Афинский готовый",
+        "calories": "\n6.2 ",
+        "proteins": "\n10.2 ",
+        "fats": "\n2.3 ",
+        "carbohydrates": "\n128 "
+    },
+    {
+        "title": "Салат Берендей готовый",
+        "calories": "\n0.8 ",
+        "proteins": "\n20.2 ",
+        "fats": "\n5.2 ",
+        "carbohydrates": "\n205 "
+    },
+    {
+        "title": "Салат Бордо готовый",
+        "calories": "\n3.5 ",
+        "proteins": "\n19.0 ",
+        "fats": "\n7.9 ",
+        "carbohydrates": "\n214 "
+    },
+    {
+        "title": "Салат Венский готовый",
+        "calories": "\n10.2 ",
+        "proteins": "\n27.5 ",
+        "fats": "\n2.5 ",
+        "carbohydrates": "\n299 "
+    },
+    {
+        "title": "Салат Вита готовый",
+        "calories": "\n1.1 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n6.1 ",
+        "carbohydrates": "\n63 "
+    },
+    {
+        "title": "Салат Витаминка готовый",
+        "calories": "\n1.0 ",
+        "proteins": "\n10.1 ",
+        "fats": "\n10.8 ",
+        "carbohydrates": "\n137 "
+    },
+    {
+        "title": "Салат Витаминный готовый",
+        "calories": "\n1.4 ",
+        "proteins": "\n13.4 ",
+        "fats": "\n5.8 ",
+        "carbohydrates": "\n146 "
+    },
+    {
+        "title": "Салат Вкус Италии готовый",
+        "calories": "\n11.8 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n1.5 ",
+        "carbohydrates": "\n153 "
+    },
+    {
+        "title": "Салат Воскресенский готовый",
+        "calories": "\n1.1 ",
+        "proteins": "\n10.1 ",
+        "fats": "\n4.6 ",
+        "carbohydrates": "\n114 "
+    },
+    {
+        "title": "Салат Восторг готовый",
+        "calories": "\n4.6 ",
+        "proteins": "\n17.2 ",
+        "fats": "\n8.3 ",
+        "carbohydrates": "\n205 "
+    },
+    {
+        "title": "Салат Грибной готовый",
+        "calories": "\n3.2 ",
+        "proteins": "\n13.9 ",
+        "fats": "\n4.4 ",
+        "carbohydrates": "\n156 "
+    },
+    {
+        "title": "Салат Дальневосточный готовый",
+        "calories": "\n0.6 ",
+        "proteins": "\n3.1 ",
+        "fats": "\n7.3 ",
+        "carbohydrates": "\n59 "
+    },
+    {
+        "title": "Салат Дары Сибири готовый",
+        "calories": "\n1.3 ",
+        "proteins": "\n3.6 ",
+        "fats": "\n5.7 ",
+        "carbohydrates": "\n59 "
+    },
+    {
+        "title": "Салат Дарьюшка из морской капусты готовый",
+        "calories": "\n5.5 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n8.0 ",
+        "carbohydrates": "\n320 "
+    },
+    {
+        "title": "Салат Жемчужина готовый",
+        "calories": "\n2.9 ",
+        "proteins": "\n7.1 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n103 "
+    },
+    {
+        "title": "Салат из корейской спаржи готовый",
+        "calories": "\n8.2 ",
+        "proteins": "\n8.8 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n124 "
+    },
+    {
+        "title": "Салат из морской капусты Диетический с крабовыми палочками",
+        "calories": "\n6.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n84 "
+    },
+    {
+        "title": "Салат из морской капусты с зелёным горошком готовый",
+        "calories": "\n4.0 ",
+        "proteins": "\n5.4 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n59 "
+    },
+    {
+        "title": "Салат из морской капусты с луком и пряностями",
+        "calories": "\n0.0 ",
+        "proteins": "\n18.3 ",
+        "fats": "\n0.3 ",
+        "carbohydrates": "\n176 "
+    },
+    {
+        "title": "Салат из морской капусты с майонезом и ткемалевым соусом готовый",
+        "calories": "\n4.0 ",
+        "proteins": "\n5.4 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n59 "
+    },
+    {
+        "title": "Салат из цветной капусты готовый",
+        "calories": "\n2.0 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n4.5 ",
+        "carbohydrates": "\n47 "
+    },
+    {
+        "title": "Салат Испанский готовый",
+        "calories": "\n12.3 ",
+        "proteins": "\n24.5 ",
+        "fats": "\n1.9 ",
+        "carbohydrates": "\n288 "
+    },
+    {
+        "title": "Салат Итальянский с ветчиной готовый",
+        "calories": "\n9.5 ",
+        "proteins": "\n14.6 ",
+        "fats": "\n31.7 ",
+        "carbohydrates": "\n288 "
+    },
+    {
+        "title": "Салат Кальмары готовый",
+        "calories": "\n7.6 ",
+        "proteins": "\n15.4 ",
+        "fats": "\n18.7 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Салат Кальмары фаршированные готовый",
+        "calories": "\n10.2 ",
+        "proteins": "\n16.2 ",
+        "fats": "\n11.8 ",
+        "carbohydrates": "\n234 "
+    },
+    {
+        "title": "Салат Камчатский готовый",
+        "calories": "\n8.1 ",
+        "proteins": "\n1.7 ",
+        "fats": "\n6.1 ",
+        "carbohydrates": "\n73 "
+    },
+    {
+        "title": "Салат Катюша готовый",
+        "calories": "\n1.6 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n5.5 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Салат Крабовые палочки готовый",
+        "calories": "\n6.6 ",
+        "proteins": "\n14.8 ",
+        "fats": "\n13.7 ",
+        "carbohydrates": "\n217 "
+    },
+    {
+        "title": "Салат Крабовый готовый",
+        "calories": "\n9.2 ",
+        "proteins": "\n7.4 ",
+        "fats": "\n5.9 ",
+        "carbohydrates": "\n128 "
+    },
+    {
+        "title": "Салат Красная шапочка готовый",
+        "calories": "\n7.7 ",
+        "proteins": "\n25.6 ",
+        "fats": "\n5.8 ",
+        "carbohydrates": "\n288 "
+    },
+    {
+        "title": "Салат Курильский берег Дальневосточный из морской капусты",
+        "calories": "\n1.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n122 "
+    },
+    {
+        "title": "Салат Курочка-ряба готовый",
+        "calories": "\n11.4 ",
+        "proteins": "\n22.4 ",
+        "fats": "\n3.9 ",
+        "carbohydrates": "\n261 "
+    },
+    {
+        "title": "Салат Лосось готовый",
+        "calories": "\n8.3 ",
+        "proteins": "\n14.2 ",
+        "fats": "\n17.7 ",
+        "carbohydrates": "\n275 "
+    },
+    {
+        "title": "Салат Маяк готовый",
+        "calories": "\n9.6 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n2.6 ",
+        "carbohydrates": "\n262 "
+    },
+    {
+        "title": "Салат Меридиан Сахалинский сочный из морской капусты",
+        "calories": "\n1.2 ",
+        "proteins": "\n6.1 ",
+        "fats": "\n3.7 ",
+        "carbohydrates": "\n75 "
+    },
+    {
+        "title": "Салат Меридиан Солнечный морская капуста с овощами в майонезе",
+        "calories": "\n1.1 ",
+        "proteins": "\n10.7 ",
+        "fats": "\n6.6 ",
+        "carbohydrates": "\n130 "
+    },
+    {
+        "title": "Салат Мимоза готовый",
+        "calories": "\n5.7 ",
+        "proteins": "\n14.8 ",
+        "fats": "\n7.2 ",
+        "carbohydrates": "\n183 "
+    },
+    {
+        "title": "Салат Мираж готовый",
+        "calories": "\n15.0 ",
+        "proteins": "\n8.8 ",
+        "fats": "\n3.3 ",
+        "carbohydrates": "\n152 "
+    },
+    {
+        "title": "Салат Монастырский готовый",
+        "calories": "\n1.5 ",
+        "proteins": "\n18.1 ",
+        "fats": "\n7.4 ",
+        "carbohydrates": "\n198 "
+    },
+    {
+        "title": "Салат Морское ассорти готовый",
+        "calories": "\n1.4 ",
+        "proteins": "\n4.3 ",
+        "fats": "\n7.3 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Салат Морской дар готовый",
+        "calories": "\n7.4 ",
+        "proteins": "\n20.2 ",
+        "fats": "\n2.6 ",
+        "carbohydrates": "\n239 "
+    },
+    {
+        "title": "Салат Московский готовый",
+        "calories": "\n5.3 ",
+        "proteins": "\n20.2 ",
+        "fats": "\n6.1 ",
+        "carbohydrates": "\n227 "
+    },
+    {
+        "title": "Салат Мясной готовый",
+        "calories": "\n8.8 ",
+        "proteins": "\n16.7 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n214 "
+    },
+    {
+        "title": "Салат Находка готовый",
+        "calories": "\n3.4 ",
+        "proteins": "\n21.0 ",
+        "fats": "\n4.6 ",
+        "carbohydrates": "\n223 "
+    },
+    {
+        "title": "Салат Оливье по-домашнему готовый",
+        "calories": "\n5.1 ",
+        "proteins": "\n16.5 ",
+        "fats": "\n3.9 ",
+        "carbohydrates": "\n187 "
+    },
+    {
+        "title": "Салат Оливье с ветчиной готовый",
+        "calories": "\n5.4 ",
+        "proteins": "\n16.7 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n198 "
+    },
+    {
+        "title": "Салат Оливье с колбасой готовый",
+        "calories": "\n5.4 ",
+        "proteins": "\n16.7 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n198 "
+    },
+    {
+        "title": "Салат Оливье с мясом готовый",
+        "calories": "\n5.4 ",
+        "proteins": "\n16.7 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n198 "
+    },
+    {
+        "title": "Салат Охотничий готовый",
+        "calories": "\n14.4 ",
+        "proteins": "\n14.8 ",
+        "fats": "\n7.3 ",
+        "carbohydrates": "\n219 "
+    },
+    {
+        "title": "Салат Печеночный готовый",
+        "calories": "\n5.6 ",
+        "proteins": "\n14.4 ",
+        "fats": "\n3.2 ",
+        "carbohydrates": "\n164 "
+    },
+    {
+        "title": "Салат Пикантный готовый",
+        "calories": "\n5.9 ",
+        "proteins": "\n17.7 ",
+        "fats": "\n4.6 ",
+        "carbohydrates": "\n202 "
+    },
+    {
+        "title": "Салат Птица по-английски готовый",
+        "calories": "\n12.6 ",
+        "proteins": "\n17.9 ",
+        "fats": "\n1.2 ",
+        "carbohydrates": "\n216 "
+    },
+    {
+        "title": "Салат Розовый фламинго готовый",
+        "calories": "\n7.3 ",
+        "proteins": "\n16.0 ",
+        "fats": "\n5.8 ",
+        "carbohydrates": "\n206 "
+    },
+    {
+        "title": "Салат Русалочка готовый",
+        "calories": "\n7.8 ",
+        "proteins": "\n15.6 ",
+        "fats": "\n2.7 ",
+        "carbohydrates": "\n203 "
+    },
+    {
+        "title": "Салат Русский узор готовый",
+        "calories": "\n3.2 ",
+        "proteins": "\n14.9 ",
+        "fats": "\n8.2 ",
+        "carbohydrates": "\n177 "
+    },
+    {
+        "title": "Салат Санта Бремор из морских водорослей Чука",
+        "calories": "\n2.0 ",
+        "proteins": "\n6.0 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n120 "
+    },
+    {
+        "title": "Салат Санта Бремор из морских водорослей Чука с ореховым соусом",
+        "calories": "\n3.5 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n85 "
+    },
+    {
+        "title": "Салат Сеул готовый",
+        "calories": "\n6.9 ",
+        "proteins": "\n7.6 ",
+        "fats": "\n4.5 ",
+        "carbohydrates": "\n106 "
+    },
+    {
+        "title": "Салат Солнышко готовый",
+        "calories": "\n10.0 ",
+        "proteins": "\n20.3 ",
+        "fats": "\n3.7 ",
+        "carbohydrates": "\n239 "
+    },
+    {
+        "title": "Салат Спаржа по-корейски Healthy Food",
+        "calories": "\n33.5 ",
+        "proteins": "\n28.6 ",
+        "fats": "\n16.7 ",
+        "carbohydrates": "\n459 "
+    },
+    {
+        "title": "Салат Столичный готовый",
+        "calories": "\n7.6 ",
+        "proteins": "\n18.8 ",
+        "fats": "\n6.4 ",
+        "carbohydrates": "\n217 "
+    }
+]

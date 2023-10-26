@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Агар пищевой",
+        "calories": "\n4.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n76.0 ",
+        "carbohydrates": "\n301 "
+    },
+    {
+        "title": "Аджика",
+        "calories": "\n1.0 ",
+        "proteins": "\n3.7 ",
+        "fats": "\n5.8 ",
+        "carbohydrates": "\n59 "
+    },
+    {
+        "title": "Ажгон",
+        "calories": "\n19.7 ",
+        "proteins": "\n14.5 ",
+        "fats": "\n11.9 ",
+        "carbohydrates": "\n333 "
+    },
+    {
+        "title": "Аквафаба нутовая",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.9 ",
+        "carbohydrates": "\n5 "
+    },
+    {
+        "title": "Аквафаба сублимированная Гала-Гала",
+        "calories": "\n6.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n84 "
+    },
+    {
+        "title": "Анис",
+        "calories": "\n17.6 ",
+        "proteins": "\n15.9 ",
+        "fats": "\n35.4 ",
+        "carbohydrates": "\n337 "
+    },
+    {
+        "title": "Асафетида",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n0.1 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Бадьян",
+        "calories": "\n18.0 ",
+        "proteins": "\n16.0 ",
+        "fats": "\n50.0 ",
+        "carbohydrates": "\n337 "
+    },
+    {
+        "title": "Базилик свежий",
+        "calories": "\n2.5 ",
+        "proteins": "\n0.6 ",
+        "fats": "\n4.3 ",
+        "carbohydrates": "\n27 "
+    },
+    {
+        "title": "Базилик сушеный",
+        "calories": "\n14.4 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n61.0 ",
+        "carbohydrates": "\n251 "
+    },
+    {
+        "title": "Бахарат",
+        "calories": "\n10.9 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n38.3 ",
+        "carbohydrates": "\n255 "
+    },
+    {
+        "title": "Бербере",
+        "calories": "\n2.0 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Болдо",
+        "calories": "\n7.6 ",
+        "proteins": "\n8.3 ",
+        "fats": "\n48.6 ",
+        "carbohydrates": "\n313 "
+    },
+    {
+        "title": "Букет гарни",
+        "calories": "\n12.4 ",
+        "proteins": "\n6.5 ",
+        "fats": "\n26.0 ",
+        "carbohydrates": "\n259 "
+    },
+    {
+        "title": "Бульонный кубик",
+        "calories": "\n2.0 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Бумбу",
+        "calories": "\n1.0 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n11.3 ",
+        "carbohydrates": "\n61 "
+    },
+    {
+        "title": "Валериана",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Ванилин",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n12.7 ",
+        "carbohydrates": "\n288 "
+    },
+    {
+        "title": "Ваниль",
+        "calories": "\n1.2 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n12.5 ",
+        "carbohydrates": "\n287 "
+    },
+    {
+        "title": "Ванильная эссенция",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n12.6 ",
+        "carbohydrates": "\n288 "
+    },
+    {
+        "title": "Ванильный порошок",
+        "calories": "\n1.2 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n12.5 ",
+        "carbohydrates": "\n287 "
+    },
+    {
+        "title": "Винный камень",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Воздушный рис",
+        "calories": "\n6.3 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n89.8 ",
+        "carbohydrates": "\n402 "
+    },
+    {
+        "title": "Галангал (корень)",
+        "calories": "\n1.8 ",
+        "proteins": "\n0.7 ",
+        "fats": "\n15.7 ",
+        "carbohydrates": "\n80 "
+    },
+    {
+        "title": "Галангал сушеный",
+        "calories": "\n9.1 ",
+        "proteins": "\n5.9 ",
+        "fats": "\n58.3 ",
+        "carbohydrates": "\n347 "
+    },
+    {
+        "title": "Гарам масала",
+        "calories": "\n15.0 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n45.0 ",
+        "carbohydrates": "\n379 "
+    },
+    {
+        "title": "Гвоздика",
+        "calories": "\n6.0 ",
+        "proteins": "\n20.1 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n323 "
+    },
+    {
+        "title": "Глазурь Айсинг",
+        "calories": "\n2.3 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n78.8 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Глазурь нейтральная ILbakery",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n93.0 ",
+        "carbohydrates": "\n374 "
+    },
+    {
+        "title": "Глюкоза",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n98.2 ",
+        "carbohydrates": "\n388 "
+    },
+    {
+        "title": "Глютен (клейковина пшеничная)",
+        "calories": "\n76.0 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n350 "
+    },
+    {
+        "title": "Горчица",
+        "calories": "\n5.7 ",
+        "proteins": "\n6.4 ",
+        "fats": "\n22.0 ",
+        "carbohydrates": "\n162 "
+    },
+    {
+        "title": "Горчица 365 дней Русская",
+        "calories": "\n7.4 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n10.8 ",
+        "carbohydrates": "\n91 "
+    },
+    {
+        "title": "Горчица белая (английская)",
+        "calories": "\n37.1 ",
+        "proteins": "\n11.1 ",
+        "fats": "\n5.9 ",
+        "carbohydrates": "\n271 "
+    },
+    {
+        "title": "Горчица дижонская",
+        "calories": "\n9.9 ",
+        "proteins": "\n12.7 ",
+        "fats": "\n5.3 ",
+        "carbohydrates": "\n143 "
+    },
+    {
+        "title": "Горчица Махеевъ столовая Русская",
+        "calories": "\n9.6 ",
+        "proteins": "\n10.9 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n181 "
+    },
+    {
+        "title": "Горчица русская (сарептская)",
+        "calories": "\n8.7 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n11.6 ",
+        "carbohydrates": "\n185 "
+    },
+    {
+        "title": "Горчица чёрная (французская)",
+        "calories": "\n37.1 ",
+        "proteins": "\n11.1 ",
+        "fats": "\n5.9 ",
+        "carbohydrates": "\n271 "
+    },
+    {
+        "title": "Горчичный порошок",
+        "calories": "\n37.1 ",
+        "proteins": "\n11.1 ",
+        "fats": "\n32.6 ",
+        "carbohydrates": "\n378 "
+    },
+    {
+        "title": "Гремолата",
+        "calories": "\n3.7 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n7.6 ",
+        "carbohydrates": "\n49 "
+    },
+    {
+        "title": "Декстроза",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n91.0 ",
+        "carbohydrates": "\n365 "
+    },
+    {
+        "title": "Дрожжевой экстракт",
+        "calories": "\n27.8 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n8.8 ",
+        "carbohydrates": "\n158 "
+    },
+    {
+        "title": "Дрожжи",
+        "calories": "\n12.7 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n75 "
+    },
+    {
+        "title": "Дрожжи пивные",
+        "calories": "\n12.7 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n75 "
+    },
+    {
+        "title": "Дрожжи пищевые KAL Yeast Flakes",
+        "calories": "\n9.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n80 "
+    },
+    {
+        "title": "Дрожжи прессованные",
+        "calories": "\n12.7 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n8.5 ",
+        "carbohydrates": "\n109 "
+    },
+    {
+        "title": "Дрожжи сухие быстродействующие Саф-момент",
+        "calories": "\n49.0 ",
+        "proteins": "\n6.0 ",
+        "fats": "\n40.0 ",
+        "carbohydrates": "\n410 "
+    },
+    {
+        "title": "Дрожжи хлебопекарные сухие дезактивированные Baker’s Bonus RS-190 Star",
+        "calories": "\n54.0 ",
+        "proteins": "\n6.0 ",
+        "fats": "\n40.0 ",
+        "carbohydrates": "\n430 "
+    },
+    {
+        "title": "Душица (орегано)",
+        "calories": "\n1.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n25 "
+    },
+    {
+        "title": "Дягиль",
+        "calories": "\n4.2 ",
+        "proteins": "\n2.4 ",
+        "fats": "\n3.1 ",
+        "carbohydrates": "\n10 "
+    },
+    {
+        "title": "Жасмин",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n1 "
+    },
+    {
+        "title": "Желатин Dr.Oetker пищевой",
+        "calories": "\n84.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n336 "
+    },
+    {
+        "title": "Желатин листовой",
+        "calories": "\n85.0 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n336 "
+    },
+    {
+        "title": "Желатин пищевой",
+        "calories": "\n87.2 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n0.7 ",
+        "carbohydrates": "\n355 "
+    },
+    {
+        "title": "Желе Dr.Oetker со вкусом Апельсина",
+        "calories": "\n13.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n80.4 ",
+        "carbohydrates": "\n374 "
+    },
+    {
+        "title": "Желе Dr.Oetker со вкусом Вишни",
+        "calories": "\n13.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n80.3 ",
+        "carbohydrates": "\n374 "
+    },
+    {
+        "title": "Желе Dr.Oetker со вкусом Клубники",
+        "calories": "\n14.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n80.0 ",
+        "carbohydrates": "\n388 "
+    },
+    {
+        "title": "Желе Dr.Oetker со вкусом Лесных ягод",
+        "calories": "\n13.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n80.3 ",
+        "carbohydrates": "\n374 "
+    },
+    {
+        "title": "Желе Dr.Oetker со вкусом Лимона",
+        "calories": "\n13.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n80.7 ",
+        "carbohydrates": "\n375 "
+    },
+    {
+        "title": "Желе Dr.Oetker со вкусом Малины",
+        "calories": "\n13.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n80.4 ",
+        "carbohydrates": "\n374 "
+    },
+    {
+        "title": "Желфикс Dr.Oetker",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.5 ",
+        "carbohydrates": "\n313 "
+    },
+    {
+        "title": "Женьшень",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n41 "
+    },
+    {
+        "title": "Жидкий дым",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n0.1 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Закваска сухая",
+        "calories": "\n11.0 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n67.0 ",
+        "carbohydrates": "\n330 "
+    },
+    {
+        "title": "Закваска хлебная ржаная",
+        "calories": "\n3.9 ",
+        "proteins": "\n0.7 ",
+        "fats": "\n26.7 ",
+        "carbohydrates": "\n132 "
+    },
+    {
+        "title": "Зантоксилум",
+        "calories": "\n10.4 ",
+        "proteins": "\n2.1 ",
+        "fats": "\n42.4 ",
+        "carbohydrates": "\n296 "
+    },
+    {
+        "title": "Заправка Sen Soy Premium Ореховая для салатов",
+        "calories": "\n4.0 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n330 "
+    },
+    {
+        "title": "Заправка Махеевъ для солянки",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n3.4 ",
+        "carbohydrates": "\n23 "
+    },
+    {
+        "title": "Заправка Салат Бар Гурмикс салатная кунжутная",
+        "calories": "\n1.5 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n20.0 ",
+        "carbohydrates": "\n180 "
+    },
+    {
+        "title": "Заправка Салат Бар Гурмикс салатная манговая",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n16.0 ",
+        "carbohydrates": "\n65 "
+    },
+    {
+        "title": "Заправка Сэн Сой для фунчозы по-корейски",
+        "calories": "\n1.3 ",
+        "proteins": "\n55.0 ",
+        "fats": "\n10.1 ",
+        "carbohydrates": "\n541 "
+    },
+    {
+        "title": "Заправка Чим-Чим для салата из фунчозы",
+        "calories": "\n1.0 ",
+        "proteins": "\n60.0 ",
+        "fats": "\n20.0 ",
+        "carbohydrates": "\n630 "
+    },
+    {
+        "title": "Заправка Чим-Чим корейская для моркови",
+        "calories": "\n2.0 ",
+        "proteins": "\n75.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n720 "
+    },
+    {
+        "title": "Заправка Я люблю готовить салатная Итальянский букет и вяленые томаты",
+        "calories": "\n0.4 ",
+        "proteins": "\n92.0 ",
+        "fats": "\n1.7 ",
+        "carbohydrates": "\n836 "
+    },
+    {
+        "title": "Заправка Я люблю готовить салатная Пряный базилик и пармезан",
+        "calories": "\n0.3 ",
+        "proteins": "\n96.0 ",
+        "fats": "\n1.1 ",
+        "carbohydrates": "\n870 "
+    },
+    {
+        "title": "Заправка Я люблю готовить салатная Французские пряности и чеснок",
+        "calories": "\n0.3 ",
+        "proteins": "\n95.0 ",
+        "fats": "\n0.8 ",
+        "carbohydrates": "\n860 "
+    },
+    {
+        "title": "Зелень сушёная",
+        "calories": "\n3.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n24.5 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Зира",
+        "calories": "\n12.0 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n32.0 ",
+        "carbohydrates": "\n112 "
+    },
+    {
+        "title": "Зубровка душистая",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Имбирь",
+        "calories": "\n1.8 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n15.8 ",
+        "carbohydrates": "\n80 "
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Абрикосовая косточка",
+        "calories": "\n14.0 ",
+        "proteins": "\n27.7 ",
+        "fats": "\n56.3 ",
+        "carbohydrates": "\n440 "
+    },
+    {
+        "title": "Арахис",
+        "calories": "\n26.3 ",
+        "proteins": "\n45.2 ",
+        "fats": "\n9.9 ",
+        "carbohydrates": "\n622 "
+    },
+    {
+        "title": "Арахис Джаз жареный соленый",
+        "calories": "\n25.0 ",
+        "proteins": "\n52.0 ",
+        "fats": "\n17.0 ",
+        "carbohydrates": "\n640 "
+    },
+    {
+        "title": "Арахис Степановна обжаренный соленый",
+        "calories": "\n29.2 ",
+        "proteins": "\n50.2 ",
+        "fats": "\n5.7 ",
+        "carbohydrates": "\n590 "
+    },
+    {
+        "title": "Арахис сушеный",
+        "calories": "\n29.2 ",
+        "proteins": "\n50.2 ",
+        "fats": "\n10.8 ",
+        "carbohydrates": "\n611 "
+    },
+    {
+        "title": "Бананы сушёные",
+        "calories": "\n3.9 ",
+        "proteins": "\n1.8 ",
+        "fats": "\n80.5 ",
+        "carbohydrates": "\n390 "
+    },
+    {
+        "title": "Барбарис сушеный",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n38.0 ",
+        "carbohydrates": "\n152 "
+    },
+    {
+        "title": "Боярышник сушеный",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n38.0 ",
+        "carbohydrates": "\n142 "
+    },
+    {
+        "title": "Бразильский орех",
+        "calories": "\n14.3 ",
+        "proteins": "\n66.4 ",
+        "fats": "\n4.8 ",
+        "carbohydrates": "\n656 "
+    },
+    {
+        "title": "Буковый орех",
+        "calories": "\n6.2 ",
+        "proteins": "\n50.0 ",
+        "fats": "\n33.5 ",
+        "carbohydrates": "\n576 "
+    },
+    {
+        "title": "Вишня вяленая",
+        "calories": "\n1.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n73.0 ",
+        "carbohydrates": "\n290 "
+    },
+    {
+        "title": "Вишня сушеная",
+        "calories": "\n1.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n73.0 ",
+        "carbohydrates": "\n290 "
+    },
+    {
+        "title": "Грецкий орех",
+        "calories": "\n15.2 ",
+        "proteins": "\n65.2 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n654 "
+    },
+    {
+        "title": "Груши сушёные",
+        "calories": "\n2.3 ",
+        "proteins": "\n0.6 ",
+        "fats": "\n62.6 ",
+        "carbohydrates": "\n249 "
+    },
+    {
+        "title": "Дыня сушеная",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n82.2 ",
+        "carbohydrates": "\n341 "
+    },
+    {
+        "title": "Желудь",
+        "calories": "\n24.0 ",
+        "proteins": "\n20.7 ",
+        "fats": "\n15.7 ",
+        "carbohydrates": "\n387 "
+    },
+    {
+        "title": "Изюм",
+        "calories": "\n2.9 ",
+        "proteins": "\n0.6 ",
+        "fats": "\n66.0 ",
+        "carbohydrates": "\n264 "
+    },
+    {
+        "title": "Изюм кишмиш",
+        "calories": "\n2.3 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n71.2 ",
+        "carbohydrates": "\n279 "
+    },
+    {
+        "title": "Изюм узбекский золотистый",
+        "calories": "\n1.8 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n70.9 ",
+        "carbohydrates": "\n291 "
+    },
+    {
+        "title": "Изюм узбекский чёрный",
+        "calories": "\n1.8 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n70.9 ",
+        "carbohydrates": "\n291 "
+    },
+    {
+        "title": "Инжир сушеный",
+        "calories": "\n3.1 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n57.9 ",
+        "carbohydrates": "\n257 "
+    },
+    {
+        "title": "Какао-бобы",
+        "calories": "\n12.8 ",
+        "proteins": "\n53.1 ",
+        "fats": "\n9.5 ",
+        "carbohydrates": "\n565 "
+    },
+    {
+        "title": "Каштан жареный",
+        "calories": "\n3.2 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n33.8 ",
+        "carbohydrates": "\n182 "
+    },
+    {
+        "title": "Каштан консервированный",
+        "calories": "\n3.4 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n50.0 ",
+        "carbohydrates": "\n213 "
+    },
+    {
+        "title": "Каштан свежий",
+        "calories": "\n3.4 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n30.6 ",
+        "carbohydrates": "\n166 "
+    },
+    {
+        "title": "Кедровые орехи",
+        "calories": "\n15.6 ",
+        "proteins": "\n56.0 ",
+        "fats": "\n28.4 ",
+        "carbohydrates": "\n680 "
+    },
+    {
+        "title": "Кедровый жмых",
+        "calories": "\n31.0 ",
+        "proteins": "\n19.0 ",
+        "fats": "\n33.0 ",
+        "carbohydrates": "\n432 "
+    },
+    {
+        "title": "Кешью жареный",
+        "calories": "\n17.5 ",
+        "proteins": "\n42.2 ",
+        "fats": "\n30.5 ",
+        "carbohydrates": "\n572 "
+    },
+    {
+        "title": "Кешью необжаренный",
+        "calories": "\n17.5 ",
+        "proteins": "\n42.5 ",
+        "fats": "\n30.5 ",
+        "carbohydrates": "\n572 "
+    },
+    {
+        "title": "Клюква сушеная",
+        "calories": "\n0.1 ",
+        "proteins": "\n1.4 ",
+        "fats": "\n76.5 ",
+        "carbohydrates": "\n308 "
+    },
+    {
+        "title": "Кокосовый орех",
+        "calories": "\n3.4 ",
+        "proteins": "\n33.5 ",
+        "fats": "\n6.2 ",
+        "carbohydrates": "\n354 "
+    },
+    {
+        "title": "Коктейль орехи и сухофрукты",
+        "calories": "\n11.2 ",
+        "proteins": "\n27.9 ",
+        "fats": "\n46.6 ",
+        "carbohydrates": "\n483 "
+    },
+    {
+        "title": "Кумкват сушёный",
+        "calories": "\n3.8 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n80.1 ",
+        "carbohydrates": "\n284 "
+    },
+    {
+        "title": "Кунжут",
+        "calories": "\n19.4 ",
+        "proteins": "\n48.7 ",
+        "fats": "\n12.2 ",
+        "carbohydrates": "\n565 "
+    },
+    {
+        "title": "Кунжут чёрный",
+        "calories": "\n19.4 ",
+        "proteins": "\n48.4 ",
+        "fats": "\n12.2 ",
+        "carbohydrates": "\n565 "
+    },
+    {
+        "title": "Курага",
+        "calories": "\n5.2 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n51.0 ",
+        "carbohydrates": "\n215 "
+    },
+    {
+        "title": "Мак",
+        "calories": "\n17.5 ",
+        "proteins": "\n47.5 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n505 "
+    },
+    {
+        "title": "Мак пищевой Националь",
+        "calories": "\n18.0 ",
+        "proteins": "\n48.0 ",
+        "fats": "\n15.0 ",
+        "carbohydrates": "\n560 "
+    },
+    {
+        "title": "Малина сублимированная",
+        "calories": "\n5.1 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n63.2 ",
+        "carbohydrates": "\n275 "
+    },
+    {
+        "title": "Манго сушёный",
+        "calories": "\n1.5 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n81.6 ",
+        "carbohydrates": "\n314 "
+    },
+    {
+        "title": "Миндаль обезжиренный (миндальный жмых)",
+        "calories": "\n37.9 ",
+        "proteins": "\n18.8 ",
+        "fats": "\n37.7 ",
+        "carbohydrates": "\n418 "
+    },
+    {
+        "title": "Миндаль сладкий",
+        "calories": "\n18.6 ",
+        "proteins": "\n57.7 ",
+        "fats": "\n16.2 ",
+        "carbohydrates": "\n645 "
+    },
+    {
+        "title": "Миндальные лепестки",
+        "calories": "\n22.0 ",
+        "proteins": "\n58.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n650 "
+    },
+    {
+        "title": "Орех кола",
+        "calories": "\n7.9 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n5.2 ",
+        "carbohydrates": "\n150 "
+    },
+    {
+        "title": "Орех кукуи",
+        "calories": "\n7.9 ",
+        "proteins": "\n75.8 ",
+        "fats": "\n5.2 ",
+        "carbohydrates": "\n620 "
+    },
+    {
+        "title": "Орех лещина",
+        "calories": "\n13.1 ",
+        "proteins": "\n62.6 ",
+        "fats": "\n9.3 ",
+        "carbohydrates": "\n653 "
+    },
+    {
+        "title": "Орех макадамия",
+        "calories": "\n7.9 ",
+        "proteins": "\n75.8 ",
+        "fats": "\n5.2 ",
+        "carbohydrates": "\n718 "
+    },
+    {
+        "title": "Орех пекан",
+        "calories": "\n9.2 ",
+        "proteins": "\n72.0 ",
+        "fats": "\n4.3 ",
+        "carbohydrates": "\n691 "
+    },
+    {
+        "title": "Орех пили",
+        "calories": "\n10.8 ",
+        "proteins": "\n79.6 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n719 "
+    },
+    {
+        "title": "Орех сейшельский Коко-де-мер",
+        "calories": "\n3.3 ",
+        "proteins": "\n33.5 ",
+        "fats": "\n6.2 ",
+        "carbohydrates": "\n354 "
+    },
+    {
+        "title": "Орех чилим",
+        "calories": "\n11.9 ",
+        "proteins": "\n3.4 ",
+        "fats": "\n55.4 ",
+        "carbohydrates": "\n200 "
+    },
+    {
+        "title": "Орехи",
+        "calories": "\n15.0 ",
+        "proteins": "\n40.0 ",
+        "fats": "\n20.0 ",
+        "carbohydrates": "\n500 "
+    },
+    {
+        "title": "Персик сушёный",
+        "calories": "\n3.0 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n57.7 ",
+        "carbohydrates": "\n254 "
+    },
+    {
+        "title": "Плоды дерева ши (карите)",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Рапс",
+        "calories": "\n30.8 ",
+        "proteins": "\n43.6 ",
+        "fats": "\n7.2 ",
+        "carbohydrates": "\n544 "
+    },
+    {
+        "title": "Семена горчицы",
+        "calories": "\n25.8 ",
+        "proteins": "\n30.8 ",
+        "fats": "\n23.4 ",
+        "carbohydrates": "\n474 "
+    },
+    {
+        "title": "Семена конопли",
+        "calories": "\n20.0 ",
+        "proteins": "\n32.5 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n429 "
+    },
+    {
+        "title": "Семена льна",
+        "calories": "\n18.3 ",
+        "proteins": "\n42.2 ",
+        "fats": "\n28.9 ",
+        "carbohydrates": "\n534 "
+    },
+    {
+        "title": "Семена льна Ваше здоровье",
+        "calories": "\n18.3 ",
+        "proteins": "\n42.2 ",
+        "fats": "\n1.6 ",
+        "carbohydrates": "\n459 "
+    },
+    {
+        "title": "Семена пажитника",
+        "calories": "\n23.0 ",
+        "proteins": "\n6.4 ",
+        "fats": "\n58.3 ",
+        "carbohydrates": "\n323 "
+    },
+    {
+        "title": "Семена укропа",
+        "calories": "\n16.0 ",
+        "proteins": "\n14.5 ",
+        "fats": "\n55.1 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Семена фенхеля",
+        "calories": "\n15.8 ",
+        "proteins": "\n14.8 ",
+        "fats": "\n52.3 ",
+        "carbohydrates": "\n345 "
+    },
+    {
+        "title": "Семена чиа",
+        "calories": "\n16.5 ",
+        "proteins": "\n30.7 ",
+        "fats": "\n42.1 ",
+        "carbohydrates": "\n512 "
+    },
+    {
+        "title": "Семечки дынные",
+        "calories": "\n17.6 ",
+        "proteins": "\n47.3 ",
+        "fats": "\n14.6 ",
+        "carbohydrates": "\n555 "
+    },
+    {
+        "title": "Семечки подсолнечника",
+        "calories": "\n20.7 ",
+        "proteins": "\n52.9 ",
+        "fats": "\n3.4 ",
+        "carbohydrates": "\n578 "
+    },
+    {
+        "title": "Семечки тыквенные",
+        "calories": "\n24.5 ",
+        "proteins": "\n45.8 ",
+        "fats": "\n4.7 ",
+        "carbohydrates": "\n556 "
+    },
+    {
+        "title": "Смесь из семян для салата ВкусВилл",
+        "calories": "\n23.0 ",
+        "proteins": "\n49.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n573 "
+    },
+    {
+        "title": "Смесь ореховая Молодёжная Белый Пеликан",
+        "calories": "\n10.0 ",
+        "proteins": "\n23.3 ",
+        "fats": "\n52.5 ",
+        "carbohydrates": "\n460 "
+    },
+    {
+        "title": "Смесь сухофрукты и орехи Красная цена",
+        "calories": "\n13.5 ",
+        "proteins": "\n6.1 ",
+        "fats": "\n29.4 ",
+        "carbohydrates": "\n590 "
+    },
+    {
+        "title": "Урюк",
+        "calories": "\n5.0 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n50.6 ",
+        "carbohydrates": "\n213 "
+    },
+    {
+        "title": "Финики",
+        "calories": "\n2.5 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n69.2 ",
+        "carbohydrates": "\n274 "
+    },
+    {
+        "title": "Финики с косточкой Ritmix",
+        "calories": "\n3.5 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n68.0 ",
+        "carbohydrates": "\n290 "
+    },
+    {
+        "title": "Фисташки",
+        "calories": "\n20.0 ",
+        "proteins": "\n50.0 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n556 "
+    },
+    {
+        "title": "Фундук",
+        "calories": "\n16.1 ",
+        "proteins": "\n66.9 ",
+        "fats": "\n9.9 ",
+        "carbohydrates": "\n704 "
+    },
+    {
+        "title": "Хурма вяленая",
+        "calories": "\n1.7 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n58.9 ",
+        "carbohydrates": "\n242 "
+    },
+    {
+        "title": "Цукаты (смесь кубиков ананаса и папайи)",
+        "calories": "\n2.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n71.0 ",
+        "carbohydrates": "\n301 "
+    },
+    {
+        "title": "Цукаты ананас и папайя Каждый день",
+        "calories": "\n5.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n82.0 ",
+        "carbohydrates": "\n360 "
+    },
+    {
+        "title": "Цукаты из ананаса",
+        "calories": "\n1.7 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n17.9 ",
+        "carbohydrates": "\n91 "
+    },
+    {
+        "title": "Цукаты из апельсина",
+        "calories": "\n2.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n71.0 ",
+        "carbohydrates": "\n301 "
+    },
+    {
+        "title": "Цукаты из арбузных корок",
+        "calories": "\n2.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n51.0 ",
+        "carbohydrates": "\n209 "
+    }
+]

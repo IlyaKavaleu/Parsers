@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Десерт итальянский Флоренция карамельный",
+        "calories": "\n3.6 ",
+        "proteins": "\n17.2 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n376 "
+    },
+    {
+        "title": "Торт Ассорти",
+        "calories": "\n4.7 ",
+        "proteins": "\n14.9 ",
+        "fats": "\n36.1 ",
+        "carbohydrates": "\n294 "
+    },
+    {
+        "title": "Торт Банкетный",
+        "calories": "\n3.9 ",
+        "proteins": "\n19.5 ",
+        "fats": "\n45.3 ",
+        "carbohydrates": "\n367 "
+    },
+    {
+        "title": "Торт Вензель мастера",
+        "calories": "\n5.0 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n38.1 ",
+        "carbohydrates": "\n274 "
+    },
+    {
+        "title": "Торт Верона",
+        "calories": "\n5.0 ",
+        "proteins": "\n19.8 ",
+        "fats": "\n39.3 ",
+        "carbohydrates": "\n350 "
+    },
+    {
+        "title": "Торт Вивальди",
+        "calories": "\n4.3 ",
+        "proteins": "\n12.8 ",
+        "fats": "\n52.6 ",
+        "carbohydrates": "\n340 "
+    },
+    {
+        "title": "Торт Вишнёвый сад",
+        "calories": "\n3.0 ",
+        "proteins": "\n15.6 ",
+        "fats": "\n36.2 ",
+        "carbohydrates": "\n298 "
+    },
+    {
+        "title": "Торт Домашний с абрикосом",
+        "calories": "\n4.5 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n49.5 ",
+        "carbohydrates": "\n351 "
+    },
+    {
+        "title": "Торт Ёжик",
+        "calories": "\n4.1 ",
+        "proteins": "\n25.0 ",
+        "fats": "\n50.9 ",
+        "carbohydrates": "\n445 "
+    },
+    {
+        "title": "Торт Зигзаг",
+        "calories": "\n6.2 ",
+        "proteins": "\n16.8 ",
+        "fats": "\n37.2 ",
+        "carbohydrates": "\n311 "
+    },
+    {
+        "title": "Торт Зимняя вишня",
+        "calories": "\n3.1 ",
+        "proteins": "\n6.1 ",
+        "fats": "\n55.5 ",
+        "carbohydrates": "\n282 "
+    },
+    {
+        "title": "Торт Золотой ключик",
+        "calories": "\n5.4 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n49.2 ",
+        "carbohydrates": "\n357 "
+    },
+    {
+        "title": "Торт Изабелла",
+        "calories": "\n4.6 ",
+        "proteins": "\n18.6 ",
+        "fats": "\n26.5 ",
+        "carbohydrates": "\n291 "
+    },
+    {
+        "title": "Торт Искушение",
+        "calories": "\n7.6 ",
+        "proteins": "\n21.4 ",
+        "fats": "\n59.9 ",
+        "carbohydrates": "\n442 "
+    },
+    {
+        "title": "Торт Йогуртовый с клюквой",
+        "calories": "\n2.5 ",
+        "proteins": "\n10.1 ",
+        "fats": "\n35.4 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Торт К торжеству",
+        "calories": "\n3.8 ",
+        "proteins": "\n17.6 ",
+        "fats": "\n45.2 ",
+        "carbohydrates": "\n349 "
+    },
+    {
+        "title": "Торт Карамелия",
+        "calories": "\n4.9 ",
+        "proteins": "\n26.8 ",
+        "fats": "\n53.1 ",
+        "carbohydrates": "\n471 "
+    },
+    {
+        "title": "Торт Карамельный Mirel на сгущенке",
+        "calories": "\n4.0 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n44.0 ",
+        "carbohydrates": "\n320 "
+    },
+    {
+        "title": "Торт Кариока",
+        "calories": "\n6.7 ",
+        "proteins": "\n20.5 ",
+        "fats": "\n47.4 ",
+        "carbohydrates": "\n401 "
+    },
+    {
+        "title": "Торт Карусель",
+        "calories": "\n12.9 ",
+        "proteins": "\n24.9 ",
+        "fats": "\n35.2 ",
+        "carbohydrates": "\n416 "
+    },
+    {
+        "title": "Торт Королевский орех",
+        "calories": "\n7.7 ",
+        "proteins": "\n27.5 ",
+        "fats": "\n29.5 ",
+        "carbohydrates": "\n396 "
+    },
+    {
+        "title": "Торт Космический",
+        "calories": "\n6.6 ",
+        "proteins": "\n27.6 ",
+        "fats": "\n58.6 ",
+        "carbohydrates": "\n462 "
+    },
+    {
+        "title": "Торт Крем-брюле",
+        "calories": "\n5.4 ",
+        "proteins": "\n13.4 ",
+        "fats": "\n36.5 ",
+        "carbohydrates": "\n285 "
+    },
+    {
+        "title": "Торт Крем-Брюле Mirel",
+        "calories": "\n3.7 ",
+        "proteins": "\n12.4 ",
+        "fats": "\n39.7 ",
+        "carbohydrates": "\n285 "
+    },
+    {
+        "title": "Торт Крепвиль Бель Шерри",
+        "calories": "\n2.9 ",
+        "proteins": "\n15.5 ",
+        "fats": "\n35.7 ",
+        "carbohydrates": "\n297 "
+    },
+    {
+        "title": "Торт Крепвиль Ле Нуар",
+        "calories": "\n3.4 ",
+        "proteins": "\n17.9 ",
+        "fats": "\n36.1 ",
+        "carbohydrates": "\n322 "
+    },
+    {
+        "title": "Торт Крепвиль Ля Форте",
+        "calories": "\n2.9 ",
+        "proteins": "\n15.5 ",
+        "fats": "\n35.3 ",
+        "carbohydrates": "\n296 "
+    },
+    {
+        "title": "Торт Крепвиль Шаттери",
+        "calories": "\n2.9 ",
+        "proteins": "\n16.5 ",
+        "fats": "\n36.4 ",
+        "carbohydrates": "\n310 "
+    },
+    {
+        "title": "Торт Легенда осени",
+        "calories": "\n3.9 ",
+        "proteins": "\n13.7 ",
+        "fats": "\n39.2 ",
+        "carbohydrates": "\n289 "
+    },
+    {
+        "title": "Торт Ленинградский",
+        "calories": "\n4.3 ",
+        "proteins": "\n23.6 ",
+        "fats": "\n57.9 ",
+        "carbohydrates": "\n454 "
+    },
+    {
+        "title": "Торт Лесной гость",
+        "calories": "\n4.1 ",
+        "proteins": "\n21.7 ",
+        "fats": "\n43.0 ",
+        "carbohydrates": "\n377 "
+    },
+    {
+        "title": "Торт Лилия",
+        "calories": "\n3.8 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n47.9 ",
+        "carbohydrates": "\n328 "
+    },
+    {
+        "title": "Торт Маковый",
+        "calories": "\n11.4 ",
+        "proteins": "\n37.4 ",
+        "fats": "\n40.2 ",
+        "carbohydrates": "\n543 "
+    },
+    {
+        "title": "Торт Малиновый",
+        "calories": "\n6.1 ",
+        "proteins": "\n24.2 ",
+        "fats": "\n37.8 ",
+        "carbohydrates": "\n411 "
+    },
+    {
+        "title": "Торт Малиновый рай",
+        "calories": "\n3.2 ",
+        "proteins": "\n17.8 ",
+        "fats": "\n48.1 ",
+        "carbohydrates": "\n365 "
+    },
+    {
+        "title": "Торт Маска",
+        "calories": "\n4.7 ",
+        "proteins": "\n16.3 ",
+        "fats": "\n49.7 ",
+        "carbohydrates": "\n357 "
+    },
+    {
+        "title": "Торт Медовая сказка",
+        "calories": "\n6.4 ",
+        "proteins": "\n24.8 ",
+        "fats": "\n54.7 ",
+        "carbohydrates": "\n467 "
+    },
+    {
+        "title": "Торт Медовая фантазия с грецким орехом",
+        "calories": "\n3.3 ",
+        "proteins": "\n23.8 ",
+        "fats": "\n58.3 ",
+        "carbohydrates": "\n460 "
+    },
+    {
+        "title": "Торт Медовая фантазия с грушей",
+        "calories": "\n3.1 ",
+        "proteins": "\n18.2 ",
+        "fats": "\n54.1 ",
+        "carbohydrates": "\n392 "
+    },
+    {
+        "title": "Торт Медовая фантазия с черносливом",
+        "calories": "\n3.1 ",
+        "proteins": "\n22.2 ",
+        "fats": "\n57.6 ",
+        "carbohydrates": "\n441 "
+    },
+    {
+        "title": "Торт Медовик",
+        "calories": "\n6.0 ",
+        "proteins": "\n29.0 ",
+        "fats": "\n48.9 ",
+        "carbohydrates": "\n478 "
+    },
+    {
+        "title": "Торт Медовый от Палыча",
+        "calories": "\n5.4 ",
+        "proteins": "\n26.3 ",
+        "fats": "\n42.4 ",
+        "carbohydrates": "\n428 "
+    },
+    {
+        "title": "Торт Миндальный замороженный Вкусвилл",
+        "calories": "\n9.8 ",
+        "proteins": "\n22.4 ",
+        "fats": "\n38.8 ",
+        "carbohydrates": "\n396 "
+    },
+    {
+        "title": "Торт на фруктозе вишневый",
+        "calories": "\n2.9 ",
+        "proteins": "\n16.7 ",
+        "fats": "\n53.8 ",
+        "carbohydrates": "\n377 "
+    },
+    {
+        "title": "Торт на фруктозе с крыжовником",
+        "calories": "\n2.9 ",
+        "proteins": "\n16.6 ",
+        "fats": "\n54.5 ",
+        "carbohydrates": "\n379 "
+    },
+    {
+        "title": "Торт на фруктозе с курагой",
+        "calories": "\n3.1 ",
+        "proteins": "\n16.7 ",
+        "fats": "\n55.2 ",
+        "carbohydrates": "\n384 "
+    },
+    {
+        "title": "Торт Наполеон от Палыча",
+        "calories": "\n5.9 ",
+        "proteins": "\n32.7 ",
+        "fats": "\n23.8 ",
+        "carbohydrates": "\n413 "
+    },
+    {
+        "title": "Торт Наполеон Черёмушки",
+        "calories": "\n6.4 ",
+        "proteins": "\n42.2 ",
+        "fats": "\n38.7 ",
+        "carbohydrates": "\n558 "
+    },
+    {
+        "title": "Торт Натюрморт",
+        "calories": "\n4.2 ",
+        "proteins": "\n14.7 ",
+        "fats": "\n48.4 ",
+        "carbohydrates": "\n341 "
+    },
+    {
+        "title": "Торт Нежный от Палыча",
+        "calories": "\n7.7 ",
+        "proteins": "\n28.5 ",
+        "fats": "\n49.7 ",
+        "carbohydrates": "\n486 "
+    },
+    {
+        "title": "Торт Нюанс",
+        "calories": "\n11.7 ",
+        "proteins": "\n23.8 ",
+        "fats": "\n34.3 ",
+        "carbohydrates": "\n413 "
+    },
+    {
+        "title": "Торт Ореховый от Палыча",
+        "calories": "\n8.5 ",
+        "proteins": "\n32.4 ",
+        "fats": "\n42.7 ",
+        "carbohydrates": "\n496 "
+    },
+    {
+        "title": "Торт От всей души",
+        "calories": "\n3.5 ",
+        "proteins": "\n13.6 ",
+        "fats": "\n48.3 ",
+        "carbohydrates": "\n324 "
+    },
+    {
+        "title": "Торт Отелло",
+        "calories": "\n5.9 ",
+        "proteins": "\n15.4 ",
+        "fats": "\n55.9 ",
+        "carbohydrates": "\n379 "
+    },
+    {
+        "title": "Торт Панчо",
+        "calories": "\n5.6 ",
+        "proteins": "\n13.1 ",
+        "fats": "\n33.5 ",
+        "carbohydrates": "\n270 "
+    },
+    {
+        "title": "Торт Персидская ночь",
+        "calories": "\n6.4 ",
+        "proteins": "\n27.3 ",
+        "fats": "\n53.4 ",
+        "carbohydrates": "\n478 "
+    },
+    {
+        "title": "Торт Пирамида",
+        "calories": "\n4.5 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n34.5 ",
+        "carbohydrates": "\n284 "
+    },
+    {
+        "title": "Торт Подарочный",
+        "calories": "\n6.6 ",
+        "proteins": "\n21.5 ",
+        "fats": "\n43.6 ",
+        "carbohydrates": "\n388 "
+    },
+    {
+        "title": "Торт Полено",
+        "calories": "\n2.6 ",
+        "proteins": "\n17.8 ",
+        "fats": "\n50.6 ",
+        "carbohydrates": "\n354 "
+    },
+    {
+        "title": "Торт Полёт",
+        "calories": "\n5.7 ",
+        "proteins": "\n24.8 ",
+        "fats": "\n55.4 ",
+        "carbohydrates": "\n456 "
+    },
+    {
+        "title": "Торт Постный апельсиновый",
+        "calories": "\n5.5 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n145 "
+    },
+    {
+        "title": "Торт Постный с лимоном и малиной",
+        "calories": "\n5.5 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n145 "
+    },
+    {
+        "title": "Торт Постный с морковью и ананасами",
+        "calories": "\n5.5 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n145 "
+    },
+    {
+        "title": "Торт Постный с морковью и мандаринами",
+        "calories": "\n5.5 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n145 "
+    },
+    {
+        "title": "Торт Постный с орехами",
+        "calories": "\n6.2 ",
+        "proteins": "\n9.1 ",
+        "fats": "\n13.0 ",
+        "carbohydrates": "\n159 "
+    },
+    {
+        "title": "Торт Постный свекольный",
+        "calories": "\n5.5 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n145 "
+    },
+    {
+        "title": "Торт Постный ягодный",
+        "calories": "\n5.5 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n145 "
+    },
+    {
+        "title": "Торт Прага Арт-Торт",
+        "calories": "\n4.2 ",
+        "proteins": "\n12.9 ",
+        "fats": "\n47.5 ",
+        "carbohydrates": "\n345 "
+    },
+    {
+        "title": "Торт Прага от Палыча",
+        "calories": "\n4.6 ",
+        "proteins": "\n26.5 ",
+        "fats": "\n65.1 ",
+        "carbohydrates": "\n517 "
+    },
+    {
+        "title": "Торт Прага Черёмушки",
+        "calories": "\n7.2 ",
+        "proteins": "\n24.3 ",
+        "fats": "\n42.0 ",
+        "carbohydrates": "\n411 "
+    },
+    {
+        "title": "Торт Прелесть Черемушки",
+        "calories": "\n3.9 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n48.3 ",
+        "carbohydrates": "\n417 "
+    },
+    {
+        "title": "Торт Птичка",
+        "calories": "\n3.0 ",
+        "proteins": "\n17.8 ",
+        "fats": "\n62.6 ",
+        "carbohydrates": "\n412 "
+    },
+    {
+        "title": "Торт Птичка от Палыча ассорти",
+        "calories": "\n4.3 ",
+        "proteins": "\n20.3 ",
+        "fats": "\n53.9 ",
+        "carbohydrates": "\n416 "
+    },
+    {
+        "title": "Торт Птичка от Палыча классическая",
+        "calories": "\n3.2 ",
+        "proteins": "\n16.9 ",
+        "fats": "\n54.4 ",
+        "carbohydrates": "\n383 "
+    },
+    {
+        "title": "Торт Птичка от Палыча крем-брюле",
+        "calories": "\n4.1 ",
+        "proteins": "\n21.1 ",
+        "fats": "\n48.4 ",
+        "carbohydrates": "\n400 "
+    },
+    {
+        "title": "Торт Птичка от Палыча с халвой и мармеладом",
+        "calories": "\n5.5 ",
+        "proteins": "\n24.5 ",
+        "fats": "\n59.2 ",
+        "carbohydrates": "\n479 "
+    },
+    {
+        "title": "Торт Птичьи голоса",
+        "calories": "\n3.6 ",
+        "proteins": "\n23.8 ",
+        "fats": "\n55.5 ",
+        "carbohydrates": "\n435 "
+    },
+    {
+        "title": "Торт Радость",
+        "calories": "\n3.7 ",
+        "proteins": "\n16.1 ",
+        "fats": "\n48.5 ",
+        "carbohydrates": "\n344 "
+    },
+    {
+        "title": "Торт Райский сад",
+        "calories": "\n3.3 ",
+        "proteins": "\n8.7 ",
+        "fats": "\n43.4 ",
+        "carbohydrates": "\n264 "
+    },
+    {
+        "title": "Торт Роза",
+        "calories": "\n4.0 ",
+        "proteins": "\n18.1 ",
+        "fats": "\n59.7 ",
+        "carbohydrates": "\n404 "
+    }
+]

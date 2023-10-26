@@ -1,0 +1,345 @@
+[
+    {
+        "title": "Мороженое Dove Vanilla",
+        "calories": "\n3.8 ",
+        "proteins": "\n21.7 ",
+        "fats": "\n30.5 ",
+        "carbohydrates": "\n333 "
+    },
+    {
+        "title": "Мороженое Nestle Extreme Пломбир с чёрной смородиной",
+        "calories": "\n2.6 ",
+        "proteins": "\n12.6 ",
+        "fats": "\n35.5 ",
+        "carbohydrates": "\n262 "
+    },
+    {
+        "title": "Мороженое Nestle Extreme Тропик",
+        "calories": "\n2.4 ",
+        "proteins": "\n7.5 ",
+        "fats": "\n39.0 ",
+        "carbohydrates": "\n236 "
+    },
+    {
+        "title": "Мороженое Nestle Maxibon с печеньем и орехами",
+        "calories": "\n3.6 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n39.2 ",
+        "carbohydrates": "\n307 "
+    },
+    {
+        "title": "Мороженое Nestle Maxibon Страчателла",
+        "calories": "\n3.6 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n39.4 ",
+        "carbohydrates": "\n307 "
+    },
+    {
+        "title": "Мороженое Viva la Crema Грецкий орех",
+        "calories": "\n4.1 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n27.1 ",
+        "carbohydrates": "\n245 "
+    },
+    {
+        "title": "Мороженое Viva la Crema Лесная ягода",
+        "calories": "\n3.2 ",
+        "proteins": "\n8.2 ",
+        "fats": "\n29.4 ",
+        "carbohydrates": "\n205 "
+    },
+    {
+        "title": "Мороженое Viva la Crema Персик-маракуйя",
+        "calories": "\n3.3 ",
+        "proteins": "\n8.4 ",
+        "fats": "\n29.7 ",
+        "carbohydrates": "\n209 "
+    },
+    {
+        "title": "Мороженое Viva la Crema Тартюфо",
+        "calories": "\n3.9 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n27.7 ",
+        "carbohydrates": "\n243 "
+    },
+    {
+        "title": "Мороженое Viva la Crema Трюфель",
+        "calories": "\n2.5 ",
+        "proteins": "\n9.6 ",
+        "fats": "\n27.6 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Мороженое Viva la Crema Фисташковое",
+        "calories": "\n4.1 ",
+        "proteins": "\n13.9 ",
+        "fats": "\n24.6 ",
+        "carbohydrates": "\n239 "
+    },
+    {
+        "title": "Мороженое Viva la Crema Шварцвальдская вишня",
+        "calories": "\n1.7 ",
+        "proteins": "\n16.4 ",
+        "fats": "\n29.7 ",
+        "carbohydrates": "\n273 "
+    },
+    {
+        "title": "Мороженое АйсКро Сорбет Малина-Чили",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n5.9 ",
+        "carbohydrates": "\n25 "
+    },
+    {
+        "title": "Мороженое Вологодский пломбир",
+        "calories": "\n3.7 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n23.0 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Мороженое Вологодский пломбир шоколадный в стаканчике",
+        "calories": "\n4.0 ",
+        "proteins": "\n11.5 ",
+        "fats": "\n22.0 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Мороженое Инмарко Золотой стандарт пломбир",
+        "calories": "\n3.9 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n20.4 ",
+        "carbohydrates": "\n232 "
+    },
+    {
+        "title": "Мороженое Инмарко Торжество пломбир натуральные сливки",
+        "calories": "\n3.9 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n20.4 ",
+        "carbohydrates": "\n232 "
+    },
+    {
+        "title": "Мороженое Инмарко Торжество Птичье молоко",
+        "calories": "\n3.7 ",
+        "proteins": "\n12.9 ",
+        "fats": "\n30.0 ",
+        "carbohydrates": "\n251 "
+    },
+    {
+        "title": "Мороженое Инмарко Торжество с клубничным чизкейком",
+        "calories": "\n3.9 ",
+        "proteins": "\n8.3 ",
+        "fats": "\n29.3 ",
+        "carbohydrates": "\n208 "
+    },
+    {
+        "title": "Мороженое Магнат Брюнетка",
+        "calories": "\n4.3 ",
+        "proteins": "\n17.4 ",
+        "fats": "\n29.9 ",
+        "carbohydrates": "\n293 "
+    },
+    {
+        "title": "Мороженое Магнат Мадагаскар тёмный шоколад",
+        "calories": "\n4.0 ",
+        "proteins": "\n18.5 ",
+        "fats": "\n26.1 ",
+        "carbohydrates": "\n287 "
+    },
+    {
+        "title": "Мороженое Магнат пломбир",
+        "calories": "\n4.3 ",
+        "proteins": "\n20.1 ",
+        "fats": "\n26.7 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Мороженое молочное",
+        "calories": "\n3.2 ",
+        "proteins": "\n3.5 ",
+        "fats": "\n21.3 ",
+        "carbohydrates": "\n126 "
+    },
+    {
+        "title": "Мороженое молочное клубничное",
+        "calories": "\n3.8 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n22.2 ",
+        "carbohydrates": "\n123 "
+    },
+    {
+        "title": "Мороженое молочное крем-брюле",
+        "calories": "\n3.5 ",
+        "proteins": "\n3.5 ",
+        "fats": "\n23.1 ",
+        "carbohydrates": "\n134 "
+    },
+    {
+        "title": "Мороженое молочное ореховое",
+        "calories": "\n5.4 ",
+        "proteins": "\n6.5 ",
+        "fats": "\n20.1 ",
+        "carbohydrates": "\n157 "
+    },
+    {
+        "title": "Мороженое молочное шоколадное",
+        "calories": "\n4.2 ",
+        "proteins": "\n3.5 ",
+        "fats": "\n23.0 ",
+        "carbohydrates": "\n138 "
+    },
+    {
+        "title": "Мороженое От Деда Мороза ванильное и клубничное с клубничным джемом",
+        "calories": "\n2.9 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n21.6 ",
+        "carbohydrates": "\n179 "
+    },
+    {
+        "title": "Мороженое пломбир",
+        "calories": "\n3.2 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n20.8 ",
+        "carbohydrates": "\n227 "
+    },
+    {
+        "title": "Мороженое пломбир крем-брюле",
+        "calories": "\n3.0 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n23.0 ",
+        "carbohydrates": "\n235 "
+    },
+    {
+        "title": "Мороженое пломбир ореховый",
+        "calories": "\n5.2 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n19.9 ",
+        "carbohydrates": "\n259 "
+    },
+    {
+        "title": "Мороженое пломбир шоколадный",
+        "calories": "\n3.6 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n22.3 ",
+        "carbohydrates": "\n236 "
+    },
+    {
+        "title": "Мороженое Русский Холодъ Золотой пломбир",
+        "calories": "\n3.8 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n20.4 ",
+        "carbohydrates": "\n205 "
+    },
+    {
+        "title": "Мороженое Русский Холодъ Юбилейное ванильное",
+        "calories": "\n3.7 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n20.4 ",
+        "carbohydrates": "\n204 "
+    },
+    {
+        "title": "Мороженое Русский Холодъ Юбилейное эскимо без глазури",
+        "calories": "\n3.7 ",
+        "proteins": "\n13.2 ",
+        "fats": "\n20.4 ",
+        "carbohydrates": "\n215 "
+    },
+    {
+        "title": "Мороженое Светаево пломбир ванильный в вафлях",
+        "calories": "\n3.7 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n23.0 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Мороженое Светаево пломбир Крем-брюле",
+        "calories": "\n3.0 ",
+        "proteins": "\n25.0 ",
+        "fats": "\n15.0 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Мороженое Светаево пломбир Черника",
+        "calories": "\n3.0 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Мороженое сливочное",
+        "calories": "\n3.3 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n19.8 ",
+        "carbohydrates": "\n179 "
+    },
+    {
+        "title": "Мороженое сливочное клубничное",
+        "calories": "\n3.8 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n20.9 ",
+        "carbohydrates": "\n165 "
+    },
+    {
+        "title": "Мороженое сливочное крем-брюле",
+        "calories": "\n3.5 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n21.6 ",
+        "carbohydrates": "\n186 "
+    },
+    {
+        "title": "Мороженое сливочное ореховое",
+        "calories": "\n5.5 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n18.6 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Мороженое сливочное шоколадное",
+        "calories": "\n3.5 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n21.5 ",
+        "carbohydrates": "\n188 "
+    },
+    {
+        "title": "Мороженое Талосто Ля Фам крем-брюле",
+        "calories": "\n4.5 ",
+        "proteins": "\n13.7 ",
+        "fats": "\n32.0 ",
+        "carbohydrates": "\n262 "
+    },
+    {
+        "title": "Мороженое Фифти-фифти Птичье молоко",
+        "calories": "\n9.6 ",
+        "proteins": "\n10.8 ",
+        "fats": "\n19.4 ",
+        "carbohydrates": "\n213 "
+    },
+    {
+        "title": "Мороженое Чистая Линия Cемейное пломбир ванильное",
+        "calories": "\n3.7 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n20.5 ",
+        "carbohydrates": "\n205 "
+    },
+    {
+        "title": "Мороженое Экзо Арбуз и дыня",
+        "calories": "\n1.9 ",
+        "proteins": "\n3.9 ",
+        "fats": "\n28.7 ",
+        "carbohydrates": "\n166 "
+    },
+    {
+        "title": "Мороженое Экзо Черника и ежевика",
+        "calories": "\n1.9 ",
+        "proteins": "\n3.9 ",
+        "fats": "\n28.7 ",
+        "carbohydrates": "\n166 "
+    },
+    {
+        "title": "Мороженое эскимо",
+        "calories": "\n3.5 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n19.6 ",
+        "carbohydrates": "\n270 "
+    }
+]

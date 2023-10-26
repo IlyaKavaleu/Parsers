@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Багель",
+        "calories": "\n7.9 ",
+        "proteins": "\n9.4 ",
+        "fats": "\n55.5 ",
+        "carbohydrates": "\n339 "
+    },
+    {
+        "title": "Багет",
+        "calories": "\n7.5 ",
+        "proteins": "\n2.9 ",
+        "fats": "\n51.4 ",
+        "carbohydrates": "\n262 "
+    },
+    {
+        "title": "Багет мини с отрубями",
+        "calories": "\n6.4 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n39.1 ",
+        "carbohydrates": "\n189 "
+    },
+    {
+        "title": "Багет чесночный",
+        "calories": "\n7.5 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n49.0 ",
+        "carbohydrates": "\n360 "
+    },
+    {
+        "title": "Баранки",
+        "calories": "\n16.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n70.0 ",
+        "carbohydrates": "\n336 "
+    },
+    {
+        "title": "Батард ржаной",
+        "calories": "\n7.9 ",
+        "proteins": "\n1.8 ",
+        "fats": "\n49.7 ",
+        "carbohydrates": "\n250 "
+    },
+    {
+        "title": "Батон Нарезной",
+        "calories": "\n7.5 ",
+        "proteins": "\n2.9 ",
+        "fats": "\n50.9 ",
+        "carbohydrates": "\n264 "
+    },
+    {
+        "title": "Батон Подмосковный",
+        "calories": "\n7.5 ",
+        "proteins": "\n2.6 ",
+        "fats": "\n50.6 ",
+        "carbohydrates": "\n261 "
+    },
+    {
+        "title": "Батон Пышный Зерновая коллекция",
+        "calories": "\n8.0 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n44.0 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Батон с пшеничными отрубями",
+        "calories": "\n9.2 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n51.4 ",
+        "carbohydrates": "\n273 "
+    },
+    {
+        "title": "Батон Столичный",
+        "calories": "\n7.7 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n50.2 ",
+        "carbohydrates": "\n243 "
+    },
+    {
+        "title": "Брецель",
+        "calories": "\n20.0 ",
+        "proteins": "\n6.0 ",
+        "fats": "\n35.0 ",
+        "carbohydrates": "\n300 "
+    },
+    {
+        "title": "Бриошь",
+        "calories": "\n5.2 ",
+        "proteins": "\n7.5 ",
+        "fats": "\n57.2 ",
+        "carbohydrates": "\n304 "
+    },
+    {
+        "title": "Брускетта",
+        "calories": "\n4.7 ",
+        "proteins": "\n23.0 ",
+        "fats": "\n21.7 ",
+        "carbohydrates": "\n315 "
+    },
+    {
+        "title": "Бублик",
+        "calories": "\n16.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n70.0 ",
+        "carbohydrates": "\n336 "
+    },
+    {
+        "title": "Бублик Украинский",
+        "calories": "\n8.3 ",
+        "proteins": "\n6.4 ",
+        "fats": "\n58.2 ",
+        "carbohydrates": "\n328 "
+    },
+    {
+        "title": "Бублик Ярмарочный",
+        "calories": "\n8.5 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n58.3 ",
+        "carbohydrates": "\n330 "
+    },
+    {
+        "title": "Булочка к чаю",
+        "calories": "\n7.2 ",
+        "proteins": "\n6.2 ",
+        "fats": "\n51.0 ",
+        "carbohydrates": "\n317 "
+    },
+    {
+        "title": "Булочка Калорийная",
+        "calories": "\n7.3 ",
+        "proteins": "\n9.6 ",
+        "fats": "\n62.4 ",
+        "carbohydrates": "\n363 "
+    },
+    {
+        "title": "Булочка отрубная",
+        "calories": "\n7.8 ",
+        "proteins": "\n1.8 ",
+        "fats": "\n43.9 ",
+        "carbohydrates": "\n220 "
+    },
+    {
+        "title": "Булочка Столичная",
+        "calories": "\n8.4 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n52.8 ",
+        "carbohydrates": "\n270 "
+    },
+    {
+        "title": "Булочки 8 злаков",
+        "calories": "\n13.9 ",
+        "proteins": "\n5.3 ",
+        "fats": "\n43.7 ",
+        "carbohydrates": "\n277 "
+    },
+    {
+        "title": "Булочки Бургундские",
+        "calories": "\n0.7 ",
+        "proteins": "\n1.7 ",
+        "fats": "\n55.0 ",
+        "carbohydrates": "\n266 "
+    },
+    {
+        "title": "Булочки Бутербродные с кунжутом",
+        "calories": "\n9.6 ",
+        "proteins": "\n4.2 ",
+        "fats": "\n59.5 ",
+        "carbohydrates": "\n320 "
+    },
+    {
+        "title": "Булочки для гамбургеров",
+        "calories": "\n7.0 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n52.0 ",
+        "carbohydrates": "\n272 "
+    },
+    {
+        "title": "Булочки для хот-догов",
+        "calories": "\n8.7 ",
+        "proteins": "\n7.5 ",
+        "fats": "\n60.6 ",
+        "carbohydrates": "\n339 "
+    },
+    {
+        "title": "Булочки пшеничные с кунжутом Коломенское",
+        "calories": "\n8.0 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n55.0 ",
+        "carbohydrates": "\n300 "
+    },
+    {
+        "title": "Булочки сдобные",
+        "calories": "\n7.9 ",
+        "proteins": "\n9.4 ",
+        "fats": "\n55.5 ",
+        "carbohydrates": "\n339 "
+    },
+    {
+        "title": "Булочки сдобные с кардамоном Коломенское",
+        "calories": "\n8.0 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n62.0 ",
+        "carbohydrates": "\n340 "
+    },
+    {
+        "title": "Ватрушка с творожной начинкой",
+        "calories": "\n10.0 ",
+        "proteins": "\n12.1 ",
+        "fats": "\n46.1 ",
+        "carbohydrates": "\n331 "
+    },
+    {
+        "title": "Волован",
+        "calories": "\n7.9 ",
+        "proteins": "\n29.9 ",
+        "fats": "\n35.9 ",
+        "carbohydrates": "\n435 "
+    },
+    {
+        "title": "Гренки пшеничные",
+        "calories": "\n11.4 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n65.7 ",
+        "carbohydrates": "\n390 "
+    },
+    {
+        "title": "Гренки пшеничные кубики салатные",
+        "calories": "\n12.3 ",
+        "proteins": "\n5.2 ",
+        "fats": "\n61.6 ",
+        "carbohydrates": "\n342 "
+    },
+    {
+        "title": "Гренки ржаные с чесноком",
+        "calories": "\n9.5 ",
+        "proteins": "\n12.5 ",
+        "fats": "\n22.1 ",
+        "carbohydrates": "\n239 "
+    },
+    {
+        "title": "Гриссини",
+        "calories": "\n7.0 ",
+        "proteins": "\n6.0 ",
+        "fats": "\n40.0 ",
+        "carbohydrates": "\n238 "
+    },
+    {
+        "title": "Калач",
+        "calories": "\n7.9 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n51.6 ",
+        "carbohydrates": "\n249 "
+    },
+    {
+        "title": "Каравай Праздничный",
+        "calories": "\n7.7 ",
+        "proteins": "\n6.3 ",
+        "fats": "\n45.9 ",
+        "carbohydrates": "\n276 "
+    },
+    {
+        "title": "Крендель",
+        "calories": "\n8.2 ",
+        "proteins": "\n3.1 ",
+        "fats": "\n69.3 ",
+        "carbohydrates": "\n338 "
+    },
+    {
+        "title": "Крутоны",
+        "calories": "\n10.1 ",
+        "proteins": "\n9.7 ",
+        "fats": "\n71.7 ",
+        "carbohydrates": "\n426 "
+    },
+    {
+        "title": "Кулич пасхальный магазинный",
+        "calories": "\n5.5 ",
+        "proteins": "\n15.8 ",
+        "fats": "\n43.3 ",
+        "carbohydrates": "\n331 "
+    },
+    {
+        "title": "Лаваш армянский",
+        "calories": "\n7.9 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n47.6 ",
+        "carbohydrates": "\n236 "
+    },
+    {
+        "title": "Лаваш армянский БКК Коломенский бездрожжевой тонкий",
+        "calories": "\n10.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n70.0 ",
+        "carbohydrates": "\n350 "
+    },
+    {
+        "title": "Лаваш армянский Вкусвилл по-деревенски",
+        "calories": "\n8.7 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n54.0 ",
+        "carbohydrates": "\n261 "
+    },
+    {
+        "title": "Лаваш армянский Чёрная Каракатица",
+        "calories": "\n7.2 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n48.3 ",
+        "carbohydrates": "\n229 "
+    },
+    {
+        "title": "Лаваш кавказский",
+        "calories": "\n8.1 ",
+        "proteins": "\n0.7 ",
+        "fats": "\n57.1 ",
+        "carbohydrates": "\n274 "
+    },
+    {
+        "title": "Лаваш Фитнес отрубной",
+        "calories": "\n5.2 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n33.3 ",
+        "carbohydrates": "\n147 "
+    },
+    {
+        "title": "Лаваш шпинатный",
+        "calories": "\n7.2 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n48.3 ",
+        "carbohydrates": "\n220 "
+    },
+    {
+        "title": "Лепёшка ржаная",
+        "calories": "\n8.0 ",
+        "proteins": "\n18.3 ",
+        "fats": "\n44.2 ",
+        "carbohydrates": "\n376 "
+    },
+    {
+        "title": "Лепешка узбекская с кунжутом",
+        "calories": "\n7.9 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n50.4 ",
+        "carbohydrates": "\n245 "
+    },
+    {
+        "title": "Лепешки пшеничные Mission Deli оригинальные",
+        "calories": "\n7.0 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n46.0 ",
+        "carbohydrates": "\n280 "
+    },
+    {
+        "title": "Маца",
+        "calories": "\n10.5 ",
+        "proteins": "\n1.3 ",
+        "fats": "\n69.9 ",
+        "carbohydrates": "\n312 "
+    },
+    {
+        "title": "Основа для пиццы Талосто",
+        "calories": "\n2.9 ",
+        "proteins": "\n2.4 ",
+        "fats": "\n54.4 ",
+        "carbohydrates": "\n274 "
+    },
+    {
+        "title": "Паляница Украинская",
+        "calories": "\n7.9 ",
+        "proteins": "\n0.9 ",
+        "fats": "\n50.2 ",
+        "carbohydrates": "\n246 "
+    },
+    {
+        "title": "Пампушки",
+        "calories": "\n5.8 ",
+        "proteins": "\n3.9 ",
+        "fats": "\n41.9 ",
+        "carbohydrates": "\n215 "
+    },
+    {
+        "title": "Пампушки с чесноком",
+        "calories": "\n8.6 ",
+        "proteins": "\n3.3 ",
+        "fats": "\n58.8 ",
+        "carbohydrates": "\n299 "
+    },
+    {
+        "title": "Пита",
+        "calories": "\n7.4 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n49.9 ",
+        "carbohydrates": "\n242 "
+    },
+    {
+        "title": "Пицца Casa Nostra Ассорти",
+        "calories": "\n11.4 ",
+        "proteins": "\n8.5 ",
+        "fats": "\n29.8 ",
+        "carbohydrates": "\n261 "
+    },
+    {
+        "title": "Пицца Casa Nostra Ветчина-Сыр",
+        "calories": "\n8.5 ",
+        "proteins": "\n7.2 ",
+        "fats": "\n29.6 ",
+        "carbohydrates": "\n235 "
+    },
+    {
+        "title": "Пицца Casa Nostra Грибы-Сыр",
+        "calories": "\n9.4 ",
+        "proteins": "\n4.7 ",
+        "fats": "\n29.2 ",
+        "carbohydrates": "\n203 "
+    },
+    {
+        "title": "Пицца la Trattoria Ассорти",
+        "calories": "\n10.5 ",
+        "proteins": "\n12.9 ",
+        "fats": "\n26.2 ",
+        "carbohydrates": "\n263 "
+    },
+    {
+        "title": "Пицца Ristorante Bolognese",
+        "calories": "\n8.7 ",
+        "proteins": "\n9.5 ",
+        "fats": "\n22.9 ",
+        "carbohydrates": "\n213 "
+    },
+    {
+        "title": "Пицца Ristorante Calzone Speciale",
+        "calories": "\n11.2 ",
+        "proteins": "\n13.9 ",
+        "fats": "\n21.9 ",
+        "carbohydrates": "\n258 "
+    },
+    {
+        "title": "Пицца Ristorante Formaggi and Pomodori",
+        "calories": "\n7.7 ",
+        "proteins": "\n11.6 ",
+        "fats": "\n23.9 ",
+        "carbohydrates": "\n232 "
+    },
+    {
+        "title": "Пицца Ristorante Funghi",
+        "calories": "\n7.8 ",
+        "proteins": "\n12.3 ",
+        "fats": "\n22.9 ",
+        "carbohydrates": "\n235 "
+    },
+    {
+        "title": "Пицца Ristorante Hawaii",
+        "calories": "\n8.6 ",
+        "proteins": "\n8.6 ",
+        "fats": "\n25.7 ",
+        "carbohydrates": "\n215 "
+    },
+    {
+        "title": "Пицца Ristorante Mozzarella",
+        "calories": "\n10.5 ",
+        "proteins": "\n13.6 ",
+        "fats": "\n24.3 ",
+        "carbohydrates": "\n262 "
+    },
+    {
+        "title": "Пицца Ristorante Pepperoni-Salame",
+        "calories": "\n10.1 ",
+        "proteins": "\n14.1 ",
+        "fats": "\n25.8 ",
+        "carbohydrates": "\n272 "
+    },
+    {
+        "title": "Пицца Ristorante Piccola Mozzarella",
+        "calories": "\n10.0 ",
+        "proteins": "\n12.7 ",
+        "fats": "\n22.8 ",
+        "carbohydrates": "\n246 "
+    },
+    {
+        "title": "Пицца Ristorante Piccola Salame",
+        "calories": "\n10.0 ",
+        "proteins": "\n13.5 ",
+        "fats": "\n25.4 ",
+        "carbohydrates": "\n264 "
+    },
+    {
+        "title": "Пицца Ristorante Prosciutto",
+        "calories": "\n10.1 ",
+        "proteins": "\n10.1 ",
+        "fats": "\n24.1 ",
+        "carbohydrates": "\n228 "
+    },
+    {
+        "title": "Пицца Ristorante Quattro Formaggi",
+        "calories": "\n10.8 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n24.1 ",
+        "carbohydrates": "\n267 "
+    },
+    {
+        "title": "Пицца Ristorante Salame",
+        "calories": "\n10.4 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n26.3 ",
+        "carbohydrates": "\n273 "
+    },
+    {
+        "title": "Пицца Ristorante Speciale",
+        "calories": "\n10.0 ",
+        "proteins": "\n13.3 ",
+        "fats": "\n23.5 ",
+        "carbohydrates": "\n255 "
+    },
+    {
+        "title": "Пицца Ristorante Vegetale",
+        "calories": "\n6.7 ",
+        "proteins": "\n9.1 ",
+        "fats": "\n22.2 ",
+        "carbohydrates": "\n198 "
+    },
+    {
+        "title": "Пицца Красная цена с колбасой",
+        "calories": "\n6.6 ",
+        "proteins": "\n10.1 ",
+        "fats": "\n27.3 ",
+        "carbohydrates": "\n227 "
+    },
+    {
+        "title": "Плетёнка с кунжутом",
+        "calories": "\n7.9 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n51.5 ",
+        "carbohydrates": "\n267 "
+    },
+    {
+        "title": "Плетёнка с маком",
+        "calories": "\n7.9 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n51.5 ",
+        "carbohydrates": "\n267 "
+    },
+    {
+        "title": "Плюшка",
+        "calories": "\n7.6 ",
+        "proteins": "\n8.8 ",
+        "fats": "\n56.4 ",
+        "carbohydrates": "\n334 "
+    },
+    {
+        "title": "Плюшка Московская",
+        "calories": "\n7.6 ",
+        "proteins": "\n8.7 ",
+        "fats": "\n57.2 ",
+        "carbohydrates": "\n330 "
+    },
+    {
+        "title": "Пончик",
+        "calories": "\n5.6 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n38.8 ",
+        "carbohydrates": "\n296 "
+    }
+]

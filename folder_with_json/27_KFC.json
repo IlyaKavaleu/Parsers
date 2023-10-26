@@ -1,0 +1,373 @@
+[
+    {
+        "title": "Баскет 16 крыльев",
+        "calories": "\n13.8 ",
+        "proteins": "\n19.5 ",
+        "fats": "\n18.6 ",
+        "carbohydrates": "\n306 "
+    },
+    {
+        "title": "Баскет 25 крыльев",
+        "calories": "\n16.6 ",
+        "proteins": "\n20.7 ",
+        "fats": "\n15.4 ",
+        "carbohydrates": "\n314 "
+    },
+    {
+        "title": "Баскет Дуэт оригинальный и острый",
+        "calories": "\n16.5 ",
+        "proteins": "\n15.1 ",
+        "fats": "\n17.2 ",
+        "carbohydrates": "\n271 "
+    },
+    {
+        "title": "Баскет Пати",
+        "calories": "\n10.2 ",
+        "proteins": "\n17.0 ",
+        "fats": "\n22.3 ",
+        "carbohydrates": "\n284 "
+    },
+    {
+        "title": "Баскет Стар",
+        "calories": "\n17.0 ",
+        "proteins": "\n15.1 ",
+        "fats": "\n17.2 ",
+        "carbohydrates": "\n273 "
+    },
+    {
+        "title": "Десерт Мороженое Айс Дрим Клубника или Шоколад KFC",
+        "calories": "\n3.6 ",
+        "proteins": "\n3.4 ",
+        "fats": "\n32.0 ",
+        "carbohydrates": "\n173 "
+    },
+    {
+        "title": "Десерт Мороженое Банан-Брауни KFC",
+        "calories": "\n2.8 ",
+        "proteins": "\n4.5 ",
+        "fats": "\n31.6 ",
+        "carbohydrates": "\n178 "
+    },
+    {
+        "title": "Десерт Мороженое в рожке Летнее KFC",
+        "calories": "\n4.4 ",
+        "proteins": "\n3.9 ",
+        "fats": "\n25.3 ",
+        "carbohydrates": "\n154 "
+    },
+    {
+        "title": "Десерт Мороженое Летняя фантазия Клубничное KFC",
+        "calories": "\n3.5 ",
+        "proteins": "\n3.5 ",
+        "fats": "\n30.5 ",
+        "carbohydrates": "\n167 "
+    },
+    {
+        "title": "Десерт Мороженое Попкорн KFC",
+        "calories": "\n2.7 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n31.1 ",
+        "carbohydrates": "\n163 "
+    },
+    {
+        "title": "Десерт Пирожок Хот Пай Дуэт Вишня и Шоколад KFC",
+        "calories": "\n7.5 ",
+        "proteins": "\n29.8 ",
+        "fats": "\n58.3 ",
+        "carbohydrates": "\n531 "
+    },
+    {
+        "title": "Десерт Чизкейк Нью Йорк Карамель KFC",
+        "calories": "\n6.8 ",
+        "proteins": "\n21.2 ",
+        "fats": "\n32.1 ",
+        "carbohydrates": "\n346 "
+    },
+    {
+        "title": "Десерт Чизкейк Нью Йорк Клубника KFC",
+        "calories": "\n5.2 ",
+        "proteins": "\n20.3 ",
+        "fats": "\n34.1 ",
+        "carbohydrates": "\n339 "
+    },
+    {
+        "title": "Десерт Чизкейк Нью Йорк Шоколад KFC",
+        "calories": "\n5.5 ",
+        "proteins": "\n20.7 ",
+        "fats": "\n33.1 ",
+        "carbohydrates": "\n341 "
+    },
+    {
+        "title": "Завтрак Биггер Утренний оригинальный",
+        "calories": "\n11.0 ",
+        "proteins": "\n9.9 ",
+        "fats": "\n20.4 ",
+        "carbohydrates": "\n214 "
+    },
+    {
+        "title": "Завтрак Биггер Утренний острый",
+        "calories": "\n10.5 ",
+        "proteins": "\n8.8 ",
+        "fats": "\n20.8 ",
+        "carbohydrates": "\n205 "
+    },
+    {
+        "title": "Завтрак Блинчики KFC",
+        "calories": "\n8.0 ",
+        "proteins": "\n4.7 ",
+        "fats": "\n32.9 ",
+        "carbohydrates": "\n205 "
+    },
+    {
+        "title": "Завтрак Боксмастер утренний",
+        "calories": "\n9.4 ",
+        "proteins": "\n10.5 ",
+        "fats": "\n17.9 ",
+        "carbohydrates": "\n203 "
+    },
+    {
+        "title": "Завтрак Брейкер",
+        "calories": "\n11.2 ",
+        "proteins": "\n10.9 ",
+        "fats": "\n22.8 ",
+        "carbohydrates": "\n234 "
+    },
+    {
+        "title": "Завтрак Бустер",
+        "calories": "\n12.6 ",
+        "proteins": "\n10.1 ",
+        "fats": "\n19.5 ",
+        "carbohydrates": "\n219 "
+    },
+    {
+        "title": "Завтрак Картофельный Хашбраун KFC",
+        "calories": "\n2.4 ",
+        "proteins": "\n52.0 ",
+        "fats": "\n14.1 ",
+        "carbohydrates": "\n534 "
+    },
+    {
+        "title": "Завтрак Овсяная каша KFC",
+        "calories": "\n3.3 ",
+        "proteins": "\n1.9 ",
+        "fats": "\n16.0 ",
+        "carbohydrates": "\n94 "
+    },
+    {
+        "title": "Завтрак Райзер",
+        "calories": "\n11.3 ",
+        "proteins": "\n8.5 ",
+        "fats": "\n24.7 ",
+        "carbohydrates": "\n220 "
+    },
+    {
+        "title": "Завтрак Твистер утренний",
+        "calories": "\n10.6 ",
+        "proteins": "\n10.4 ",
+        "fats": "\n18.8 ",
+        "carbohydrates": "\n212 "
+    },
+    {
+        "title": "Завтрак Тост с сыром KFC",
+        "calories": "\n11.1 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n34.1 ",
+        "carbohydrates": "\n288 "
+    },
+    {
+        "title": "Завтрак Яичница с байтсами KFC",
+        "calories": "\n18.9 ",
+        "proteins": "\n13.9 ",
+        "fats": "\n6.6 ",
+        "carbohydrates": "\n228 "
+    },
+    {
+        "title": "Картофель фри KFC (стандартная порция)",
+        "calories": "\n3.8 ",
+        "proteins": "\n15.5 ",
+        "fats": "\n30.1 ",
+        "carbohydrates": "\n276 "
+    },
+    {
+        "title": "Коктейль молочный Милкшейк Лесная клубника KFC 400 мл",
+        "calories": "\n3.4 ",
+        "proteins": "\n3.5 ",
+        "fats": "\n27.2 ",
+        "carbohydrates": "\n143 "
+    },
+    {
+        "title": "Коктейль молочный Милкшейк Шоколадно-Ореховый KFC 400 мл",
+        "calories": "\n3.4 ",
+        "proteins": "\n3.5 ",
+        "fats": "\n27.2 ",
+        "carbohydrates": "\n154 "
+    },
+    {
+        "title": "Курица 1 крыло KFC",
+        "calories": "\n16.6 ",
+        "proteins": "\n20.7 ",
+        "fats": "\n15.4 ",
+        "carbohydrates": "\n314 "
+    },
+    {
+        "title": "Курица 1 ножка KFC",
+        "calories": "\n21.4 ",
+        "proteins": "\n12.6 ",
+        "fats": "\n10.1 ",
+        "carbohydrates": "\n239 "
+    },
+    {
+        "title": "Курица 1 стрипс оригинальный",
+        "calories": "\n24.5 ",
+        "proteins": "\n15.2 ",
+        "fats": "\n13.7 ",
+        "carbohydrates": "\n290 "
+    },
+    {
+        "title": "Курица 1 стрипс острый",
+        "calories": "\n22.3 ",
+        "proteins": "\n10.3 ",
+        "fats": "\n15.8 ",
+        "carbohydrates": "\n245 "
+    },
+    {
+        "title": "Курица Байтсы Острые",
+        "calories": "\n23.5 ",
+        "proteins": "\n11.9 ",
+        "fats": "\n16.6 ",
+        "carbohydrates": "\n268 "
+    },
+    {
+        "title": "Курица Байтсы Терияки",
+        "calories": "\n15.1 ",
+        "proteins": "\n8.9 ",
+        "fats": "\n26.0 ",
+        "carbohydrates": "\n244 "
+    },
+    {
+        "title": "Напиток Кофе Капучино KFC 300 мл",
+        "calories": "\n1.8 ",
+        "proteins": "\n1.1 ",
+        "fats": "\n10.6 ",
+        "carbohydrates": "\n60 "
+    },
+    {
+        "title": "Салат Цезарь лайт KFC (без заправки)",
+        "calories": "\n10.6 ",
+        "proteins": "\n7.3 ",
+        "fats": "\n7.3 ",
+        "carbohydrates": "\n137 "
+    },
+    {
+        "title": "Сэндвич Айтвистер",
+        "calories": "\n10.0 ",
+        "proteins": "\n9.4 ",
+        "fats": "\n27.1 ",
+        "carbohydrates": "\n233 "
+    },
+    {
+        "title": "Сэндвич Айтвистер Чиз",
+        "calories": "\n9.7 ",
+        "proteins": "\n13.7 ",
+        "fats": "\n23.3 ",
+        "carbohydrates": "\n256 "
+    },
+    {
+        "title": "Сэндвич Биг Маэстро Бургер Оригинальный",
+        "calories": "\n12.9 ",
+        "proteins": "\n10.2 ",
+        "fats": "\n22.3 ",
+        "carbohydrates": "\n233 "
+    },
+    {
+        "title": "Сэндвич Биггер",
+        "calories": "\n12.3 ",
+        "proteins": "\n11.4 ",
+        "fats": "\n22.7 ",
+        "carbohydrates": "\n242 "
+    },
+    {
+        "title": "Сэндвич Боксмастер Жюльен",
+        "calories": "\n7.8 ",
+        "proteins": "\n15.6 ",
+        "fats": "\n20.1 ",
+        "carbohydrates": "\n252 "
+    },
+    {
+        "title": "Сэндвич Боксмастер из тостера",
+        "calories": "\n8.1 ",
+        "proteins": "\n15.6 ",
+        "fats": "\n20.1 ",
+        "carbohydrates": "\n252 "
+    },
+    {
+        "title": "Сэндвич Зингер",
+        "calories": "\n11.6 ",
+        "proteins": "\n10.7 ",
+        "fats": "\n22.2 ",
+        "carbohydrates": "\n231 "
+    },
+    {
+        "title": "Сэндвич Классик",
+        "calories": "\n10.9 ",
+        "proteins": "\n8.8 ",
+        "fats": "\n24.3 ",
+        "carbohydrates": "\n220 "
+    },
+    {
+        "title": "Сэндвич Лонгер Жюльен",
+        "calories": "\n13.4 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n26.3 ",
+        "carbohydrates": "\n297 "
+    },
+    {
+        "title": "Сэндвич Лонгер Кентукки BBQ",
+        "calories": "\n11.6 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n28.8 ",
+        "carbohydrates": "\n234 "
+    },
+    {
+        "title": "Сэндвич Сандерс",
+        "calories": "\n10.5 ",
+        "proteins": "\n6.1 ",
+        "fats": "\n28.8 ",
+        "carbohydrates": "\n212 "
+    },
+    {
+        "title": "Сэндвич Твистер Веджи",
+        "calories": "\n4.6 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n22.2 ",
+        "carbohydrates": "\n269 "
+    },
+    {
+        "title": "Сэндвич Твистер Жюльен",
+        "calories": "\n11.1 ",
+        "proteins": "\n13.9 ",
+        "fats": "\n23.6 ",
+        "carbohydrates": "\n264 "
+    },
+    {
+        "title": "Сэндвич Твистер из тостера",
+        "calories": "\n10.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n22.5 ",
+        "carbohydrates": "\n220 "
+    },
+    {
+        "title": "Сэндвич Чизбургер Жюльен",
+        "calories": "\n11.0 ",
+        "proteins": "\n10.5 ",
+        "fats": "\n25.9 ",
+        "carbohydrates": "\n242 "
+    },
+    {
+        "title": "Сэндвич Шефбургер Джуниор Оригинальный",
+        "calories": "\n12.6 ",
+        "proteins": "\n8.9 ",
+        "fats": "\n22.2 ",
+        "carbohydrates": "\n219 "
+    }
+]

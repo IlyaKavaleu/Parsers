@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Азу",
+        "calories": "\n11.9 ",
+        "proteins": "\n14.2 ",
+        "fats": "\n10.2 ",
+        "carbohydrates": "\n214 "
+    },
+    {
+        "title": "Антрекот",
+        "calories": "\n27.3 ",
+        "proteins": "\n31.2 ",
+        "fats": "\n1.7 ",
+        "carbohydrates": "\n396 "
+    },
+    {
+        "title": "Антрекот из говядины",
+        "calories": "\n29.6 ",
+        "proteins": "\n11.2 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n220 "
+    },
+    {
+        "title": "Антрекот из свинины",
+        "calories": "\n28.7 ",
+        "proteins": "\n9.8 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Бараний окорок",
+        "calories": "\n18.0 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n232 "
+    },
+    {
+        "title": "Бараний рубец",
+        "calories": "\n11.5 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n82 "
+    },
+    {
+        "title": "Бараний фарш",
+        "calories": "\n17.0 ",
+        "proteins": "\n23.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n282 "
+    },
+    {
+        "title": "Бараний язык",
+        "calories": "\n12.6 ",
+        "proteins": "\n16.1 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n195 "
+    },
+    {
+        "title": "Баранина",
+        "calories": "\n15.6 ",
+        "proteins": "\n16.3 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n209 "
+    },
+    {
+        "title": "Баранина вареная",
+        "calories": "\n24.6 ",
+        "proteins": "\n21.4 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n291 "
+    },
+    {
+        "title": "Баранина жареная",
+        "calories": "\n20.0 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n320 "
+    },
+    {
+        "title": "Баранина тушеная",
+        "calories": "\n20.0 ",
+        "proteins": "\n20.9 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n268 "
+    },
+    {
+        "title": "Баранье сердце",
+        "calories": "\n13.5 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n82 "
+    },
+    {
+        "title": "Бараньи почки",
+        "calories": "\n13.6 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n77 "
+    },
+    {
+        "title": "Бараньи яйца",
+        "calories": "\n13.0 ",
+        "proteins": "\n19.0 ",
+        "fats": "\n0.1 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Баранья лопатка",
+        "calories": "\n15.6 ",
+        "proteins": "\n25.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n284 "
+    },
+    {
+        "title": "Баранья печень",
+        "calories": "\n18.7 ",
+        "proteins": "\n2.9 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n101 "
+    },
+    {
+        "title": "Бастурма турецкая",
+        "calories": "\n14.8 ",
+        "proteins": "\n20.1 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Бекон",
+        "calories": "\n23.0 ",
+        "proteins": "\n45.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n500 "
+    },
+    {
+        "title": "Бекон Мираторг Любительский",
+        "calories": "\n12.0 ",
+        "proteins": "\n35.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n360 "
+    },
+    {
+        "title": "Бекон сырокопченый Дымов Венгерский",
+        "calories": "\n10.0 ",
+        "proteins": "\n44.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n436 "
+    },
+    {
+        "title": "Бефстроганов",
+        "calories": "\n21.9 ",
+        "proteins": "\n27.4 ",
+        "fats": "\n5.7 ",
+        "carbohydrates": "\n355 "
+    },
+    {
+        "title": "Бефстроганов из говядины",
+        "calories": "\n16.7 ",
+        "proteins": "\n11.3 ",
+        "fats": "\n5.9 ",
+        "carbohydrates": "\n193 "
+    },
+    {
+        "title": "Бефстроганов из курицы",
+        "calories": "\n14.7 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n0.4 ",
+        "carbohydrates": "\n163 "
+    },
+    {
+        "title": "Бефстроганов из свинины",
+        "calories": "\n19.4 ",
+        "proteins": "\n7.1 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n142 "
+    },
+    {
+        "title": "Бизонье мясо",
+        "calories": "\n21.6 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n109 "
+    },
+    {
+        "title": "Бифштекс",
+        "calories": "\n27.8 ",
+        "proteins": "\n29.6 ",
+        "fats": "\n1.7 ",
+        "carbohydrates": "\n384 "
+    },
+    {
+        "title": "Блюдо армянское Бозбаш 4 сезона",
+        "calories": "\n3.0 ",
+        "proteins": "\n9.5 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n126 "
+    },
+    {
+        "title": "Блюдо болгарское Жаркое по-деревенски 4 сезона",
+        "calories": "\n3.5 ",
+        "proteins": "\n11.1 ",
+        "fats": "\n5.5 ",
+        "carbohydrates": "\n137 "
+    },
+    {
+        "title": "Блюдо греческое Мясо по-македонски 4 сезона",
+        "calories": "\n5.8 ",
+        "proteins": "\n10.1 ",
+        "fats": "\n22.0 ",
+        "carbohydrates": "\n206 "
+    },
+    {
+        "title": "Блюдо грузинское Чахохбили с фасолью 4 сезона",
+        "calories": "\n6.2 ",
+        "proteins": "\n5.5 ",
+        "fats": "\n3.4 ",
+        "carbohydrates": "\n87 "
+    },
+    {
+        "title": "Блюдо индийское Цыплёнок карри 4 сезона",
+        "calories": "\n6.6 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n21.0 ",
+        "carbohydrates": "\n142 "
+    },
+    {
+        "title": "Блюдо испанское Паэлья 4 сезона",
+        "calories": "\n8.2 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n16.3 ",
+        "carbohydrates": "\n129 "
+    },
+    {
+        "title": "Блюдо итальянское Пенне карбонара 4 сезона",
+        "calories": "\n5.6 ",
+        "proteins": "\n11.4 ",
+        "fats": "\n16.4 ",
+        "carbohydrates": "\n188 "
+    },
+    {
+        "title": "Блюдо итальянское Ризотто с морепродуктами 4 сезона",
+        "calories": "\n6.5 ",
+        "proteins": "\n6.4 ",
+        "fats": "\n18.8 ",
+        "carbohydrates": "\n163 "
+    },
+    {
+        "title": "Блюдо китайское Курочка по-пекински 4 сезона",
+        "calories": "\n5.6 ",
+        "proteins": "\n3.3 ",
+        "fats": "\n11.8 ",
+        "carbohydrates": "\n102 "
+    },
+    {
+        "title": "Блюдо китайское Свинина в кисло-сладком соусе 4 сезона",
+        "calories": "\n4.4 ",
+        "proteins": "\n9.4 ",
+        "fats": "\n14.8 ",
+        "carbohydrates": "\n153 "
+    },
+    {
+        "title": "Блюдо латиноамериканское Цыплёнок по-мексикански 4 сезона",
+        "calories": "\n6.6 ",
+        "proteins": "\n8.5 ",
+        "fats": "\n10.7 ",
+        "carbohydrates": "\n127 "
+    },
+    {
+        "title": "Блюдо мексиканское Чили кон карне 4 сезона",
+        "calories": "\n6.4 ",
+        "proteins": "\n8.8 ",
+        "fats": "\n15.7 ",
+        "carbohydrates": "\n160 "
+    },
+    {
+        "title": "Блюдо наше Макароны по-флотски 4 сезона",
+        "calories": "\n7.6 ",
+        "proteins": "\n9.9 ",
+        "fats": "\n21.2 ",
+        "carbohydrates": "\n185 "
+    },
+    {
+        "title": "Блюдо русское Барашек с гречкой 4 сезона",
+        "calories": "\n5.9 ",
+        "proteins": "\n13.8 ",
+        "fats": "\n17.7 ",
+        "carbohydrates": "\n224 "
+    },
+    {
+        "title": "Блюдо среднеазиатское Лагман 4 сезона",
+        "calories": "\n4.3 ",
+        "proteins": "\n8.9 ",
+        "fats": "\n13.3 ",
+        "carbohydrates": "\n158 "
+    },
+    {
+        "title": "Блюдо тайское Лапша карри 4 сезона",
+        "calories": "\n5.9 ",
+        "proteins": "\n6.4 ",
+        "fats": "\n12.7 ",
+        "carbohydrates": "\n128 "
+    },
+    {
+        "title": "Блюдо узбекское Плов с бараниной 4 сезона",
+        "calories": "\n4.2 ",
+        "proteins": "\n6.0 ",
+        "fats": "\n14.9 ",
+        "carbohydrates": "\n150 "
+    },
+    {
+        "title": "Блюдо французское Шампиньон де пари 4 сезона",
+        "calories": "\n6.7 ",
+        "proteins": "\n9.5 ",
+        "fats": "\n5.1 ",
+        "carbohydrates": "\n129 "
+    },
+    {
+        "title": "Блюдо швейцарское Фондю эменталь 4 сезона",
+        "calories": "\n7.9 ",
+        "proteins": "\n10.2 ",
+        "fats": "\n13.3 ",
+        "carbohydrates": "\n175 "
+    },
+    {
+        "title": "Блюдо японское Сакэна с рисом 4 сезона",
+        "calories": "\n5.7 ",
+        "proteins": "\n2.4 ",
+        "fats": "\n13.6 ",
+        "carbohydrates": "\n103 "
+    },
+    {
+        "title": "Буженина вареная",
+        "calories": "\n16.4 ",
+        "proteins": "\n18.3 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n233 "
+    },
+    {
+        "title": "Буженина Фабрика Качества из мяса цыплят-бройлеров Традиционная запечённая",
+        "calories": "\n20.0 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n160 "
+    },
+    {
+        "title": "Буйволятина",
+        "calories": "\n19.0 ",
+        "proteins": "\n13.2 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n194 "
+    },
+    {
+        "title": "Буйволятина вареная",
+        "calories": "\n30.0 ",
+        "proteins": "\n17.4 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n276 "
+    },
+    {
+        "title": "Буйволятина жареная",
+        "calories": "\n33.4 ",
+        "proteins": "\n23.2 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n342 "
+    },
+    {
+        "title": "Буйволятина тушеная",
+        "calories": "\n24.4 ",
+        "proteins": "\n16.9 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n250 "
+    },
+    {
+        "title": "Бульмени Горячая штучка С говядиной и свининой",
+        "calories": "\n14.5 ",
+        "proteins": "\n9.5 ",
+        "fats": "\n19.0 ",
+        "carbohydrates": "\n220 "
+    },
+    {
+        "title": "Бульмени Горячая штучка Со сливочным маслом",
+        "calories": "\n14.5 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n19.0 ",
+        "carbohydrates": "\n224 "
+    },
+    {
+        "title": "Бычьи яйца",
+        "calories": "\n13.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n0.1 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Верблюжатина",
+        "calories": "\n18.9 ",
+        "proteins": "\n9.4 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n160 "
+    },
+    {
+        "title": "Верблюжатина вареная",
+        "calories": "\n29.8 ",
+        "proteins": "\n12.4 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Верблюжатина жареная",
+        "calories": "\n33.3 ",
+        "proteins": "\n16.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n281 "
+    },
+    {
+        "title": "Верблюжатина тушеная",
+        "calories": "\n24.3 ",
+        "proteins": "\n12.1 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n205 "
+    },
+    {
+        "title": "Ветчина",
+        "calories": "\n14.0 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n270 "
+    },
+    {
+        "title": "Ветчина DAK Датская",
+        "calories": "\n18.0 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n112 "
+    },
+    {
+        "title": "Ветчина в форме",
+        "calories": "\n22.6 ",
+        "proteins": "\n20.9 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n278 "
+    },
+    {
+        "title": "Ветчина Велком Говяжья вареная",
+        "calories": "\n19.0 ",
+        "proteins": "\n5.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n130 "
+    },
+    {
+        "title": "Ветчина Велком из окорока вареная",
+        "calories": "\n18.0 ",
+        "proteins": "\n6.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n130 "
+    },
+    {
+        "title": "Ветчина Венеция из мяса индеек",
+        "calories": "\n13.2 ",
+        "proteins": "\n5.4 ",
+        "fats": "\n2.6 ",
+        "carbohydrates": "\n112 "
+    },
+    {
+        "title": "Ветчина ВкусВилл из индейки с травами",
+        "calories": "\n20.8 ",
+        "proteins": "\n2.6 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n109 "
+    },
+    {
+        "title": "Ветчина Вязанка с индейкой",
+        "calories": "\n13.0 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Ветчина Дымов с окороком",
+        "calories": "\n10.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n83 "
+    },
+    {
+        "title": "Ветчина Знаменские деликатесы по Швейцарскому рецепту",
+        "calories": "\n18.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n110 "
+    },
+    {
+        "title": "Ветчина из индейки обезжиренная",
+        "calories": "\n15.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n77 "
+    },
+    {
+        "title": "Ветчина Империя Вкуса из индейки",
+        "calories": "\n11.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n99 "
+    },
+    {
+        "title": "Ветчина Останкино Мраморная вареная",
+        "calories": "\n11.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n224 "
+    },
+    {
+        "title": "Ветчина Останкино нежная из индейки",
+        "calories": "\n10.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n154 "
+    },
+    {
+        "title": "Ветчина Останкино нежная из свиного окорока",
+        "calories": "\n8.0 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n166 "
+    },
+    {
+        "title": "Ветчина Папа может с индейкой",
+        "calories": "\n13.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n100 "
+    },
+    {
+        "title": "Ветчина Пармская",
+        "calories": "\n24.4 ",
+        "proteins": "\n22.5 ",
+        "fats": "\n0.1 ",
+        "carbohydrates": "\n300 "
+    },
+    {
+        "title": "Ветчина Рублёвский Для завтрака из свинины",
+        "calories": "\n12.0 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n183 "
+    },
+    {
+        "title": "Ветчина Самокат Свиная премиум",
+        "calories": "\n6.0 ",
+        "proteins": "\n37.0 ",
+        "fats": "\n3.5 ",
+        "carbohydrates": "\n370 "
+    },
+    {
+        "title": "Глухарь",
+        "calories": "\n18.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n0.5 ",
+        "carbohydrates": "\n254 "
+    }
+]

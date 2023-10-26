@@ -1,0 +1,541 @@
+[
+    {
+        "title": "Абрикосовый компот",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n21.0 ",
+        "carbohydrates": "\n85 "
+    },
+    {
+        "title": "Абрикосовый сок",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n38 "
+    },
+    {
+        "title": "Айвовый компот",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n20.0 ",
+        "carbohydrates": "\n79 "
+    },
+    {
+        "title": "Айвовый сок",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.6 ",
+        "carbohydrates": "\n45 "
+    },
+    {
+        "title": "Ананасовый компот",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Ананасовый нектар",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.9 ",
+        "carbohydrates": "\n54 "
+    },
+    {
+        "title": "Ананасовый сок",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n11.4 ",
+        "carbohydrates": "\n48 "
+    },
+    {
+        "title": "Апельсиновый нектар",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.1 ",
+        "carbohydrates": "\n43 "
+    },
+    {
+        "title": "Апельсиновый сок",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n8.1 ",
+        "carbohydrates": "\n36 "
+    },
+    {
+        "title": "Арбузный сок",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n5.9 ",
+        "carbohydrates": "\n38 "
+    },
+    {
+        "title": "Банановый сок",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n48 "
+    },
+    {
+        "title": "Березовый сок",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n5.8 ",
+        "carbohydrates": "\n24 "
+    },
+    {
+        "title": "Бузинный сок",
+        "calories": "\n1.1 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n5.1 ",
+        "carbohydrates": "\n27 "
+    },
+    {
+        "title": "Виноградный компот",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n19.7 ",
+        "carbohydrates": "\n77 "
+    },
+    {
+        "title": "Виноградный сок",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n54 "
+    },
+    {
+        "title": "Вишнёвый компот",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n24.0 ",
+        "carbohydrates": "\n99 "
+    },
+    {
+        "title": "Вишнёвый нектар",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n50 "
+    },
+    {
+        "title": "Вишнёвый сок",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.2 ",
+        "carbohydrates": "\n47 "
+    },
+    {
+        "title": "Гранатовый сок",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n14.5 ",
+        "carbohydrates": "\n64 "
+    },
+    {
+        "title": "Грейпфрутовый нектар",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.4 ",
+        "carbohydrates": "\n44 "
+    },
+    {
+        "title": "Грейпфрутовый сок",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n6.5 ",
+        "carbohydrates": "\n30 "
+    },
+    {
+        "title": "Грушевый компот",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n18.2 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Грушевый нектар",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n8.8 ",
+        "carbohydrates": "\n37 "
+    },
+    {
+        "title": "Грушевый сок",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Гуавовый сок",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n13.9 ",
+        "carbohydrates": "\n57 "
+    },
+    {
+        "title": "Земляничный сок",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n41 "
+    },
+    {
+        "title": "Кисель из вишневого сока",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n18.9 ",
+        "carbohydrates": "\n78 "
+    },
+    {
+        "title": "Кисель из клюквы",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n13.0 ",
+        "carbohydrates": "\n53 "
+    },
+    {
+        "title": "Кисель из кураги",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.9 ",
+        "carbohydrates": "\n54 "
+    },
+    {
+        "title": "Кисель из сливового варенья",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n15.5 ",
+        "carbohydrates": "\n63 "
+    },
+    {
+        "title": "Кисель из сушеных яблок",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n16.3 ",
+        "carbohydrates": "\n66 "
+    },
+    {
+        "title": "Кисель из яблок",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n23.7 ",
+        "carbohydrates": "\n97 "
+    },
+    {
+        "title": "Клубничный сок",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n31 "
+    },
+    {
+        "title": "Клюквенный сок",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Компот из сухофруктов без сахара",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n14.2 ",
+        "carbohydrates": "\n60 "
+    },
+    {
+        "title": "Лаймовый сок",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n8.2 ",
+        "carbohydrates": "\n25 "
+    },
+    {
+        "title": "Лимонный сок",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n16 "
+    },
+    {
+        "title": "Малиновый сок",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n24.7 ",
+        "carbohydrates": "\n100 "
+    },
+    {
+        "title": "Манговый сок",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n13.5 ",
+        "carbohydrates": "\n54 "
+    },
+    {
+        "title": "Мандариновый компот",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n18.1 ",
+        "carbohydrates": "\n69 "
+    },
+    {
+        "title": "Мандариновый сок",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n8.1 ",
+        "carbohydrates": "\n36 "
+    },
+    {
+        "title": "Морковный сок",
+        "calories": "\n1.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n6.4 ",
+        "carbohydrates": "\n28 "
+    },
+    {
+        "title": "Морковный сок Золотая Русь экзотик",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n44 "
+    },
+    {
+        "title": "Нектар из маракуйи",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n9.8 ",
+        "carbohydrates": "\n41 "
+    },
+    {
+        "title": "Нектар тыквенный Удачный",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n48 "
+    },
+    {
+        "title": "Нектариновый нектар",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.8 ",
+        "carbohydrates": "\n53 "
+    },
+    {
+        "title": "Нектариновый сок",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n8.6 ",
+        "carbohydrates": "\n37 "
+    },
+    {
+        "title": "Облепиховый сок",
+        "calories": "\n0.6 ",
+        "proteins": "\n3.4 ",
+        "fats": "\n4.3 ",
+        "carbohydrates": "\n52 "
+    },
+    {
+        "title": "Огуречный сок",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n2.5 ",
+        "carbohydrates": "\n14 "
+    },
+    {
+        "title": "Персиковый компот",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n19.9 ",
+        "carbohydrates": "\n78 "
+    },
+    {
+        "title": "Персиковый нектар",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n38 "
+    },
+    {
+        "title": "Персиковый сок",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n9.5 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Свекольный сок",
+        "calories": "\n1.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n9.9 ",
+        "carbohydrates": "\n42 "
+    },
+    {
+        "title": "Сливовый компот",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n23.9 ",
+        "carbohydrates": "\n96 "
+    },
+    {
+        "title": "Сливовый нектар",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Сливовый сок",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n9.6 ",
+        "carbohydrates": "\n39 "
+    },
+    {
+        "title": "Сок киви",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n41 "
+    },
+    {
+        "title": "Сок нони",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n44 "
+    },
+    {
+        "title": "Сок овощная смесь Золотая Русь",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n20 "
+    },
+    {
+        "title": "Сок овощная смесь Тонус Active",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n6.2 ",
+        "carbohydrates": "\n25 "
+    },
+    {
+        "title": "Сок овощной Mr. Овощ с солью, сладким перцем и чесноком",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n20 "
+    },
+    {
+        "title": "Сок папайи",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n13.3 ",
+        "carbohydrates": "\n51 "
+    },
+    {
+        "title": "Сок петрушки",
+        "calories": "\n3.7 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n7.6 ",
+        "carbohydrates": "\n49 "
+    },
+    {
+        "title": "Сок сельдерея",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n4.8 ",
+        "carbohydrates": "\n31 "
+    },
+    {
+        "title": "Сок шпината",
+        "calories": "\n2.8 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n1.4 ",
+        "carbohydrates": "\n21 "
+    },
+    {
+        "title": "Томатный сок",
+        "calories": "\n1.1 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n3.8 ",
+        "carbohydrates": "\n21 "
+    },
+    {
+        "title": "Томатный сок J-7 с мякотью",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n5.3 ",
+        "carbohydrates": "\n22 "
+    },
+    {
+        "title": "Тыквенный сок",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n38 "
+    },
+    {
+        "title": "Черешневый компот",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n19.9 ",
+        "carbohydrates": "\n78 "
+    },
+    {
+        "title": "Черничный сок",
+        "calories": "\n0.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n8.0 ",
+        "carbohydrates": "\n38 "
+    },
+    {
+        "title": "Черноплодно-рябиновый сок",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n7.4 ",
+        "carbohydrates": "\n32 "
+    },
+    {
+        "title": "Черносмородиновый компот",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n13.9 ",
+        "carbohydrates": "\n58 "
+    },
+    {
+        "title": "Черносмородиновый сок",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n7.9 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Шиповниковый сок",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n17.6 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Яблочный компот",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n22.1 ",
+        "carbohydrates": "\n85 "
+    },
+    {
+        "title": "Яблочный нектар",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n41 "
+    },
+    {
+        "title": "Яблочный сок",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n9.8 ",
+        "carbohydrates": "\n42 "
+    }
+]

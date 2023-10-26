@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Сыворотка творожная",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n3.5 ",
+        "carbohydrates": "\n20 "
+    },
+    {
+        "title": "Сыр 365 дней творожный Сливочный 30%",
+        "calories": "\n10.0 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n141 "
+    },
+    {
+        "title": "Сыр Almette с белыми грибами",
+        "calories": "\n6.0 ",
+        "proteins": "\n23.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n251 "
+    },
+    {
+        "title": "Сыр Almette с зеленью",
+        "calories": "\n6.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n216 "
+    },
+    {
+        "title": "Сыр Almette с йогуртом",
+        "calories": "\n7.0 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n183 "
+    },
+    {
+        "title": "Сыр Almette с огурцами и зеленью",
+        "calories": "\n5.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n212 "
+    },
+    {
+        "title": "Сыр Almette с хреном",
+        "calories": "\n6.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n220 "
+    },
+    {
+        "title": "Сыр Almette с чесноком",
+        "calories": "\n6.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n216 "
+    },
+    {
+        "title": "Сыр Almette сливочный",
+        "calories": "\n6.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n216 "
+    },
+    {
+        "title": "Сыр Artis для жарки на сковороде и гриле 45%",
+        "calories": "\n21.0 ",
+        "proteins": "\n22.0 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n282 "
+    },
+    {
+        "title": "Сыр Bogda Milk Эгейский свежий 45%",
+        "calories": "\n16.5 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n228 "
+    },
+    {
+        "title": "Сыр Bonfesto Cremolle вяленые томаты",
+        "calories": "\n6.8 ",
+        "proteins": "\n22.1 ",
+        "fats": "\n4.4 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Сыр Bonfesto Cremolle солёные огурцы",
+        "calories": "\n7.2 ",
+        "proteins": "\n22.4 ",
+        "fats": "\n2.1 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Сыр Bonfesto Mozzarella Pizza",
+        "calories": "\n18.4 ",
+        "proteins": "\n20.3 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n256 "
+    },
+    {
+        "title": "Сыр Bonfesto Ricotta Light мягкий",
+        "calories": "\n11.3 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n2.5 ",
+        "carbohydrates": "\n145 "
+    },
+    {
+        "title": "Сыр Bonvida Моцарелла для пиццы",
+        "calories": "\n17.0 ",
+        "proteins": "\n16.8 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n231 "
+    },
+    {
+        "title": "Сыр Brie Les Chateaux De France 32%",
+        "calories": "\n17.0 ",
+        "proteins": "\n32.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n364 "
+    },
+    {
+        "title": "Сыр Comella рассольный",
+        "calories": "\n13.5 ",
+        "proteins": "\n13.3 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n194 "
+    },
+    {
+        "title": "Сыр Danke Gouda Gold 45%",
+        "calories": "\n23.0 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n308 "
+    },
+    {
+        "title": "Сыр Danke Царский с ароматом топленого молока 45%",
+        "calories": "\n23.0 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n308 "
+    },
+    {
+        "title": "Сыр Dolce Granto Пармезан 40%",
+        "calories": "\n30.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n372 "
+    },
+    {
+        "title": "Сыр Emborg Professional творожный 65%",
+        "calories": "\n6.0 ",
+        "proteins": "\n28.3 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n290 "
+    },
+    {
+        "title": "Сыр Endorf Tulyere",
+        "calories": "\n23.0 ",
+        "proteins": "\n25.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n320 "
+    },
+    {
+        "title": "Сыр Exquisa творожный с зеленью",
+        "calories": "\n6.7 ",
+        "proteins": "\n22.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n237 "
+    },
+    {
+        "title": "Сыр Exquisa творожный с лососем",
+        "calories": "\n6.7 ",
+        "proteins": "\n21.5 ",
+        "fats": "\n3.5 ",
+        "carbohydrates": "\n235 "
+    },
+    {
+        "title": "Сыр Fallini Rapesan тёртый",
+        "calories": "\n49.5 ",
+        "proteins": "\n29.2 ",
+        "fats": "\n4.4 ",
+        "carbohydrates": "\n478 "
+    },
+    {
+        "title": "Сыр Grill Akadia",
+        "calories": "\n17.0 ",
+        "proteins": "\n19.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n245 "
+    },
+    {
+        "title": "Сыр Hochland Bleu",
+        "calories": "\n15.0 ",
+        "proteins": "\n39.0 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n415 "
+    },
+    {
+        "title": "Сыр Hochland плавленый ассорти",
+        "calories": "\n10.0 ",
+        "proteins": "\n27.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n303 "
+    },
+    {
+        "title": "Сыр Hochland плавленый Маасдам ломтики",
+        "calories": "\n12.0 ",
+        "proteins": "\n22.0 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n270 "
+    },
+    {
+        "title": "Сыр Hochland плавленый с ветчиной ломтики",
+        "calories": "\n14.3 ",
+        "proteins": "\n23.2 ",
+        "fats": "\n4.2 ",
+        "carbohydrates": "\n282 "
+    },
+    {
+        "title": "Сыр Hochland плавленый с огурцами и укропом ломтики",
+        "calories": "\n15.0 ",
+        "proteins": "\n21.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n269 "
+    },
+    {
+        "title": "Сыр Hochland плавленый с салями и специями ломтики",
+        "calories": "\n13.0 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n284 "
+    },
+    {
+        "title": "Сыр Hochland плавленый Сэндвич ломтики",
+        "calories": "\n14.0 ",
+        "proteins": "\n23.0 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n279 "
+    },
+    {
+        "title": "Сыр Hochland плавленый Чизбургер ломтики",
+        "calories": "\n14.0 ",
+        "proteins": "\n23.0 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n279 "
+    },
+    {
+        "title": "Сыр Hochland творожный с зеленью",
+        "calories": "\n6.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n212 "
+    },
+    {
+        "title": "Сыр Hochland творожный сливочный",
+        "calories": "\n6.5 ",
+        "proteins": "\n22.7 ",
+        "fats": "\n3.6 ",
+        "carbohydrates": "\n245 "
+    },
+    {
+        "title": "Сыр Hochland Фетакса Классическая в рассоле 45%",
+        "calories": "\n11.0 ",
+        "proteins": "\n14.5 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n183 "
+    },
+    {
+        "title": "Сыр Laime Пармезан",
+        "calories": "\n35.0 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n342 "
+    },
+    {
+        "title": "Сыр Landers Famiglia лёгкий 30%",
+        "calories": "\n26.4 ",
+        "proteins": "\n14.1 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n232 "
+    },
+    {
+        "title": "Сыр Mlekovita Twarog Hanusi кисломолочный 6.5%",
+        "calories": "\n9.0 ",
+        "proteins": "\n6.5 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n111 "
+    },
+    {
+        "title": "Сыр Molli творожный 27%",
+        "calories": "\n6.0 ",
+        "proteins": "\n27.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n306 "
+    },
+    {
+        "title": "Сыр Mr.Chedd Чеддер Red 45%",
+        "calories": "\n24.8 ",
+        "proteins": "\n25.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n329 "
+    },
+    {
+        "title": "Сыр Old Amsterdam",
+        "calories": "\n6.2 ",
+        "proteins": "\n39.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n407 "
+    },
+    {
+        "title": "Сыр Pinar Labne мягкий",
+        "calories": "\n4.5 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n3.6 ",
+        "carbohydrates": "\n194 "
+    },
+    {
+        "title": "Сыр Premier of Taste мягкий с зеленью и огурчиком",
+        "calories": "\n4.4 ",
+        "proteins": "\n16.9 ",
+        "fats": "\n2.8 ",
+        "carbohydrates": "\n182 "
+    },
+    {
+        "title": "Сыр President Camembert de Chevre козий",
+        "calories": "\n16.5 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n318 "
+    },
+    {
+        "title": "Сыр President Camembert с белой плесенью 45%",
+        "calories": "\n17.0 ",
+        "proteins": "\n19.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n244 "
+    },
+    {
+        "title": "Сыр President Cream Cheese сливочный творожный",
+        "calories": "\n5.5 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n2.7 ",
+        "carbohydrates": "\n249 "
+    },
+    {
+        "title": "Сыр President Creme de Bleu 50%",
+        "calories": "\n12.0 ",
+        "proteins": "\n22.0 ",
+        "fats": "\n3.5 ",
+        "carbohydrates": "\n260 "
+    },
+    {
+        "title": "Сыр President Petit Brie мягкий с белой плесенью 60%",
+        "calories": "\n17.0 ",
+        "proteins": "\n32.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n360 "
+    },
+    {
+        "title": "Сыр President Rondele козий",
+        "calories": "\n9.0 ",
+        "proteins": "\n10.5 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n354 "
+    },
+    {
+        "title": "Сыр President Rondele творожный",
+        "calories": "\n7.0 ",
+        "proteins": "\n31.0 ",
+        "fats": "\n2.5 ",
+        "carbohydrates": "\n317 "
+    },
+    {
+        "title": "Сыр President Rondele творожный с орехами",
+        "calories": "\n6.5 ",
+        "proteins": "\n31.0 ",
+        "fats": "\n2.5 ",
+        "carbohydrates": "\n315 "
+    },
+    {
+        "title": "Сыр President Rondele творожный с чесноком и травами",
+        "calories": "\n6.8 ",
+        "proteins": "\n31.2 ",
+        "fats": "\n4.2 ",
+        "carbohydrates": "\n325 "
+    },
+    {
+        "title": "Сыр President Мастер Бутерброда Лёгкий",
+        "calories": "\n16.5 ",
+        "proteins": "\n8.5 ",
+        "fats": "\n9.5 ",
+        "carbohydrates": "\n185 "
+    },
+    {
+        "title": "Сыр President Мастер Бутерброда Мааздам",
+        "calories": "\n13.5 ",
+        "proteins": "\n17.5 ",
+        "fats": "\n6.0 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Сыр President Мастер Бутерброда Моцарелла",
+        "calories": "\n9.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n6.5 ",
+        "carbohydrates": "\n281 "
+    },
+    {
+        "title": "Сыр President Пише Миньон",
+        "calories": "\n18.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n324 "
+    },
+    {
+        "title": "Сыр Unagrande Dolce Рикотта с натуральным шоколадом",
+        "calories": "\n4.9 ",
+        "proteins": "\n12.9 ",
+        "fats": "\n23.1 ",
+        "carbohydrates": "\n228 "
+    },
+    {
+        "title": "Сыр Unagrande Кремчиз №1",
+        "calories": "\n8.5 ",
+        "proteins": "\n24.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n255 "
+    },
+    {
+        "title": "Сыр Valio Polar 5%",
+        "calories": "\n34.0 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n180 "
+    },
+    {
+        "title": "Сыр Valio творожный Рассыпчатый 2%",
+        "calories": "\n13.0 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n80 "
+    },
+    {
+        "title": "Сыр Valio творожный Сливочный",
+        "calories": "\n5.2 ",
+        "proteins": "\n23.5 ",
+        "fats": "\n2.3 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Сыр Vego Вегано-Грана-Падано с перцем",
+        "calories": "\n1.2 ",
+        "proteins": "\n35.0 ",
+        "fats": "\n25.0 ",
+        "carbohydrates": "\n325 "
+    },
+    {
+        "title": "Сыр Viola ассорти Финское избранное 50%",
+        "calories": "\n10.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n6.0 ",
+        "carbohydrates": "\n244 "
+    },
+    {
+        "title": "Сыр Viola с ветчиной",
+        "calories": "\n11.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Сыр Viola с лисичками",
+        "calories": "\n11.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Сыр Viola с паприкой",
+        "calories": "\n11.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Сыр Viola с укропом и огурцом",
+        "calories": "\n11.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Сыр Viola сливочный",
+        "calories": "\n11.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Сыр Viola Четыре сыра 45%",
+        "calories": "\n11.0 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n226 "
+    },
+    {
+        "title": "Сыр Vitalat Рикотта",
+        "calories": "\n7.0 ",
+        "proteins": "\n6.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n97 "
+    },
+    {
+        "title": "Сыр VolkoMolko веганский Плавящийся",
+        "calories": "\n13.0 ",
+        "proteins": "\n35.0 ",
+        "fats": "\n16.0 ",
+        "carbohydrates": "\n429 "
+    },
+    {
+        "title": "Сыр а ла Каймак Mlekara Sabac мягкий 70%",
+        "calories": "\n6.1 ",
+        "proteins": "\n23.5 ",
+        "fats": "\n1.1 ",
+        "carbohydrates": "\n242 "
+    },
+    {
+        "title": "Сыр а ла Каймак мягкий 70%",
+        "calories": "\n6.1 ",
+        "proteins": "\n23.5 ",
+        "fats": "\n1.1 ",
+        "carbohydrates": "\n242 "
+    },
+    {
+        "title": "Сыр Абонданс",
+        "calories": "\n26.3 ",
+        "proteins": "\n26.6 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n350 "
+    },
+    {
+        "title": "Сыр Адыгейский",
+        "calories": "\n18.5 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Сыр Алтайский",
+        "calories": "\n26.0 ",
+        "proteins": "\n26.5 ",
+        "fats": "\n3.5 ",
+        "carbohydrates": "\n356 "
+    },
+    {
+        "title": "Сыр Альпийский",
+        "calories": "\n25.0 ",
+        "proteins": "\n27.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n353 "
+    }
+]

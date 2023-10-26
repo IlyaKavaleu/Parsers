@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Большой завтрак McDonalds",
+        "calories": "\n30.0 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n62.0 ",
+        "carbohydrates": "\n640 "
+    },
+    {
+        "title": "Большой завтрак McDonalds с джемом",
+        "calories": "\n30.0 ",
+        "proteins": "\n35.0 ",
+        "fats": "\n58.0 ",
+        "carbohydrates": "\n675 "
+    },
+    {
+        "title": "Большой завтрак McDonalds с мёдом",
+        "calories": "\n30.0 ",
+        "proteins": "\n35.0 ",
+        "fats": "\n60.0 ",
+        "carbohydrates": "\n685 "
+    },
+    {
+        "title": "Десерт Вафельный рожок McDonalds",
+        "calories": "\n3.0 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n22.0 ",
+        "carbohydrates": "\n135 "
+    },
+    {
+        "title": "Десерт Вишнёвый пирожок McDonalds",
+        "calories": "\n2.0 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n29.0 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Десерт Макфлурри Де Люкс карамельно-шоколадный",
+        "calories": "\n7.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n71.0 ",
+        "carbohydrates": "\n400 "
+    },
+    {
+        "title": "Десерт Макфлурри Де Люкс клубнично-шоколадный",
+        "calories": "\n6.0 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n61.0 ",
+        "carbohydrates": "\n340 "
+    },
+    {
+        "title": "Десерт Макфлурри с рисовыми шариками",
+        "calories": "\n6.0 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n61.0 ",
+        "carbohydrates": "\n340 "
+    },
+    {
+        "title": "Десерт Макфлурри с шоколадно-вафельной крошкой",
+        "calories": "\n6.0 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n40.0 ",
+        "carbohydrates": "\n280 "
+    },
+    {
+        "title": "Десерт Маффин с чёрной смородиной",
+        "calories": "\n5.0 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n47.0 ",
+        "carbohydrates": "\n370 "
+    },
+    {
+        "title": "Десерт Маффин с шоколадом",
+        "calories": "\n6.0 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n55.0 ",
+        "carbohydrates": "\n350 "
+    },
+    {
+        "title": "Десерт Мороженое с карамелью",
+        "calories": "\n5.0 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n60.0 ",
+        "carbohydrates": "\n325 "
+    },
+    {
+        "title": "Десерт Мороженое с клубникой",
+        "calories": "\n5.0 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n50.0 ",
+        "carbohydrates": "\n265 "
+    },
+    {
+        "title": "Десерт Мороженое с шоколадом",
+        "calories": "\n6.0 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n52.0 ",
+        "carbohydrates": "\n315 "
+    },
+    {
+        "title": "Картофель по-деревенски McDonalds",
+        "calories": "\n4.0 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n42.0 ",
+        "carbohydrates": "\n330 "
+    },
+    {
+        "title": "Картофель фри McDonalds (большая порция)",
+        "calories": "\n5.0 ",
+        "proteins": "\n22.0 ",
+        "fats": "\n54.0 ",
+        "carbohydrates": "\n445 "
+    },
+    {
+        "title": "Картофель фри McDonalds (маленькая порция)",
+        "calories": "\n3.0 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n29.0 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Картофель фри McDonalds (средняя порция)",
+        "calories": "\n5.0 ",
+        "proteins": "\n17.0 ",
+        "fats": "\n42.0 ",
+        "carbohydrates": "\n340 "
+    },
+    {
+        "title": "Коктейль ванильный McDonalds 400 мл",
+        "calories": "\n9.0 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n71.0 ",
+        "carbohydrates": "\n385 "
+    },
+    {
+        "title": "Коктейль клубничный McDonalds 400 мл",
+        "calories": "\n9.0 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n71.0 ",
+        "carbohydrates": "\n385 "
+    },
+    {
+        "title": "Коктейль шоколадный McDonalds 400 мл",
+        "calories": "\n10.0 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n70.0 ",
+        "carbohydrates": "\n395 "
+    },
+    {
+        "title": "Макзавтрак Блины с джемом",
+        "calories": "\n7.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n57.0 ",
+        "carbohydrates": "\n303 "
+    },
+    {
+        "title": "Макзавтрак Блины с мёдом",
+        "calories": "\n7.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n59.0 ",
+        "carbohydrates": "\n308 "
+    },
+    {
+        "title": "Макзавтрак Блины стандартные",
+        "calories": "\n7.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n45.0 ",
+        "carbohydrates": "\n235 "
+    },
+    {
+        "title": "Макзавтрак двойной МакМаффин с яйцом и свиной котлетой",
+        "calories": "\n36.0 ",
+        "proteins": "\n41.0 ",
+        "fats": "\n31.0 ",
+        "carbohydrates": "\n645 "
+    },
+    {
+        "title": "Макзавтрак двойной Фреш МакМаффин",
+        "calories": "\n27.0 ",
+        "proteins": "\n35.0 ",
+        "fats": "\n33.0 ",
+        "carbohydrates": "\n560 "
+    },
+    {
+        "title": "Макзавтрак МакМаффин с яйцом и беконом",
+        "calories": "\n17.0 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n310 "
+    },
+    {
+        "title": "Макзавтрак МакМаффин с яйцом и свиной котлетой",
+        "calories": "\n24.0 ",
+        "proteins": "\n25.0 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n435 "
+    },
+    {
+        "title": "Макзавтрак МакМаффин с яйцом и сыром",
+        "calories": "\n15.0 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n275 "
+    },
+    {
+        "title": "Макзавтрак МакМаффин со свиной котлетой",
+        "calories": "\n17.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n360 "
+    },
+    {
+        "title": "Макзавтрак МакТост",
+        "calories": "\n10.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n30.0 ",
+        "carbohydrates": "\n255 "
+    },
+    {
+        "title": "Макзавтрак МакТост с ветчиной",
+        "calories": "\n14.0 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n30.0 ",
+        "carbohydrates": "\n280 "
+    },
+    {
+        "title": "Макзавтрак Овсяная каша с джемом",
+        "calories": "\n4.0 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n35.0 ",
+        "carbohydrates": "\n200 "
+    },
+    {
+        "title": "Макзавтрак Овсяная каша с клюквой и изюмом",
+        "calories": "\n4.3 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n38.0 ",
+        "carbohydrates": "\n212 "
+    },
+    {
+        "title": "Макзавтрак Овсяная каша с мёдом",
+        "calories": "\n4.0 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n35.0 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Макзавтрак Овсяная каша стандартная",
+        "calories": "\n4.0 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n23.0 ",
+        "carbohydrates": "\n150 "
+    },
+    {
+        "title": "Макзавтрак Снек Ролл с омлетом и беконом",
+        "calories": "\n16.0 ",
+        "proteins": "\n16.0 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n320 "
+    },
+    {
+        "title": "Макзавтрак Снек Ролл с омлетом и свиной котлетой",
+        "calories": "\n22.0 ",
+        "proteins": "\n26.0 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n435 "
+    },
+    {
+        "title": "Макзавтрак Фреш МакМаффин",
+        "calories": "\n18.0 ",
+        "proteins": "\n21.0 ",
+        "fats": "\n33.0 ",
+        "carbohydrates": "\n400 "
+    },
+    {
+        "title": "Макзавтрак Хашбраун",
+        "calories": "\n1.0 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n135 "
+    },
+    {
+        "title": "Макзавтрак Чикен Фреш МакМаффин",
+        "calories": "\n19.0 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n41.0 ",
+        "carbohydrates": "\n365 "
+    },
+    {
+        "title": "Морковные палочки McDonalds",
+        "calories": "\n1.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n6.0 ",
+        "carbohydrates": "\n27 "
+    },
+    {
+        "title": "Напиток Апельсиновый сок McDonalds 400 мл",
+        "calories": "\n3.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n41.0 ",
+        "carbohydrates": "\n190 "
+    },
+    {
+        "title": "Напиток Двойной Эспрессо McDonalds",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n0.2 ",
+        "carbohydrates": "\n3 "
+    },
+    {
+        "title": "Напиток Капучино McDonalds 300 мл",
+        "calories": "\n6.0 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n125 "
+    },
+    {
+        "title": "Напиток Кока-Кола McDonalds 400 мл",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n42.0 ",
+        "carbohydrates": "\n170 "
+    },
+    {
+        "title": "Напиток Кока-Кола Лайт McDonalds 400 мл",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n2 "
+    },
+    {
+        "title": "Напиток Кофе McDonalds 200 мл",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n0.6 ",
+        "carbohydrates": "\n7 "
+    },
+    {
+        "title": "Напиток Кофе Глясе McDonalds",
+        "calories": "\n4.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n19.0 ",
+        "carbohydrates": "\n125 "
+    },
+    {
+        "title": "Напиток Кофе Латте McDonalds",
+        "calories": "\n6.0 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n125 "
+    },
+    {
+        "title": "Напиток Липтон Айс-Ти Зелёный McDonalds 400 мл",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n110 "
+    },
+    {
+        "title": "Напиток Липтон Айс-Ти Лимон McDonalds 400 мл",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n27.0 ",
+        "carbohydrates": "\n110 "
+    },
+    {
+        "title": "Напиток Спрайт McDonalds 400 мл",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n41.0 ",
+        "carbohydrates": "\n165 "
+    },
+    {
+        "title": "Напиток Фанта McDonalds 400 мл",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n46.0 ",
+        "carbohydrates": "\n185 "
+    },
+    {
+        "title": "Напиток Чай чёрный/зелёный McDonalds",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Салат Овощной McDonalds",
+        "calories": "\n2.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n60 "
+    },
+    {
+        "title": "Салат Цезарь McDonalds",
+        "calories": "\n15.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n190 "
+    },
+    {
+        "title": "Соус барбекю McDonalds",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n48 "
+    },
+    {
+        "title": "Соус карри McDonalds",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n50 "
+    },
+    {
+        "title": "Соус кетчуп McDonalds",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n6.6 ",
+        "carbohydrates": "\n27 "
+    },
+    {
+        "title": "Соус кисло-сладкий McDonalds",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n49 "
+    },
+    {
+        "title": "Соус сырный McDonalds",
+        "calories": "\n0.6 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n1.4 ",
+        "carbohydrates": "\n89 "
+    },
+    {
+        "title": "Сэндвич Биг Брекфаст Ролл",
+        "calories": "\n27.0 ",
+        "proteins": "\n36.0 ",
+        "fats": "\n54.0 ",
+        "carbohydrates": "\n655 "
+    },
+    {
+        "title": "Сэндвич Биг Мак",
+        "calories": "\n27.0 ",
+        "proteins": "\n26.0 ",
+        "fats": "\n41.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Сэндвич Биг Тейсти",
+        "calories": "\n44.0 ",
+        "proteins": "\n52.0 ",
+        "fats": "\n50.0 ",
+        "carbohydrates": "\n850 "
+    },
+    {
+        "title": "Сэндвич Биф а-ля Рус",
+        "calories": "\n29.0 ",
+        "proteins": "\n31.0 ",
+        "fats": "\n44.0 ",
+        "carbohydrates": "\n580 "
+    },
+    {
+        "title": "Сэндвич Биф Ролл",
+        "calories": "\n20.0 ",
+        "proteins": "\n29.0 ",
+        "fats": "\n43.0 ",
+        "carbohydrates": "\n520 "
+    },
+    {
+        "title": "Сэндвич Гамбургер",
+        "calories": "\n13.0 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n30.0 ",
+        "carbohydrates": "\n255 "
+    },
+    {
+        "title": "Сэндвич Гранд Де Люкс (Вкусно и точка)",
+        "calories": "\n31.0 ",
+        "proteins": "\n31.0 ",
+        "fats": "\n40.0 ",
+        "carbohydrates": "\n570 "
+    },
+    {
+        "title": "Сэндвич Двойной Чизбургер",
+        "calories": "\n27.0 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n31.0 ",
+        "carbohydrates": "\n450 "
+    },
+    {
+        "title": "Сэндвич Макчикен",
+        "calories": "\n20.0 ",
+        "proteins": "\n19.0 ",
+        "fats": "\n44.0 ",
+        "carbohydrates": "\n435 "
+    },
+    {
+        "title": "Сэндвич Монблан Бургер",
+        "calories": "\n55.0 ",
+        "proteins": "\n42.0 ",
+        "fats": "\n55.0 ",
+        "carbohydrates": "\n740 "
+    },
+    {
+        "title": "Сэндвич Роял Де Люкс",
+        "calories": "\n30.0 ",
+        "proteins": "\n29.0 ",
+        "fats": "\n42.0 ",
+        "carbohydrates": "\n555 "
+    },
+    {
+        "title": "Сэндвич Роял Чизбургер",
+        "calories": "\n32.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n36.0 ",
+        "carbohydrates": "\n530 "
+    },
+    {
+        "title": "Сэндвич Филе-о-фиш",
+        "calories": "\n14.0 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n36.0 ",
+        "carbohydrates": "\n320 "
+    },
+    {
+        "title": "Сэндвич Фиш Ролл",
+        "calories": "\n17.0 ",
+        "proteins": "\n23.0 ",
+        "fats": "\n49.0 ",
+        "carbohydrates": "\n475 "
+    },
+    {
+        "title": "Сэндвич Фреш Ролл",
+        "calories": "\n25.0 ",
+        "proteins": "\n38.0 ",
+        "fats": "\n40.0 ",
+        "carbohydrates": "\n610 "
+    },
+    {
+        "title": "Сэндвич Цезарь Ролл",
+        "calories": "\n22.0 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n50.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Сэндвич Чизбургер",
+        "calories": "\n16.0 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n30.0 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Сэндвич Чикен Бекон",
+        "calories": "\n27.0 ",
+        "proteins": "\n36.0 ",
+        "fats": "\n60.0 ",
+        "carbohydrates": "\n680 "
+    }
+]

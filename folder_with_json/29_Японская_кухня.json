@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Бутанику кадзукири",
+        "calories": "\n3.2 ",
+        "proteins": "\n5.1 ",
+        "fats": "\n24.2 ",
+        "carbohydrates": "\n156 "
+    },
+    {
+        "title": "Бутанику рёри",
+        "calories": "\n16.6 ",
+        "proteins": "\n22.2 ",
+        "fats": "\n3.4 ",
+        "carbohydrates": "\n280 "
+    },
+    {
+        "title": "Васаби игай-яки",
+        "calories": "\n4.5 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n136 "
+    },
+    {
+        "title": "Васаби Сэн Сой Премиум",
+        "calories": "\n0.0 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n40.0 ",
+        "carbohydrates": "\n241 "
+    },
+    {
+        "title": "Гёдза VICI с говядиной",
+        "calories": "\n8.5 ",
+        "proteins": "\n6.7 ",
+        "fats": "\n23.9 ",
+        "carbohydrates": "\n194 "
+    },
+    {
+        "title": "Гёдза VICI с уткой",
+        "calories": "\n8.9 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n23.2 ",
+        "carbohydrates": "\n168 "
+    },
+    {
+        "title": "Гюнику татаки",
+        "calories": "\n12.8 ",
+        "proteins": "\n2.6 ",
+        "fats": "\n6.8 ",
+        "carbohydrates": "\n102 "
+    },
+    {
+        "title": "Гютан терияки",
+        "calories": "\n11.0 ",
+        "proteins": "\n22.5 ",
+        "fats": "\n14.1 ",
+        "carbohydrates": "\n223 "
+    },
+    {
+        "title": "Даси",
+        "calories": "\n5.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n30.0 ",
+        "carbohydrates": "\n120 "
+    },
+    {
+        "title": "Дорадо терияки",
+        "calories": "\n9.9 ",
+        "proteins": "\n5.7 ",
+        "fats": "\n3.4 ",
+        "carbohydrates": "\n105 "
+    },
+    {
+        "title": "Ика фурай",
+        "calories": "\n8.2 ",
+        "proteins": "\n4.6 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n115 "
+    },
+    {
+        "title": "Кани гуриру",
+        "calories": "\n7.0 ",
+        "proteins": "\n11.6 ",
+        "fats": "\n17.2 ",
+        "carbohydrates": "\n201 "
+    },
+    {
+        "title": "Кани муни",
+        "calories": "\n6.1 ",
+        "proteins": "\n5.8 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n121 "
+    },
+    {
+        "title": "Караса кани",
+        "calories": "\n10.1 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n85 "
+    },
+    {
+        "title": "Кимучи",
+        "calories": "\n1.4 ",
+        "proteins": "\n0.7 ",
+        "fats": "\n8.4 ",
+        "carbohydrates": "\n45 "
+    },
+    {
+        "title": "Кинси маки",
+        "calories": "\n8.5 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n2.4 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Мисо",
+        "calories": "\n12.3 ",
+        "proteins": "\n5.5 ",
+        "fats": "\n24.6 ",
+        "carbohydrates": "\n197 "
+    },
+    {
+        "title": "Насу тёмире",
+        "calories": "\n2.9 ",
+        "proteins": "\n4.5 ",
+        "fats": "\n7.4 ",
+        "carbohydrates": "\n82 "
+    },
+    {
+        "title": "Нинику эби",
+        "calories": "\n8.2 ",
+        "proteins": "\n13.4 ",
+        "fats": "\n5.8 ",
+        "carbohydrates": "\n177 "
+    },
+    {
+        "title": "Огава аки",
+        "calories": "\n18.8 ",
+        "proteins": "\n5.1 ",
+        "fats": "\n10.2 ",
+        "carbohydrates": "\n162 "
+    },
+    {
+        "title": "Основа для рыбного бульона ХонДаши",
+        "calories": "\n22.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n32.3 ",
+        "carbohydrates": "\n226 "
+    },
+    {
+        "title": "Ролл Авокадо",
+        "calories": "\n2.0 ",
+        "proteins": "\n1.3 ",
+        "fats": "\n21.2 ",
+        "carbohydrates": "\n105 "
+    },
+    {
+        "title": "Ролл Аляска",
+        "calories": "\n4.2 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n12.2 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Ролл Ацуй маки",
+        "calories": "\n5.8 ",
+        "proteins": "\n5.7 ",
+        "fats": "\n15.5 ",
+        "carbohydrates": "\n137 "
+    },
+    {
+        "title": "Ролл Беруто дайкон",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n23.4 ",
+        "carbohydrates": "\n99 "
+    },
+    {
+        "title": "Ролл Бутанику кимути",
+        "calories": "\n5.1 ",
+        "proteins": "\n6.9 ",
+        "fats": "\n15.2 ",
+        "carbohydrates": "\n144 "
+    },
+    {
+        "title": "Ролл Гейша маки",
+        "calories": "\n5.7 ",
+        "proteins": "\n7.2 ",
+        "fats": "\n17.4 ",
+        "carbohydrates": "\n158 "
+    },
+    {
+        "title": "Ролл Дзитаку",
+        "calories": "\n6.4 ",
+        "proteins": "\n6.1 ",
+        "fats": "\n16.8 ",
+        "carbohydrates": "\n148 "
+    },
+    {
+        "title": "Ролл Дракон маки",
+        "calories": "\n4.8 ",
+        "proteins": "\n11.4 ",
+        "fats": "\n16.7 ",
+        "carbohydrates": "\n189 "
+    },
+    {
+        "title": "Ролл Инари спайси",
+        "calories": "\n6.0 ",
+        "proteins": "\n4.8 ",
+        "fats": "\n13.8 ",
+        "carbohydrates": "\n123 "
+    },
+    {
+        "title": "Ролл Кагувасэ",
+        "calories": "\n7.2 ",
+        "proteins": "\n6.5 ",
+        "fats": "\n20.9 ",
+        "carbohydrates": "\n171 "
+    },
+    {
+        "title": "Ролл Кадзи сякэ",
+        "calories": "\n6.5 ",
+        "proteins": "\n5.9 ",
+        "fats": "\n15.8 ",
+        "carbohydrates": "\n142 "
+    },
+    {
+        "title": "Ролл Калифорния",
+        "calories": "\n7.0 ",
+        "proteins": "\n8.8 ",
+        "fats": "\n17.2 ",
+        "carbohydrates": "\n176 "
+    },
+    {
+        "title": "Ролл Кани хината",
+        "calories": "\n4.4 ",
+        "proteins": "\n6.2 ",
+        "fats": "\n12.7 ",
+        "carbohydrates": "\n124 "
+    },
+    {
+        "title": "Ролл Каппа маки",
+        "calories": "\n1.7 ",
+        "proteins": "\n0.7 ",
+        "fats": "\n19.2 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Ролл Каруй",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n10.8 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Ролл Киото",
+        "calories": "\n8.4 ",
+        "proteins": "\n6.3 ",
+        "fats": "\n16.0 ",
+        "carbohydrates": "\n155 "
+    },
+    {
+        "title": "Ролл Кирои",
+        "calories": "\n4.8 ",
+        "proteins": "\n8.3 ",
+        "fats": "\n16.3 ",
+        "carbohydrates": "\n159 "
+    },
+    {
+        "title": "Ролл Кунсэй батакон",
+        "calories": "\n8.3 ",
+        "proteins": "\n8.9 ",
+        "fats": "\n15.1 ",
+        "carbohydrates": "\n174 "
+    },
+    {
+        "title": "Ролл Манацуби",
+        "calories": "\n4.5 ",
+        "proteins": "\n3.4 ",
+        "fats": "\n12.6 ",
+        "carbohydrates": "\n99 "
+    },
+    {
+        "title": "Ролл Масиро дайкон",
+        "calories": "\n2.3 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n11.1 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Ролл Мидори сякэ",
+        "calories": "\n9.8 ",
+        "proteins": "\n6.5 ",
+        "fats": "\n13.5 ",
+        "carbohydrates": "\n152 "
+    },
+    {
+        "title": "Ролл Овара",
+        "calories": "\n6.5 ",
+        "proteins": "\n5.9 ",
+        "fats": "\n15.8 ",
+        "carbohydrates": "\n143 "
+    },
+    {
+        "title": "Ролл Окинава",
+        "calories": "\n5.8 ",
+        "proteins": "\n4.8 ",
+        "fats": "\n18.0 ",
+        "carbohydrates": "\n139 "
+    },
+    {
+        "title": "Ролл Радуга",
+        "calories": "\n3.5 ",
+        "proteins": "\n2.4 ",
+        "fats": "\n17.3 ",
+        "carbohydrates": "\n105 "
+    },
+    {
+        "title": "Ролл Рок-н-ролл",
+        "calories": "\n5.3 ",
+        "proteins": "\n5.6 ",
+        "fats": "\n16.5 ",
+        "carbohydrates": "\n138 "
+    },
+    {
+        "title": "Ролл Супайсу тэмпура",
+        "calories": "\n8.5 ",
+        "proteins": "\n6.7 ",
+        "fats": "\n16.5 ",
+        "carbohydrates": "\n160 "
+    },
+    {
+        "title": "Ролл Сякэ",
+        "calories": "\n6.8 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n19.3 ",
+        "carbohydrates": "\n128 "
+    },
+    {
+        "title": "Ролл Сякэ кунсей маки",
+        "calories": "\n6.0 ",
+        "proteins": "\n5.5 ",
+        "fats": "\n18.1 ",
+        "carbohydrates": "\n146 "
+    },
+    {
+        "title": "Ролл Сякэ унаги маки",
+        "calories": "\n8.5 ",
+        "proteins": "\n7.1 ",
+        "fats": "\n13.1 ",
+        "carbohydrates": "\n150 "
+    },
+    {
+        "title": "Ролл Тамаго маки",
+        "calories": "\n7.0 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n13.5 ",
+        "carbohydrates": "\n145 "
+    },
+    {
+        "title": "Ролл Тануки",
+        "calories": "\n9.7 ",
+        "proteins": "\n11.5 ",
+        "fats": "\n14.4 ",
+        "carbohydrates": "\n201 "
+    },
+    {
+        "title": "Ролл Тануки фурай маки",
+        "calories": "\n5.5 ",
+        "proteins": "\n6.6 ",
+        "fats": "\n18.2 ",
+        "carbohydrates": "\n154 "
+    },
+    {
+        "title": "Ролл Тори ясай",
+        "calories": "\n6.5 ",
+        "proteins": "\n8.3 ",
+        "fats": "\n5.6 ",
+        "carbohydrates": "\n160 "
+    },
+    {
+        "title": "Ролл Тэкка маки",
+        "calories": "\n2.8 ",
+        "proteins": "\n1.7 ",
+        "fats": "\n19.2 ",
+        "carbohydrates": "\n105 "
+    },
+    {
+        "title": "Ролл Тэмпура",
+        "calories": "\n6.1 ",
+        "proteins": "\n3.6 ",
+        "fats": "\n18.0 ",
+        "carbohydrates": "\n129 "
+    },
+    {
+        "title": "Ролл Унаги",
+        "calories": "\n5.3 ",
+        "proteins": "\n8.3 ",
+        "fats": "\n19.2 ",
+        "carbohydrates": "\n173 "
+    },
+    {
+        "title": "Ролл Унаги кани",
+        "calories": "\n9.8 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n19.2 ",
+        "carbohydrates": "\n277 "
+    },
+    {
+        "title": "Ролл Унаги тидзу",
+        "calories": "\n10.9 ",
+        "proteins": "\n8.4 ",
+        "fats": "\n11.6 ",
+        "carbohydrates": "\n165 "
+    },
+    {
+        "title": "Ролл Унаги урамаки",
+        "calories": "\n6.1 ",
+        "proteins": "\n7.5 ",
+        "fats": "\n15.0 ",
+        "carbohydrates": "\n152 "
+    },
+    {
+        "title": "Ролл Филадельфия",
+        "calories": "\n9.7 ",
+        "proteins": "\n6.7 ",
+        "fats": "\n10.8 ",
+        "carbohydrates": "\n142 "
+    },
+    {
+        "title": "Ролл Харумаки",
+        "calories": "\n14.4 ",
+        "proteins": "\n15.2 ",
+        "fats": "\n11.9 ",
+        "carbohydrates": "\n242 "
+    },
+    {
+        "title": "Ролл Цукини маки",
+        "calories": "\n1.1 ",
+        "proteins": "\n5.9 ",
+        "fats": "\n7.5 ",
+        "carbohydrates": "\n87 "
+    },
+    {
+        "title": "Ролл Чидори",
+        "calories": "\n8.5 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n14.3 ",
+        "carbohydrates": "\n163 "
+    },
+    {
+        "title": "Ролл Эби каиган",
+        "calories": "\n5.7 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n17.8 ",
+        "carbohydrates": "\n120 "
+    },
+    {
+        "title": "Сакана кимчи",
+        "calories": "\n6.5 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n10.6 ",
+        "carbohydrates": "\n96 "
+    },
+    {
+        "title": "Сан химаго",
+        "calories": "\n10.1 ",
+        "proteins": "\n7.6 ",
+        "fats": "\n11.2 ",
+        "carbohydrates": "\n154 "
+    },
+    {
+        "title": "Сарада Бито",
+        "calories": "\n1.8 ",
+        "proteins": "\n0.6 ",
+        "fats": "\n14.4 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Сарада Вакамэ су",
+        "calories": "\n1.8 ",
+        "proteins": "\n1.1 ",
+        "fats": "\n7.2 ",
+        "carbohydrates": "\n47 "
+    },
+    {
+        "title": "Сарада Гюнику",
+        "calories": "\n17.8 ",
+        "proteins": "\n6.0 ",
+        "fats": "\n3.9 ",
+        "carbohydrates": "\n140 "
+    },
+    {
+        "title": "Сарада Ицаку",
+        "calories": "\n5.9 ",
+        "proteins": "\n9.2 ",
+        "fats": "\n9.3 ",
+        "carbohydrates": "\n143 "
+    },
+    {
+        "title": "Сарада Кайсо",
+        "calories": "\n1.7 ",
+        "proteins": "\n2.4 ",
+        "fats": "\n10.8 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Сарада Киноки",
+        "calories": "\n6.7 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n3.5 ",
+        "carbohydrates": "\n122 "
+    },
+    {
+        "title": "Сарада Мидори",
+        "calories": "\n1.3 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n4.2 ",
+        "carbohydrates": "\n33 "
+    },
+    {
+        "title": "Сарада Мояши",
+        "calories": "\n1.4 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n6.0 ",
+        "carbohydrates": "\n49 "
+    },
+    {
+        "title": "Сарада Рэтасу эби",
+        "calories": "\n6.5 ",
+        "proteins": "\n4.7 ",
+        "fats": "\n16.0 ",
+        "carbohydrates": "\n132 "
+    },
+    {
+        "title": "Сарада Сяке-Кунсэно",
+        "calories": "\n9.8 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n1.9 ",
+        "carbohydrates": "\n208 "
+    },
+    {
+        "title": "Сарада Тако беби",
+        "calories": "\n3.0 ",
+        "proteins": "\n1.4 ",
+        "fats": "\n8.6 ",
+        "carbohydrates": "\n60 "
+    },
+    {
+        "title": "Сарада Тори но маринадо",
+        "calories": "\n1.4 ",
+        "proteins": "\n5.3 ",
+        "fats": "\n12.4 ",
+        "carbohydrates": "\n143 "
+    },
+    {
+        "title": "Сарада Тори-Кунсэно",
+        "calories": "\n10.0 ",
+        "proteins": "\n5.7 ",
+        "fats": "\n15.0 ",
+        "carbohydrates": "\n164 "
+    }
+]

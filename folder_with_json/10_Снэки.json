@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Баренцев Анчоус солёно-сушёный",
+        "calories": "\n49.0 ",
+        "proteins": "\n7.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n259 "
+    },
+    {
+        "title": "Баренцев Кальмар кольца",
+        "calories": "\n53.0 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n242 "
+    },
+    {
+        "title": "Баренцев Кальмар копчёный",
+        "calories": "\n53.0 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n242 "
+    },
+    {
+        "title": "Баренцев Кальмар солёно-сушёный",
+        "calories": "\n62.0 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n286 "
+    },
+    {
+        "title": "Баренцев Креветка со специями",
+        "calories": "\n36.0 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n192 "
+    },
+    {
+        "title": "Баренцев Окинэль ломтики филе",
+        "calories": "\n50.7 ",
+        "proteins": "\n8.6 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n280 "
+    },
+    {
+        "title": "Баренцев Окинэль с перцем",
+        "calories": "\n50.7 ",
+        "proteins": "\n8.6 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n280 "
+    },
+    {
+        "title": "Баренцев Соломка рыбная оригинальная",
+        "calories": "\n46.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n231 "
+    },
+    {
+        "title": "Баренцев Соломка рыбная подкопченная",
+        "calories": "\n46.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n231 "
+    },
+    {
+        "title": "Баренцев Сомуль солёно-сушёный",
+        "calories": "\n65.8 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n274 "
+    },
+    {
+        "title": "Баренцев Ставридка золотистая подкопченная",
+        "calories": "\n48.0 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n264 "
+    },
+    {
+        "title": "Баренцев Ставридка серебристая солёно-сушёная",
+        "calories": "\n48.0 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n264 "
+    },
+    {
+        "title": "Баренцев Тунец солёно-сушёный",
+        "calories": "\n57.8 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n234 "
+    },
+    {
+        "title": "Баренцев Чиксы рыбка с перцем",
+        "calories": "\n50.7 ",
+        "proteins": "\n8.6 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n280 "
+    },
+    {
+        "title": "Попкорн карамельный",
+        "calories": "\n5.3 ",
+        "proteins": "\n8.7 ",
+        "fats": "\n76.1 ",
+        "carbohydrates": "\n401 "
+    },
+    {
+        "title": "Попкорн солёный",
+        "calories": "\n7.3 ",
+        "proteins": "\n13.5 ",
+        "fats": "\n62.7 ",
+        "carbohydrates": "\n407 "
+    },
+    {
+        "title": "Попкорн сырный",
+        "calories": "\n5.8 ",
+        "proteins": "\n30.8 ",
+        "fats": "\n50.1 ",
+        "carbohydrates": "\n506 "
+    },
+    {
+        "title": "Сильвер Анчоус солёно-сушеный",
+        "calories": "\n57.4 ",
+        "proteins": "\n3.1 ",
+        "fats": "\n0.1 ",
+        "carbohydrates": "\n258 "
+    },
+    {
+        "title": "Сильвер Жёлтая рыбка",
+        "calories": "\n40.0 ",
+        "proteins": "\n16.9 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n336 "
+    },
+    {
+        "title": "Сильвер Жёлтый полосатик",
+        "calories": "\n52.4 ",
+        "proteins": "\n5.8 ",
+        "fats": "\n3.3 ",
+        "carbohydrates": "\n262 "
+    },
+    {
+        "title": "Сильвер Кальмар копчёный",
+        "calories": "\n58.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n263 "
+    },
+    {
+        "title": "Сильвер Кальмар сушёный",
+        "calories": "\n58.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n263 "
+    },
+    {
+        "title": "Сильвер Камбала",
+        "calories": "\n57.9 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n275 "
+    },
+    {
+        "title": "Сильвер Кольца кальмара",
+        "calories": "\n45.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n13.0 ",
+        "carbohydrates": "\n241 "
+    },
+    {
+        "title": "Сильвер Кольца кальмара копчёные",
+        "calories": "\n45.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n13.0 ",
+        "carbohydrates": "\n241 "
+    },
+    {
+        "title": "Сильвер Креветка гриль",
+        "calories": "\n42.0 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n150 "
+    },
+    {
+        "title": "Сильвер Морской язык",
+        "calories": "\n40.0 ",
+        "proteins": "\n16.9 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n336 "
+    },
+    {
+        "title": "Сильвер Осьминог сушёный",
+        "calories": "\n31.0 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n95 "
+    },
+    {
+        "title": "Сильвер Ставридка",
+        "calories": "\n52.4 ",
+        "proteins": "\n5.8 ",
+        "fats": "\n3.3 ",
+        "carbohydrates": "\n262 "
+    },
+    {
+        "title": "Сильвер Тунец серебристый",
+        "calories": "\n46.3 ",
+        "proteins": "\n8.8 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n200 "
+    },
+    {
+        "title": "Сильвер Угорь",
+        "calories": "\n57.9 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n275 "
+    },
+    {
+        "title": "Сильвер Янтайная рыбка",
+        "calories": "\n40.0 ",
+        "proteins": "\n16.9 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n336 "
+    },
+    {
+        "title": "Снеки Cheetos кукурузные Хот Дог",
+        "calories": "\n5.5 ",
+        "proteins": "\n16.0 ",
+        "fats": "\n6.9 ",
+        "carbohydrates": "\n490 "
+    },
+    {
+        "title": "Соломка картофельная Бульба Sticks Кетчуп",
+        "calories": "\n5.8 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n52.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Соломка картофельная Бульба Sticks Сметана и лук",
+        "calories": "\n6.3 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n51.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Соломка рыбная",
+        "calories": "\n46.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n231 "
+    },
+    {
+        "title": "Соломка сладкая",
+        "calories": "\n9.1 ",
+        "proteins": "\n6.1 ",
+        "fats": "\n69.3 ",
+        "carbohydrates": "\n372 "
+    },
+    {
+        "title": "Соломка солёная",
+        "calories": "\n9.4 ",
+        "proteins": "\n4.5 ",
+        "fats": "\n67.0 ",
+        "carbohydrates": "\n347 "
+    },
+    {
+        "title": "Сухарики Хрусteam Багет сырное ассорти",
+        "calories": "\n10.5 ",
+        "proteins": "\n15.7 ",
+        "fats": "\n66.0 ",
+        "carbohydrates": "\n445 "
+    },
+    {
+        "title": "Сухарики Хрусteam копчёная колбаска",
+        "calories": "\n9.1 ",
+        "proteins": "\n14.4 ",
+        "fats": "\n64.0 ",
+        "carbohydrates": "\n423 "
+    },
+    {
+        "title": "Сухарики Хрусteam лесные грибы",
+        "calories": "\n9.0 ",
+        "proteins": "\n14.3 ",
+        "fats": "\n66.0 ",
+        "carbohydrates": "\n428 "
+    },
+    {
+        "title": "Сухарики Хрусteam салями",
+        "calories": "\n8.5 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n69.0 ",
+        "carbohydrates": "\n425 "
+    },
+    {
+        "title": "Сухарики Хрусteam сметана",
+        "calories": "\n9.5 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n63.0 ",
+        "carbohydrates": "\n426 "
+    },
+    {
+        "title": "Сухарики Хрусteam сыр",
+        "calories": "\n9.1 ",
+        "proteins": "\n14.5 ",
+        "fats": "\n65.0 ",
+        "carbohydrates": "\n427 "
+    },
+    {
+        "title": "Сухарики Хрусteam телятина на гриле",
+        "calories": "\n8.8 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n65.0 ",
+        "carbohydrates": "\n420 "
+    },
+    {
+        "title": "Сухарики Хрусteam томат",
+        "calories": "\n9.0 ",
+        "proteins": "\n14.3 ",
+        "fats": "\n65.0 ",
+        "carbohydrates": "\n426 "
+    },
+    {
+        "title": "Сырцееды сыр копчёный классический",
+        "calories": "\n46.4 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n413 "
+    },
+    {
+        "title": "Сырцееды сыр копчёный со вкусом томата",
+        "calories": "\n46.4 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n413 "
+    },
+    {
+        "title": "Сырцееды сыр копчёный со вкусом чеснока и укропа",
+        "calories": "\n46.4 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n413 "
+    },
+    {
+        "title": "Чипсы Brunchers Бекон",
+        "calories": "\n6.0 ",
+        "proteins": "\n32.0 ",
+        "fats": "\n51.0 ",
+        "carbohydrates": "\n520 "
+    },
+    {
+        "title": "Чипсы Don Nachos кукурузные оригинальные",
+        "calories": "\n7.0 ",
+        "proteins": "\n25.0 ",
+        "fats": "\n61.0 ",
+        "carbohydrates": "\n497 "
+    },
+    {
+        "title": "Чипсы Estrella деревенская сметана и лук",
+        "calories": "\n5.2 ",
+        "proteins": "\n30.9 ",
+        "fats": "\n53.9 ",
+        "carbohydrates": "\n514 "
+    },
+    {
+        "title": "Чипсы Estrella душистый укроп",
+        "calories": "\n5.2 ",
+        "proteins": "\n31.2 ",
+        "fats": "\n53.7 ",
+        "carbohydrates": "\n517 "
+    },
+    {
+        "title": "Чипсы Estrella нежный сыр",
+        "calories": "\n4.9 ",
+        "proteins": "\n31.5 ",
+        "fats": "\n53.8 ",
+        "carbohydrates": "\n519 "
+    },
+    {
+        "title": "Чипсы Estrella сметана и нежный сыр",
+        "calories": "\n4.9 ",
+        "proteins": "\n31.4 ",
+        "fats": "\n53.7 ",
+        "carbohydrates": "\n518 "
+    },
+    {
+        "title": "Чипсы Lays Max сметана и лук",
+        "calories": "\n6.0 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Чипсы Lays Max сметана и сыр",
+        "calories": "\n6.5 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Чипсы Lays бекон",
+        "calories": "\n6.5 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Чипсы Lays белые грибы со сметаной",
+        "calories": "\n6.0 ",
+        "proteins": "\n32.0 ",
+        "fats": "\n51.0 ",
+        "carbohydrates": "\n515 "
+    },
+    {
+        "title": "Чипсы Lays зелёный лук",
+        "calories": "\n6.5 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Чипсы Lays Из печи Нежный сыр с зеленью",
+        "calories": "\n5.0 ",
+        "proteins": "\n16.0 ",
+        "fats": "\n70.0 ",
+        "carbohydrates": "\n445 "
+    },
+    {
+        "title": "Чипсы Lays краб",
+        "calories": "\n6.5 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Чипсы Lays красная икра",
+        "calories": "\n7.0 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Чипсы Lays малосольные огурчики с укропом",
+        "calories": "\n6.5 ",
+        "proteins": "\n31.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n520 "
+    },
+    {
+        "title": "Чипсы Lays с солью",
+        "calories": "\n6.0 ",
+        "proteins": "\n31.0 ",
+        "fats": "\n52.0 ",
+        "carbohydrates": "\n520 "
+    },
+    {
+        "title": "Чипсы Lays сметана и зелень",
+        "calories": "\n6.0 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Чипсы Lays сыр",
+        "calories": "\n6.5 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n510 "
+    },
+    {
+        "title": "Чипсы Lays шашлык",
+        "calories": "\n6.0 ",
+        "proteins": "\n32.0 ",
+        "fats": "\n51.0 ",
+        "carbohydrates": "\n515 "
+    },
+    {
+        "title": "Чипсы Pringles барбекю",
+        "calories": "\n4.9 ",
+        "proteins": "\n35.0 ",
+        "fats": "\n48.0 ",
+        "carbohydrates": "\n550 "
+    },
+    {
+        "title": "Чипсы Pringles копчёный бекон",
+        "calories": "\n5.1 ",
+        "proteins": "\n34.0 ",
+        "fats": "\n49.0 ",
+        "carbohydrates": "\n551 "
+    },
+    {
+        "title": "Чипсы Pringles оригинальные",
+        "calories": "\n4.1 ",
+        "proteins": "\n36.0 ",
+        "fats": "\n49.0 ",
+        "carbohydrates": "\n540 "
+    },
+    {
+        "title": "Чипсы Pringles паприка",
+        "calories": "\n3.2 ",
+        "proteins": "\n34.0 ",
+        "fats": "\n49.0 ",
+        "carbohydrates": "\n529 "
+    },
+    {
+        "title": "Чипсы Pringles сметана и лук",
+        "calories": "\n3.9 ",
+        "proteins": "\n34.0 ",
+        "fats": "\n50.0 ",
+        "carbohydrates": "\n527 "
+    },
+    {
+        "title": "Чипсы Pringles сыр и лук",
+        "calories": "\n4.1 ",
+        "proteins": "\n34.0 ",
+        "fats": "\n50.0 ",
+        "carbohydrates": "\n550 "
+    },
+    {
+        "title": "Чипсы Pringles сырный сыр",
+        "calories": "\n5.0 ",
+        "proteins": "\n35.0 ",
+        "fats": "\n48.0 ",
+        "carbohydrates": "\n534 "
+    },
+    {
+        "title": "Чипсы Rice Up! цельнозерновые из бурого риса Песто",
+        "calories": "\n7.3 ",
+        "proteins": "\n16.0 ",
+        "fats": "\n70.0 ",
+        "carbohydrates": "\n459 "
+    },
+    {
+        "title": "Чипсы Rice Up! цельнозерновые из бурого риса Сметана с луком",
+        "calories": "\n7.5 ",
+        "proteins": "\n19.0 ",
+        "fats": "\n65.0 ",
+        "carbohydrates": "\n468 "
+    },
+    {
+        "title": "Чипсы Rice Up! цельнозерновые из бурого риса Сыр",
+        "calories": "\n7.6 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n72.0 ",
+        "carbohydrates": "\n451 "
+    },
+    {
+        "title": "Чипсы Rice Up! цельнозерновые из бурого риса Хамон Иберико",
+        "calories": "\n7.2 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n73.0 ",
+        "carbohydrates": "\n444 "
+    },
+    {
+        "title": "Чипсы банановые",
+        "calories": "\n2.3 ",
+        "proteins": "\n33.6 ",
+        "fats": "\n50.7 ",
+        "carbohydrates": "\n519 "
+    }
+]

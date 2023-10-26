@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Абрикос",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n44 "
+    },
+    {
+        "title": "Абрикос консервированный",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n15.5 ",
+        "carbohydrates": "\n67 "
+    },
+    {
+        "title": "Авокадо",
+        "calories": "\n2.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n6.0 ",
+        "carbohydrates": "\n212 "
+    },
+    {
+        "title": "Айва",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n9.8 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Аки",
+        "calories": "\n1.0 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n8.0 ",
+        "carbohydrates": "\n151 "
+    },
+    {
+        "title": "Алыча",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n6.9 ",
+        "carbohydrates": "\n27 "
+    },
+    {
+        "title": "Ананас",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n10.6 ",
+        "carbohydrates": "\n49 "
+    },
+    {
+        "title": "Ананас консервированный",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n57 "
+    },
+    {
+        "title": "Апельсин",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n8.1 ",
+        "carbohydrates": "\n36 "
+    },
+    {
+        "title": "Апельсин маринованный",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n8.9 ",
+        "carbohydrates": "\n37 "
+    },
+    {
+        "title": "Арбуз",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n5.8 ",
+        "carbohydrates": "\n25 "
+    },
+    {
+        "title": "Арбуз консервированный",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n37 "
+    },
+    {
+        "title": "Ацерола",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n7.7 ",
+        "carbohydrates": "\n32 "
+    },
+    {
+        "title": "Банан",
+        "calories": "\n1.5 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n21.8 ",
+        "carbohydrates": "\n95 "
+    },
+    {
+        "title": "Вишня",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n11.3 ",
+        "carbohydrates": "\n52 "
+    },
+    {
+        "title": "Вишня 4 сезона без косточки",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n10.7 ",
+        "carbohydrates": "\n50 "
+    },
+    {
+        "title": "Вишня Hortex без косточки",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n9.9 ",
+        "carbohydrates": "\n49 "
+    },
+    {
+        "title": "Вишня замороженная",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Вишня консервированная",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n10.6 ",
+        "carbohydrates": "\n45 "
+    },
+    {
+        "title": "Гранадилла",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n8.0 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Гранат",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n13.9 ",
+        "carbohydrates": "\n52 "
+    },
+    {
+        "title": "Грейпфрут",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n6.5 ",
+        "carbohydrates": "\n29 "
+    },
+    {
+        "title": "Груша",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n10.9 ",
+        "carbohydrates": "\n42 "
+    },
+    {
+        "title": "Груша консервированная",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n15.6 ",
+        "carbohydrates": "\n65 "
+    },
+    {
+        "title": "Гуава",
+        "calories": "\n2.6 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n8.9 ",
+        "carbohydrates": "\n68 "
+    },
+    {
+        "title": "Гуава земляничная",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.6 ",
+        "fats": "\n17.4 ",
+        "carbohydrates": "\n69 "
+    },
+    {
+        "title": "Гуарана",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n6.5 ",
+        "carbohydrates": "\n26 "
+    },
+    {
+        "title": "Джекфрут (плод хлебного дерева)",
+        "calories": "\n1.4 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n22.4 ",
+        "carbohydrates": "\n94 "
+    },
+    {
+        "title": "Дуриан",
+        "calories": "\n1.5 ",
+        "proteins": "\n5.3 ",
+        "fats": "\n23.3 ",
+        "carbohydrates": "\n147 "
+    },
+    {
+        "title": "Дыня",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n7.4 ",
+        "carbohydrates": "\n33 "
+    },
+    {
+        "title": "Дыня медовая",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n7.4 ",
+        "carbohydrates": "\n33 "
+    },
+    {
+        "title": "Жердела",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Звёздное яблоко",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n15.3 ",
+        "carbohydrates": "\n67 "
+    },
+    {
+        "title": "Инжир",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n13.7 ",
+        "carbohydrates": "\n49 "
+    },
+    {
+        "title": "Карамбола",
+        "calories": "\n1.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n31 "
+    },
+    {
+        "title": "Кивано",
+        "calories": "\n1.8 ",
+        "proteins": "\n1.3 ",
+        "fats": "\n7.6 ",
+        "carbohydrates": "\n44 "
+    },
+    {
+        "title": "Киви",
+        "calories": "\n1.0 ",
+        "proteins": "\n0.6 ",
+        "fats": "\n10.3 ",
+        "carbohydrates": "\n48 "
+    },
+    {
+        "title": "Кизил",
+        "calories": "\n1.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.5 ",
+        "carbohydrates": "\n44 "
+    },
+    {
+        "title": "Клементин",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n10.3 ",
+        "carbohydrates": "\n47 "
+    },
+    {
+        "title": "Корлан",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n18.0 ",
+        "carbohydrates": "\n82 "
+    },
+    {
+        "title": "Кумкват",
+        "calories": "\n1.9 ",
+        "proteins": "\n0.9 ",
+        "fats": "\n9.4 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Лайм",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n16 "
+    },
+    {
+        "title": "Лимон",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n16 "
+    },
+    {
+        "title": "Лимон маринованный",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n6.5 ",
+        "carbohydrates": "\n21 "
+    },
+    {
+        "title": "Лимон японский (Юзу)",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n21 "
+    },
+    {
+        "title": "Личи",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n14.4 ",
+        "carbohydrates": "\n65 "
+    },
+    {
+        "title": "Лонган",
+        "calories": "\n1.3 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n60 "
+    },
+    {
+        "title": "Лукума",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n7.9 ",
+        "carbohydrates": "\n32 "
+    },
+    {
+        "title": "Маболо",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n15.3 ",
+        "carbohydrates": "\n67 "
+    },
+    {
+        "title": "Магический фрукт",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n7.7 ",
+        "carbohydrates": "\n30 "
+    },
+    {
+        "title": "Маклюра (Адамово яблоко)",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Маммея",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n9.5 ",
+        "carbohydrates": "\n51 "
+    },
+    {
+        "title": "Манго",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n67 "
+    },
+    {
+        "title": "Мангостан (мангостин)",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n62 "
+    },
+    {
+        "title": "Мандарин",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n7.5 ",
+        "carbohydrates": "\n33 "
+    },
+    {
+        "title": "Мандарин консервированный",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n8.9 ",
+        "carbohydrates": "\n37 "
+    },
+    {
+        "title": "Маракуйя",
+        "calories": "\n2.4 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n13.4 ",
+        "carbohydrates": "\n68 "
+    },
+    {
+        "title": "Маранг",
+        "calories": "\n2.5 ",
+        "proteins": "\n0.7 ",
+        "fats": "\n27.3 ",
+        "carbohydrates": "\n125 "
+    },
+    {
+        "title": "Марула",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n9.6 ",
+        "carbohydrates": "\n48 "
+    },
+    {
+        "title": "Мора",
+        "calories": "\n1.5 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n5.9 ",
+        "carbohydrates": "\n34 "
+    },
+    {
+        "title": "Мушмула германская",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n53 "
+    },
+    {
+        "title": "Мушмула японская",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n10.4 ",
+        "carbohydrates": "\n47 "
+    },
+    {
+        "title": "Нектарин",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n11.8 ",
+        "carbohydrates": "\n48 "
+    },
+    {
+        "title": "Нойна (Сахарное яблоко)",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n9.8 ",
+        "carbohydrates": "\n47 "
+    },
+    {
+        "title": "Нони",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n44 "
+    },
+    {
+        "title": "Папайя",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n9.2 ",
+        "carbohydrates": "\n48 "
+    },
+    {
+        "title": "Пассифлора голубая (Кавалерская звезда)",
+        "calories": "\n2.4 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n13.4 ",
+        "carbohydrates": "\n68 "
+    },
+    {
+        "title": "Пепино",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n20.0 ",
+        "carbohydrates": "\n80 "
+    },
+    {
+        "title": "Персик",
+        "calories": "\n0.9 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n11.3 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Персики консервированные",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n14.7 ",
+        "carbohydrates": "\n68 "
+    },
+    {
+        "title": "Питайя",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n50 "
+    },
+    {
+        "title": "Плуот",
+        "calories": "\n1.2 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n57 "
+    },
+    {
+        "title": "Помело",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n6.7 ",
+        "carbohydrates": "\n32 "
+    },
+    {
+        "title": "Рамбутан",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n19.0 ",
+        "carbohydrates": "\n82 "
+    },
+    {
+        "title": "Салакка",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n50 "
+    },
+    {
+        "title": "Саподилла",
+        "calories": "\n0.4 ",
+        "proteins": "\n1.1 ",
+        "fats": "\n14.7 ",
+        "carbohydrates": "\n83 "
+    },
+    {
+        "title": "Сапота (Чёрное яблоко)",
+        "calories": "\n2.1 ",
+        "proteins": "\n0.6 ",
+        "fats": "\n31.2 ",
+        "carbohydrates": "\n134 "
+    },
+    {
+        "title": "Свити",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n58 "
+    },
+    {
+        "title": "Сизигиум",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n5.6 ",
+        "carbohydrates": "\n25 "
+    },
+    {
+        "title": "Слива",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n9.6 ",
+        "carbohydrates": "\n42 "
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "title": "7up",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n8.7 ",
+        "carbohydrates": "\n38 "
+    },
+    {
+        "title": "Вода",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Вода минеральная",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Вода содовая",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Газированный напиток Байкал Черноголовка",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Газированный напиток Золото Саян Черноголовка",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Газированный напиток Тархун Черноголовка",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Горячий шоколад Fit Parad",
+        "calories": "\n3.0 ",
+        "proteins": "\n5.5 ",
+        "fats": "\n42.0 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Детское шампанское",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.6 ",
+        "carbohydrates": "\n44 "
+    },
+    {
+        "title": "Злаковый напиток Старая мельница Ячмень без кофеина",
+        "calories": "\n3.8 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n49.6 ",
+        "carbohydrates": "\n370 "
+    },
+    {
+        "title": "Какао Dr.Oetker",
+        "calories": "\n22.0 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n235 "
+    },
+    {
+        "title": "Какао тёртое",
+        "calories": "\n13.5 ",
+        "proteins": "\n54.0 ",
+        "fats": "\n17.8 ",
+        "carbohydrates": "\n607 "
+    },
+    {
+        "title": "Какао-крупка",
+        "calories": "\n14.0 ",
+        "proteins": "\n54.0 ",
+        "fats": "\n18.0 ",
+        "carbohydrates": "\n607 "
+    },
+    {
+        "title": "Какао-напиток Nestle Nesquik быстрорастворимый",
+        "calories": "\n4.5 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n81.0 ",
+        "carbohydrates": "\n379 "
+    },
+    {
+        "title": "Какао-порошок",
+        "calories": "\n24.2 ",
+        "proteins": "\n17.5 ",
+        "fats": "\n31.9 ",
+        "carbohydrates": "\n374 "
+    },
+    {
+        "title": "Какао-порошок Easy Product Premium 10-12",
+        "calories": "\n22.2 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n10.3 ",
+        "carbohydrates": "\n305 "
+    },
+    {
+        "title": "Какао-порошок Vanortton Gold натуральный",
+        "calories": "\n22.6 ",
+        "proteins": "\n10.5 ",
+        "fats": "\n9.2 ",
+        "carbohydrates": "\n293 "
+    },
+    {
+        "title": "Какао-порошок алкализованный Продукты XXII века",
+        "calories": "\n24.0 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n52.6 ",
+        "carbohydrates": "\n417 "
+    },
+    {
+        "title": "Какао-порошок Золотой ярлык",
+        "calories": "\n24.0 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n350 "
+    },
+    {
+        "title": "Какао-порошок Лента",
+        "calories": "\n28.0 ",
+        "proteins": "\n9.0 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n250 "
+    },
+    {
+        "title": "Какао-порошок Магнит",
+        "calories": "\n21.0 ",
+        "proteins": "\n12.0 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Какао-порошок обезжиренный 0-1%",
+        "calories": "\n30.0 ",
+        "proteins": "\n0.9 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n179 "
+    },
+    {
+        "title": "Какао-порошок обезжиренный 0-2%",
+        "calories": "\n13.0 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n5.0 ",
+        "carbohydrates": "\n89 "
+    },
+    {
+        "title": "Квас Очаковский",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n5.5 ",
+        "carbohydrates": "\n30 "
+    },
+    {
+        "title": "Квас хлебный",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n5.2 ",
+        "carbohydrates": "\n27 "
+    },
+    {
+        "title": "Кедрокофе классический Sibereco",
+        "calories": "\n17.2 ",
+        "proteins": "\n16.3 ",
+        "fats": "\n26.3 ",
+        "carbohydrates": "\n301 "
+    },
+    {
+        "title": "Кислородный коктейль Экотейль",
+        "calories": "\n7.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n83.0 ",
+        "carbohydrates": "\n360 "
+    },
+    {
+        "title": "Кола",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.4 ",
+        "carbohydrates": "\n42 "
+    },
+    {
+        "title": "Кола лайт",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Кофе Maxwell House гранулированный сухой",
+        "calories": "\n14.6 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.3 ",
+        "carbohydrates": "\n100 "
+    },
+    {
+        "title": "Кофе Maxwell House растворимый сухой",
+        "calories": "\n14.6 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.3 ",
+        "carbohydrates": "\n100 "
+    },
+    {
+        "title": "Кофе жареный в зёрнах сухой",
+        "calories": "\n13.9 ",
+        "proteins": "\n14.4 ",
+        "fats": "\n15.6 ",
+        "carbohydrates": "\n223 "
+    },
+    {
+        "title": "Кофе зелёный сухой",
+        "calories": "\n12.3 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n35.7 ",
+        "carbohydrates": "\n222 "
+    },
+    {
+        "title": "Кофе капучино",
+        "calories": "\n1.5 ",
+        "proteins": "\n1.8 ",
+        "fats": "\n2.5 ",
+        "carbohydrates": "\n32 "
+    },
+    {
+        "title": "Кофе латте",
+        "calories": "\n2.0 ",
+        "proteins": "\n2.1 ",
+        "fats": "\n3.2 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Кофе латте макиато",
+        "calories": "\n1.5 ",
+        "proteins": "\n1.4 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n29 "
+    },
+    {
+        "title": "Кофе моккачино",
+        "calories": "\n2.8 ",
+        "proteins": "\n10.6 ",
+        "fats": "\n46.5 ",
+        "carbohydrates": "\n289 "
+    },
+    {
+        "title": "Кофе натуральный молотый сухой",
+        "calories": "\n13.9 ",
+        "proteins": "\n14.4 ",
+        "fats": "\n4.1 ",
+        "carbohydrates": "\n201 "
+    },
+    {
+        "title": "Кофе по-Венски",
+        "calories": "\n1.1 ",
+        "proteins": "\n6.7 ",
+        "fats": "\n1.4 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Кофе по-ирландски",
+        "calories": "\n0.0 ",
+        "proteins": "\n4.5 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n114 "
+    },
+    {
+        "title": "Кофе Президент молотый сухой",
+        "calories": "\n13.9 ",
+        "proteins": "\n14.4 ",
+        "fats": "\n2.8 ",
+        "carbohydrates": "\n218 "
+    },
+    {
+        "title": "Кофе растворимый сухой",
+        "calories": "\n15.0 ",
+        "proteins": "\n3.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n94 "
+    },
+    {
+        "title": "Кофе с молоком и сахаром",
+        "calories": "\n0.7 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n11.2 ",
+        "carbohydrates": "\n58 "
+    },
+    {
+        "title": "Кофе со сгущенным молоком",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.9 ",
+        "fats": "\n10.9 ",
+        "carbohydrates": "\n55 "
+    },
+    {
+        "title": "Кофе со сгущенным молоком и сахаром",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.6 ",
+        "fats": "\n13.6 ",
+        "carbohydrates": "\n62 "
+    },
+    {
+        "title": "Кофе черный",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.3 ",
+        "carbohydrates": "\n2 "
+    },
+    {
+        "title": "Кофе Чибо растворимый сухой",
+        "calories": "\n18.1 ",
+        "proteins": "\n0.7 ",
+        "fats": "\n46.3 ",
+        "carbohydrates": "\n264 "
+    },
+    {
+        "title": "Кофе эспрессо макиато",
+        "calories": "\n1.1 ",
+        "proteins": "\n0.8 ",
+        "fats": "\n1.8 ",
+        "carbohydrates": "\n19 "
+    },
+    {
+        "title": "Кофейный напиток",
+        "calories": "\n6.0 ",
+        "proteins": "\n4.8 ",
+        "fats": "\n71.2 ",
+        "carbohydrates": "\n337 "
+    },
+    {
+        "title": "Кофейный напиток iCafe Iced French Vanilla Coffe",
+        "calories": "\n1.0 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n7.1 ",
+        "carbohydrates": "\n43 "
+    },
+    {
+        "title": "Кофейный напиток iCafe Iced Mocha",
+        "calories": "\n1.2 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n9.2 ",
+        "carbohydrates": "\n52 "
+    },
+    {
+        "title": "Кофейный напиток MacCoffee растворимый Оригинальный 3 в 1",
+        "calories": "\n3.0 ",
+        "proteins": "\n8.0 ",
+        "fats": "\n86.0 ",
+        "carbohydrates": "\n420 "
+    },
+    {
+        "title": "Кофейный напиток Nescafé Xpress Choko Latte",
+        "calories": "\n1.4 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n8.3 ",
+        "carbohydrates": "\n52 "
+    },
+    {
+        "title": "Кофейный напиток Nescafé Xpress Vanilla",
+        "calories": "\n1.4 ",
+        "proteins": "\n1.3 ",
+        "fats": "\n8.3 ",
+        "carbohydrates": "\n51 "
+    },
+    {
+        "title": "Лёд колотый",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Лимонад",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n6.4 ",
+        "carbohydrates": "\n26 "
+    },
+    {
+        "title": "Лимонад диетический",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n2 "
+    },
+    {
+        "title": "Миринда",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n7.5 ",
+        "carbohydrates": "\n31 "
+    },
+    {
+        "title": "Морс брусничный",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.7 ",
+        "carbohydrates": "\n41 "
+    },
+    {
+        "title": "Напиток AdeZ Восхитительный миндаль",
+        "calories": "\n0.0 ",
+        "proteins": "\n1.1 ",
+        "fats": "\n0.5 ",
+        "carbohydrates": "\n13 "
+    },
+    {
+        "title": "Напиток AdeZ Изумительная соя",
+        "calories": "\n2.9 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n35 "
+    },
+    {
+        "title": "Напиток Alpro кокосовый без сахара",
+        "calories": "\n0.1 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n0.4 ",
+        "carbohydrates": "\n13 "
+    },
+    {
+        "title": "Напиток Alpro кокосовый с рисом",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.9 ",
+        "fats": "\n2.7 ",
+        "carbohydrates": "\n19 "
+    },
+    {
+        "title": "Напиток Alpro миндальный",
+        "calories": "\n0.4 ",
+        "proteins": "\n1.1 ",
+        "fats": "\n2.4 ",
+        "carbohydrates": "\n21 "
+    },
+    {
+        "title": "Напиток Alpro миндальный без сахара",
+        "calories": "\n0.4 ",
+        "proteins": "\n1.1 ",
+        "fats": "\n0.1 ",
+        "carbohydrates": "\n12 "
+    },
+    {
+        "title": "Напиток Aqua Minerale Active",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n4.5 ",
+        "carbohydrates": "\n18 "
+    },
+    {
+        "title": "Напиток BonAqua Viva",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n4.6 ",
+        "carbohydrates": "\n19 "
+    },
+    {
+        "title": "Напиток Nestea Vitao Белый чай со вкусом абрикоса",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n6.3 ",
+        "carbohydrates": "\n26 "
+    },
+    {
+        "title": "Напиток Nestea Vitao Зеленый чай со вкусом клубники и Алое Вера",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n7.5 ",
+        "carbohydrates": "\n32 "
+    },
+    {
+        "title": "Напиток Nestea Вкус лесных ягод",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n7.8 ",
+        "carbohydrates": "\n33 "
+    },
+    {
+        "title": "Напиток Nestea Вкус лимона",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n7.5 ",
+        "carbohydrates": "\n31 "
+    },
+    {
+        "title": "Напиток Nestea Вкус персика",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n6.8 ",
+        "carbohydrates": "\n29 "
+    },
+    {
+        "title": "Огуречный рассол",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.3 ",
+        "carbohydrates": "\n12 "
+    },
+    {
+        "title": "Пепси",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n8.7 ",
+        "carbohydrates": "\n38 "
+    },
+    {
+        "title": "Пиво Афанасий Крафтовое безалкогольное",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n3.7 ",
+        "carbohydrates": "\n40 "
+    },
+    {
+        "title": "Пиво Балтика №0 Безалкогольное",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n6.1 ",
+        "carbohydrates": "\n33 "
+    },
+    {
+        "title": "Пиво безалкогольное",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n4.7 ",
+        "carbohydrates": "\n26 "
+    },
+    {
+        "title": "Пиво Оболонь Безалкогольное",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n4.1 ",
+        "carbohydrates": "\n22 "
+    },
+    {
+        "title": "Пиво Сибирская корона Безалкогольное",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n4.7 ",
+        "carbohydrates": "\n26 "
+    },
+    {
+        "title": "Спрайт",
+        "calories": "\n0.1 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n7.0 ",
+        "carbohydrates": "\n29 "
+    }
+]

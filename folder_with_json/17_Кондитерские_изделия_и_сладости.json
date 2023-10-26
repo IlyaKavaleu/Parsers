@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Батончик Nestle Fitness с цельными злаками и клубникой",
+        "calories": "\n5.8 ",
+        "proteins": "\n6.7 ",
+        "fats": "\n68.9 ",
+        "carbohydrates": "\n369 "
+    },
+    {
+        "title": "Батончик злаковый Be-Kind Цельные злаки Малина",
+        "calories": "\n6.8 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n65.0 ",
+        "carbohydrates": "\n423 "
+    },
+    {
+        "title": "Батончик злаковый Be-Kind Цельные злаки Мёд",
+        "calories": "\n6.5 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n65.0 ",
+        "carbohydrates": "\n431 "
+    },
+    {
+        "title": "Батончик злаковый Corny Big с бананом и шоколадом",
+        "calories": "\n6.1 ",
+        "proteins": "\n15.2 ",
+        "fats": "\n65.6 ",
+        "carbohydrates": "\n424 "
+    },
+    {
+        "title": "Батончик злаковый Corny Big с клюквой",
+        "calories": "\n5.9 ",
+        "proteins": "\n7.4 ",
+        "fats": "\n71.4 ",
+        "carbohydrates": "\n377 "
+    },
+    {
+        "title": "Батончик злаковый Corny Big с лесными орехами",
+        "calories": "\n6.4 ",
+        "proteins": "\n15.6 ",
+        "fats": "\n63.2 ",
+        "carbohydrates": "\n419 "
+    },
+    {
+        "title": "Батончик злаковый Corny Big с шоколадом",
+        "calories": "\n7.0 ",
+        "proteins": "\n17.0 ",
+        "fats": "\n62.9 ",
+        "carbohydrates": "\n433 "
+    },
+    {
+        "title": "Батончик мюсли DiYes Чернослив в шоколаде",
+        "calories": "\n4.0 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n70.0 ",
+        "carbohydrates": "\n390 "
+    },
+    {
+        "title": "Батончик мюсли Ego с бананом в шоколаде",
+        "calories": "\n5.0 ",
+        "proteins": "\n13.5 ",
+        "fats": "\n68.0 ",
+        "carbohydrates": "\n416 "
+    },
+    {
+        "title": "Батончик мюсли Ego с вишней в йогурте",
+        "calories": "\n6.0 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n56.0 ",
+        "carbohydrates": "\n416 "
+    },
+    {
+        "title": "Батончик мюсли Ego с клубникой в йогурте",
+        "calories": "\n4.0 ",
+        "proteins": "\n14.5 ",
+        "fats": "\n67.5 ",
+        "carbohydrates": "\n418 "
+    },
+    {
+        "title": "Батончик мюсли Ego с лесными ягодами в йогурте",
+        "calories": "\n4.0 ",
+        "proteins": "\n13.5 ",
+        "fats": "\n69.5 ",
+        "carbohydrates": "\n418 "
+    },
+    {
+        "title": "Батончик мюсли Ego с черникой в йогурте",
+        "calories": "\n5.5 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n67.5 ",
+        "carbohydrates": "\n420 "
+    },
+    {
+        "title": "Батончик мюсли Tekmar клубника в йогурте",
+        "calories": "\n4.5 ",
+        "proteins": "\n16.8 ",
+        "fats": "\n70.7 ",
+        "carbohydrates": "\n452 "
+    },
+    {
+        "title": "Батончик ореховый Be-Kind Горький шоколад Морская соль",
+        "calories": "\n17.0 ",
+        "proteins": "\n37.0 ",
+        "fats": "\n24.0 ",
+        "carbohydrates": "\n523 "
+    },
+    {
+        "title": "Батончик ореховый Be-Kind Миндаль Кокос",
+        "calories": "\n11.0 ",
+        "proteins": "\n38.0 ",
+        "fats": "\n31.0 ",
+        "carbohydrates": "\n532 "
+    },
+    {
+        "title": "Батончик ореховый Be-Kind Орехи Мёд и Морская соль",
+        "calories": "\n17.0 ",
+        "proteins": "\n41.0 ",
+        "fats": "\n23.0 ",
+        "carbohydrates": "\n544 "
+    },
+    {
+        "title": "Батончик Пульсар с миндалем в шоколадной глазури",
+        "calories": "\n6.3 ",
+        "proteins": "\n13.9 ",
+        "fats": "\n58.8 ",
+        "carbohydrates": "\n385 "
+    },
+    {
+        "title": "Батончик фруктовый Joyfield с абрикосом в шоколаде",
+        "calories": "\n9.8 ",
+        "proteins": "\n0.6 ",
+        "fats": "\n72.3 ",
+        "carbohydrates": "\n352 "
+    },
+    {
+        "title": "Батончик фруктовый Joyfield с абрикосом и яблоком",
+        "calories": "\n3.7 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n74.8 ",
+        "carbohydrates": "\n282 "
+    },
+    {
+        "title": "Батончик фруктовый Joyfield с лимонником и папайей",
+        "calories": "\n4.1 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n77.0 ",
+        "carbohydrates": "\n302 "
+    },
+    {
+        "title": "Батончик фруктовый Joyfield с полевой клубникой",
+        "calories": "\n4.5 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n75.4 ",
+        "carbohydrates": "\n286 "
+    },
+    {
+        "title": "Батончик фруктовый Joyfield с черникой",
+        "calories": "\n4.5 ",
+        "proteins": "\n0.4 ",
+        "fats": "\n73.3 ",
+        "carbohydrates": "\n273 "
+    },
+    {
+        "title": "Батончик фруктовый Joyfield с черносливом в шоколаде",
+        "calories": "\n7.8 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n67.7 ",
+        "carbohydrates": "\n340 "
+    },
+    {
+        "title": "Батончик фруктовый Joyfield с черносливом и ананасом",
+        "calories": "\n3.4 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n75.1 ",
+        "carbohydrates": "\n314 "
+    },
+    {
+        "title": "Батончик фруктовый Joyfield с черносливом и яблоком",
+        "calories": "\n2.1 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n70.2 ",
+        "carbohydrates": "\n280 "
+    },
+    {
+        "title": "Батончик фруктовый Ого! с вишней глазированный",
+        "calories": "\n3.5 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n56.0 ",
+        "carbohydrates": "\n280 "
+    },
+    {
+        "title": "Батончик фруктовый Ого! с облепихой",
+        "calories": "\n3.0 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n44.0 ",
+        "carbohydrates": "\n200 "
+    },
+    {
+        "title": "Батончик фруктовый Ого! с черникой",
+        "calories": "\n4.0 ",
+        "proteins": "\n0.7 ",
+        "fats": "\n86.0 ",
+        "carbohydrates": "\n330 "
+    },
+    {
+        "title": "Батончик фруктовый Сладкий мир хлеб банановый",
+        "calories": "\n6.8 ",
+        "proteins": "\n9.6 ",
+        "fats": "\n59.9 ",
+        "carbohydrates": "\n352 "
+    },
+    {
+        "title": "Батончик фруктовый Фрутилад с облепихой",
+        "calories": "\n3.5 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n45.0 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Баурсак",
+        "calories": "\n6.8 ",
+        "proteins": "\n2.6 ",
+        "fats": "\n45.8 ",
+        "carbohydrates": "\n234 "
+    },
+    {
+        "title": "Бисквитник Сдобная особа медовый с вареной сгущенкой",
+        "calories": "\n5.3 ",
+        "proteins": "\n19.6 ",
+        "fats": "\n46.1 ",
+        "carbohydrates": "\n378 "
+    },
+    {
+        "title": "Бисквитник Сдобная особа с начинкой маракуйя",
+        "calories": "\n3.9 ",
+        "proteins": "\n17.2 ",
+        "fats": "\n51.5 ",
+        "carbohydrates": "\n375 "
+    },
+    {
+        "title": "Бисквитник Сдобная особа шоколадный с шоколадной начинкой",
+        "calories": "\n4.3 ",
+        "proteins": "\n18.3 ",
+        "fats": "\n48.5 ",
+        "carbohydrates": "\n378 "
+    },
+    {
+        "title": "Варенье из абрикосов",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n62.0 ",
+        "carbohydrates": "\n236 "
+    },
+    {
+        "title": "Варенье из айвы",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n70.6 ",
+        "carbohydrates": "\n273 "
+    },
+    {
+        "title": "Варенье из апельсинов",
+        "calories": "\n2.6 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n70.0 ",
+        "carbohydrates": "\n245 "
+    },
+    {
+        "title": "Варенье из брусники",
+        "calories": "\n0.2 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n64.6 ",
+        "carbohydrates": "\n244 "
+    },
+    {
+        "title": "Варенье из вишни",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n64.0 ",
+        "carbohydrates": "\n256 "
+    },
+    {
+        "title": "Варенье из груши",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n70.8 ",
+        "carbohydrates": "\n273 "
+    },
+    {
+        "title": "Варенье из дыни",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n44.7 ",
+        "carbohydrates": "\n197 "
+    },
+    {
+        "title": "Варенье из земляники",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n58.0 ",
+        "carbohydrates": "\n219 "
+    },
+    {
+        "title": "Варенье из инжира",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n62.0 ",
+        "carbohydrates": "\n236 "
+    },
+    {
+        "title": "Варенье из кабачков",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n48.9 ",
+        "carbohydrates": "\n196 "
+    },
+    {
+        "title": "Варенье из клубники",
+        "calories": "\n0.3 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n74.0 ",
+        "carbohydrates": "\n285 "
+    },
+    {
+        "title": "Варенье из лимонов",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n60.0 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Варенье из малины",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n70.4 ",
+        "carbohydrates": "\n273 "
+    },
+    {
+        "title": "Варенье из мандаринов",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n75.9 ",
+        "carbohydrates": "\n294 "
+    },
+    {
+        "title": "Варенье из облепихи",
+        "calories": "\n0.7 ",
+        "proteins": "\n3.7 ",
+        "fats": "\n34.4 ",
+        "carbohydrates": "\n165 "
+    },
+    {
+        "title": "Варенье из одуванчиков",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n48.0 ",
+        "carbohydrates": "\n191 "
+    },
+    {
+        "title": "Варенье из персиков",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n66.8 ",
+        "carbohydrates": "\n258 "
+    },
+    {
+        "title": "Варенье из ревеня",
+        "calories": "\n0.5 ",
+        "proteins": "\n0.5 ",
+        "fats": "\n82.4 ",
+        "carbohydrates": "\n314 "
+    },
+    {
+        "title": "Варенье из сливы",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n74.2 ",
+        "carbohydrates": "\n288 "
+    },
+    {
+        "title": "Варенье из тёрна",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n62.0 ",
+        "carbohydrates": "\n248 "
+    },
+    {
+        "title": "Варенье из черники",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n56.1 ",
+        "carbohydrates": "\n214 "
+    },
+    {
+        "title": "Варенье из чёрной смородины",
+        "calories": "\n0.6 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n72.9 ",
+        "carbohydrates": "\n284 "
+    },
+    {
+        "title": "Варенье из черноплодной рябины",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n74.8 ",
+        "carbohydrates": "\n387 "
+    },
+    {
+        "title": "Варенье из яблок",
+        "calories": "\n0.4 ",
+        "proteins": "\n0.3 ",
+        "fats": "\n68.2 ",
+        "carbohydrates": "\n265 "
+    },
+    {
+        "title": "Вафли венские с карамелью",
+        "calories": "\n8.1 ",
+        "proteins": "\n19.4 ",
+        "fats": "\n53.3 ",
+        "carbohydrates": "\n424 "
+    },
+    {
+        "title": "Вафли венские со взбитыми сливками",
+        "calories": "\n4.8 ",
+        "proteins": "\n23.3 ",
+        "fats": "\n50.5 ",
+        "carbohydrates": "\n489 "
+    },
+    {
+        "title": "Вафли ВкусВилл с какао",
+        "calories": "\n6.0 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n61.0 ",
+        "carbohydrates": "\n538 "
+    },
+    {
+        "title": "Вафли Леди Джем со вкусом вишни",
+        "calories": "\n3.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n82.0 ",
+        "carbohydrates": "\n330 "
+    },
+    {
+        "title": "Вафли с жирной начинкой",
+        "calories": "\n3.4 ",
+        "proteins": "\n30.2 ",
+        "fats": "\n64.7 ",
+        "carbohydrates": "\n539 "
+    },
+    {
+        "title": "Вафли с фруктовой начинкой",
+        "calories": "\n3.2 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n80.9 ",
+        "carbohydrates": "\n350 "
+    },
+    {
+        "title": "Вафли Сдобная особа домашние с изюмом",
+        "calories": "\n7.9 ",
+        "proteins": "\n21.7 ",
+        "fats": "\n55.8 ",
+        "carbohydrates": "\n452 "
+    },
+    {
+        "title": "Вафли Сдобная особа домашние сахарные",
+        "calories": "\n8.2 ",
+        "proteins": "\n23.1 ",
+        "fats": "\n54.4 ",
+        "carbohydrates": "\n459 "
+    },
+    {
+        "title": "Вафли Сдобная особа мягкие с суфле классические",
+        "calories": "\n5.5 ",
+        "proteins": "\n23.9 ",
+        "fats": "\n52.2 ",
+        "carbohydrates": "\n446 "
+    },
+    {
+        "title": "Вафли Сдобная особа мягкие с суфле со вкусом пломбира",
+        "calories": "\n5.5 ",
+        "proteins": "\n23.9 ",
+        "fats": "\n52.2 ",
+        "carbohydrates": "\n446 "
+    },
+    {
+        "title": "Вафли Яшкино с карамельной начинкой",
+        "calories": "\n6.0 ",
+        "proteins": "\n15.2 ",
+        "fats": "\n67.9 ",
+        "carbohydrates": "\n430 "
+    },
+    {
+        "title": "Галеты Nordic из овса с брусникой",
+        "calories": "\n9.0 ",
+        "proteins": "\n14.0 ",
+        "fats": "\n61.0 ",
+        "carbohydrates": "\n420 "
+    },
+    {
+        "title": "Галеты Любятово классические",
+        "calories": "\n11.1 ",
+        "proteins": "\n1.2 ",
+        "fats": "\n76.0 ",
+        "carbohydrates": "\n365 "
+    },
+    {
+        "title": "Ганаш",
+        "calories": "\n4.9 ",
+        "proteins": "\n34.5 ",
+        "fats": "\n52.5 ",
+        "carbohydrates": "\n542 "
+    },
+    {
+        "title": "Ганаш белый",
+        "calories": "\n3.9 ",
+        "proteins": "\n37.2 ",
+        "fats": "\n48.9 ",
+        "carbohydrates": "\n547 "
+    },
+    {
+        "title": "Ганаш шоколадный",
+        "calories": "\n4.9 ",
+        "proteins": "\n34.5 ",
+        "fats": "\n52.5 ",
+        "carbohydrates": "\n542 "
+    },
+    {
+        "title": "Гематоген",
+        "calories": "\n6.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n75.7 ",
+        "carbohydrates": "\n354 "
+    },
+    {
+        "title": "Гематоген Русский детский",
+        "calories": "\n3.5 ",
+        "proteins": "\n2.9 ",
+        "fats": "\n75.6 ",
+        "carbohydrates": "\n343 "
+    },
+    {
+        "title": "ГематогенКА",
+        "calories": "\n4.9 ",
+        "proteins": "\n11.5 ",
+        "fats": "\n81.0 ",
+        "carbohydrates": "\n425 "
+    },
+    {
+        "title": "Десерт Alpro Soya ванильный",
+        "calories": "\n3.0 ",
+        "proteins": "\n1.8 ",
+        "fats": "\n12.7 ",
+        "carbohydrates": "\n80 "
+    },
+    {
+        "title": "Десерт Daily Трубочка вафельная с вареным сгущенным молоком",
+        "calories": "\n10.1 ",
+        "proteins": "\n14.9 ",
+        "fats": "\n57.6 ",
+        "carbohydrates": "\n405 "
+    }
+]

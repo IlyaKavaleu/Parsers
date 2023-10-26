@@ -1,0 +1,219 @@
+[
+    {
+        "title": "Десерт горячий Брауни Бургер Кинг",
+        "calories": "\n5.6 ",
+        "proteins": "\n30.9 ",
+        "fats": "\n39.2 ",
+        "carbohydrates": "\n456 "
+    },
+    {
+        "title": "Десерт мороженое Рожок Бургер Кинг",
+        "calories": "\n4.2 ",
+        "proteins": "\n4.2 ",
+        "fats": "\n25.5 ",
+        "carbohydrates": "\n157 "
+    },
+    {
+        "title": "Картофель Деревенский Бургер Кинг",
+        "calories": "\n2.9 ",
+        "proteins": "\n10.8 ",
+        "fats": "\n28.5 ",
+        "carbohydrates": "\n223 "
+    },
+    {
+        "title": "Картофель Кинг Фри Бургер Кинг",
+        "calories": "\n4.7 ",
+        "proteins": "\n13.1 ",
+        "fats": "\n33.6 ",
+        "carbohydrates": "\n275 "
+    },
+    {
+        "title": "Напиток 7UP Бургер Кинг",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.7 ",
+        "carbohydrates": "\n43 "
+    },
+    {
+        "title": "Напиток Mirinda Бургер Кинг",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n12.2 ",
+        "carbohydrates": "\n49 "
+    },
+    {
+        "title": "Напиток Pepsi Бургер Кинг",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.8 ",
+        "carbohydrates": "\n43 "
+    },
+    {
+        "title": "Напиток кофе Бургер Кинг",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Напиток кофе Капучино Бургер Кинг",
+        "calories": "\n2.0 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n4.9 ",
+        "carbohydrates": "\n48 "
+    },
+    {
+        "title": "Напиток кофе Латте Бургер Кинг",
+        "calories": "\n2.6 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n5.9 ",
+        "carbohydrates": "\n60 "
+    },
+    {
+        "title": "Напиток Молочный шейк (ванильный) Бургер Кинг",
+        "calories": "\n3.9 ",
+        "proteins": "\n4.0 ",
+        "fats": "\n23.4 ",
+        "carbohydrates": "\n145 "
+    },
+    {
+        "title": "Напиток чай (зеленый и черный) Бургер Кинг",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n"
+    },
+    {
+        "title": "Салат Микс Бургер Кинг",
+        "calories": "\n1.3 ",
+        "proteins": "\n0.2 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n23 "
+    },
+    {
+        "title": "Снеки Кинг Наггетс",
+        "calories": "\n16.0 ",
+        "proteins": "\n16.7 ",
+        "fats": "\n15.2 ",
+        "carbohydrates": "\n275 "
+    },
+    {
+        "title": "Снеки Крылышки Кинг",
+        "calories": "\n21.8 ",
+        "proteins": "\n13.7 ",
+        "fats": "\n2.6 ",
+        "carbohydrates": "\n221 "
+    },
+    {
+        "title": "Снеки Луковые колечки Бургер Кинг",
+        "calories": "\n5.2 ",
+        "proteins": "\n13.3 ",
+        "fats": "\n38.1 ",
+        "carbohydrates": "\n293 "
+    },
+    {
+        "title": "Сэндвич Биг Кинг",
+        "calories": "\n8.5 ",
+        "proteins": "\n13.1 ",
+        "fats": "\n14.9 ",
+        "carbohydrates": "\n212 "
+    },
+    {
+        "title": "Сэндвич Воппер",
+        "calories": "\n9.2 ",
+        "proteins": "\n12.1 ",
+        "fats": "\n15.4 ",
+        "carbohydrates": "\n207 "
+    },
+    {
+        "title": "Сэндвич Воппер Двойной",
+        "calories": "\n11.9 ",
+        "proteins": "\n15.1 ",
+        "fats": "\n12.1 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Сэндвич Воппер Джуниор",
+        "calories": "\n9.2 ",
+        "proteins": "\n10.7 ",
+        "fats": "\n19.0 ",
+        "carbohydrates": "\n207 "
+    },
+    {
+        "title": "Сэндвич Воппер Тройной",
+        "calories": "\n13.7 ",
+        "proteins": "\n16.4 ",
+        "fats": "\n9.9 ",
+        "carbohydrates": "\n240 "
+    },
+    {
+        "title": "Сэндвич Гамбургер Бургер Кинг",
+        "calories": "\n7.6 ",
+        "proteins": "\n5.1 ",
+        "fats": "\n25.9 ",
+        "carbohydrates": "\n182 "
+    },
+    {
+        "title": "Сэндвич Гриль Чикен Барбекю",
+        "calories": "\n12.1 ",
+        "proteins": "\n11.9 ",
+        "fats": "\n18.5 ",
+        "carbohydrates": "\n233 "
+    },
+    {
+        "title": "Сэндвич Криспи Чикен",
+        "calories": "\n9.7 ",
+        "proteins": "\n15.8 ",
+        "fats": "\n18.9 ",
+        "carbohydrates": "\n257 "
+    },
+    {
+        "title": "Сэндвич Стейкхаус Бургер Кинг",
+        "calories": "\n12.0 ",
+        "proteins": "\n16.5 ",
+        "fats": "\n18.6 ",
+        "carbohydrates": "\n276 "
+    },
+    {
+        "title": "Сэндвич Фиш Кинг",
+        "calories": "\n8.8 ",
+        "proteins": "\n14.9 ",
+        "fats": "\n21.4 ",
+        "carbohydrates": "\n255 "
+    },
+    {
+        "title": "Сэндвич Цезарь Ролл Бургер Кинг",
+        "calories": "\n10.7 ",
+        "proteins": "\n10.9 ",
+        "fats": "\n19.7 ",
+        "carbohydrates": "\n230 "
+    },
+    {
+        "title": "Сэндвич Чизбургер Бургер Кинг",
+        "calories": "\n8.8 ",
+        "proteins": "\n7.3 ",
+        "fats": "\n23.6 ",
+        "carbohydrates": "\n198 "
+    },
+    {
+        "title": "Сэндвич Чизбургер Двойной Бургер Кинг",
+        "calories": "\n9.6 ",
+        "proteins": "\n8.6 ",
+        "fats": "\n17.0 ",
+        "carbohydrates": "\n187 "
+    },
+    {
+        "title": "Сэндвич Чикен Лонг",
+        "calories": "\n10.9 ",
+        "proteins": "\n16.1 ",
+        "fats": "\n22.4 ",
+        "carbohydrates": "\n278 "
+    },
+    {
+        "title": "Сэндвич Чикенбургер Бургер Кинг",
+        "calories": "\n8.3 ",
+        "proteins": "\n16.2 ",
+        "fats": "\n22.6 ",
+        "carbohydrates": "\n270 "
+    }
+]

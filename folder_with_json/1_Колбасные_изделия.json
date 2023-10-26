@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Колбаса вареная Велком языковая",
+        "calories": "\n14.0 ",
+        "proteins": "\n17.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Колбаса вареная Вязанка классическая",
+        "calories": "\n11.0 ",
+        "proteins": "\n13.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n161 "
+    },
+    {
+        "title": "Колбаса вареная Диетическая",
+        "calories": "\n12.1 ",
+        "proteins": "\n13.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n170 "
+    },
+    {
+        "title": "Колбаса вареная Докторская",
+        "calories": "\n12.8 ",
+        "proteins": "\n22.2 ",
+        "fats": "\n1.5 ",
+        "carbohydrates": "\n257 "
+    },
+    {
+        "title": "Колбаса вареная Докторская Вернер",
+        "calories": "\n12.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n228 "
+    },
+    {
+        "title": "Колбаса вареная Докторская Коровино",
+        "calories": "\n13.0 ",
+        "proteins": "\n15.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n187 "
+    },
+    {
+        "title": "Колбаса вареная Клинский телячья",
+        "calories": "\n13.0 ",
+        "proteins": "\n22.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n252 "
+    },
+    {
+        "title": "Колбаса вареная Куриная",
+        "calories": "\n15.5 ",
+        "proteins": "\n16.2 ",
+        "fats": "\n2.3 ",
+        "carbohydrates": "\n223 "
+    },
+    {
+        "title": "Колбаса вареная Любительская",
+        "calories": "\n12.2 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n0.1 ",
+        "carbohydrates": "\n301 "
+    },
+    {
+        "title": "Колбаса вареная МакЛарин Домашняя",
+        "calories": "\n8.0 ",
+        "proteins": "\n20.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n212 "
+    },
+    {
+        "title": "Колбаса вареная Молочная",
+        "calories": "\n11.7 ",
+        "proteins": "\n22.8 ",
+        "fats": "\n0.2 ",
+        "carbohydrates": "\n252 "
+    },
+    {
+        "title": "Колбаса вареная Мортаделла",
+        "calories": "\n16.4 ",
+        "proteins": "\n25.3 ",
+        "fats": "\n3.1 ",
+        "carbohydrates": "\n331 "
+    },
+    {
+        "title": "Колбаса вареная Московская",
+        "calories": "\n11.5 ",
+        "proteins": "\n21.8 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n250 "
+    },
+    {
+        "title": "Колбаса вареная Русская",
+        "calories": "\n11.8 ",
+        "proteins": "\n28.9 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n302 "
+    },
+    {
+        "title": "Колбаса вареная Свиная",
+        "calories": "\n10.8 ",
+        "proteins": "\n25.8 ",
+        "fats": "\n0.5 ",
+        "carbohydrates": "\n277 "
+    },
+    {
+        "title": "Колбаса вареная Столичная",
+        "calories": "\n15.1 ",
+        "proteins": "\n28.7 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n319 "
+    },
+    {
+        "title": "Колбаса вареная Столовая",
+        "calories": "\n11.1 ",
+        "proteins": "\n20.2 ",
+        "fats": "\n1.9 ",
+        "carbohydrates": "\n234 "
+    },
+    {
+        "title": "Колбаса вареная Чайная",
+        "calories": "\n11.7 ",
+        "proteins": "\n18.4 ",
+        "fats": "\n1.9 ",
+        "carbohydrates": "\n216 "
+    },
+    {
+        "title": "Колбаса варено-копченая Востряково из курицы",
+        "calories": "\n19.0 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n179 "
+    },
+    {
+        "title": "Колбаса варено-копченая куриная жареная",
+        "calories": "\n19.7 ",
+        "proteins": "\n17.4 ",
+        "fats": "\n1.7 ",
+        "carbohydrates": "\n371 "
+    },
+    {
+        "title": "Колбаса варено-копченая Любительская",
+        "calories": "\n17.2 ",
+        "proteins": "\n39.0 ",
+        "fats": "\n0.2 ",
+        "carbohydrates": "\n420 "
+    },
+    {
+        "title": "Колбаса варено-копченая Московская",
+        "calories": "\n19.1 ",
+        "proteins": "\n36.6 ",
+        "fats": "\n0.2 ",
+        "carbohydrates": "\n406 "
+    },
+    {
+        "title": "Колбаса варено-копченая Рублёвский Балыковая",
+        "calories": "\n12.0 ",
+        "proteins": "\n25.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n270 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат",
+        "calories": "\n16.1 ",
+        "proteins": "\n40.1 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n425 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат боярский",
+        "calories": "\n14.0 ",
+        "proteins": "\n21.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n269 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат Велком финский",
+        "calories": "\n15.0 ",
+        "proteins": "\n25.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n290 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат Вернер",
+        "calories": "\n16.0 ",
+        "proteins": "\n47.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n487 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат Вязанка Столичный",
+        "calories": "\n15.0 ",
+        "proteins": "\n27.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n303 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат Дымов в вакууме",
+        "calories": "\n14.0 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n272 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат Дымов Ореховый",
+        "calories": "\n13.0 ",
+        "proteins": "\n38.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n394 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат Клинский Финский",
+        "calories": "\n13.0 ",
+        "proteins": "\n32.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n340 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат Останкино Зернистый",
+        "calories": "\n10.0 ",
+        "proteins": "\n37.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n385 "
+    },
+    {
+        "title": "Колбаса варено-копченая сервелат российский",
+        "calories": "\n13.0 ",
+        "proteins": "\n39.0 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n410 "
+    },
+    {
+        "title": "Колбаса вегетарианская",
+        "calories": "\n21.7 ",
+        "proteins": "\n12.3 ",
+        "fats": "\n1.8 ",
+        "carbohydrates": "\n207 "
+    },
+    {
+        "title": "Колбаса вегетарианская Велком Классическая",
+        "calories": "\n4.0 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n100 "
+    },
+    {
+        "title": "Колбаса вегетарианская Велком с грибами",
+        "calories": "\n4.0 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n8.0 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Колбаса вегетарианская горячего копчения Московская Премиум",
+        "calories": "\n20.0 ",
+        "proteins": "\n22.0 ",
+        "fats": "\n8.0 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Колбаса вегетарианская полукопченая Vego с сыром постная",
+        "calories": "\n19.0 ",
+        "proteins": "\n16.0 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n270 "
+    },
+    {
+        "title": "Колбаса ливерная",
+        "calories": "\n14.4 ",
+        "proteins": "\n28.5 ",
+        "fats": "\n2.2 ",
+        "carbohydrates": "\n326 "
+    },
+    {
+        "title": "Колбаса ливерная Атяшево Печеночная",
+        "calories": "\n4.0 ",
+        "proteins": "\n16.0 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n200 "
+    },
+    {
+        "title": "Колбаса ливерная Баварская",
+        "calories": "\n11.0 ",
+        "proteins": "\n18.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n210 "
+    },
+    {
+        "title": "Колбаса ливерная Окраина традиционная",
+        "calories": "\n13.0 ",
+        "proteins": "\n19.0 ",
+        "fats": "\n6.0 ",
+        "carbohydrates": "\n250 "
+    },
+    {
+        "title": "Колбаса ливерная Рублёвский яичная",
+        "calories": "\n11.0 ",
+        "proteins": "\n34.0 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n370 "
+    },
+    {
+        "title": "Колбаса печеночная домашняя",
+        "calories": "\n15.0 ",
+        "proteins": "\n22.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n258 "
+    },
+    {
+        "title": "Колбаса полукопченая Дымов салями Финская",
+        "calories": "\n10.0 ",
+        "proteins": "\n47.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n463 "
+    },
+    {
+        "title": "Колбаса полукопченая Закусочная",
+        "calories": "\n15.0 ",
+        "proteins": "\n33.0 ",
+        "fats": "\n2.3 ",
+        "carbohydrates": "\n366 "
+    },
+    {
+        "title": "Колбаса полукопченая Краковская",
+        "calories": "\n16.2 ",
+        "proteins": "\n44.6 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n466 "
+    },
+    {
+        "title": "Колбаса полукопченая Краковская Вернер",
+        "calories": "\n14.0 ",
+        "proteins": "\n45.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n461 "
+    },
+    {
+        "title": "Колбаса полукопченая Краковская МД Бородина",
+        "calories": "\n16.0 ",
+        "proteins": "\n27.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n307 "
+    },
+    {
+        "title": "Колбаса полукопченая Минская",
+        "calories": "\n17.4 ",
+        "proteins": "\n23.0 ",
+        "fats": "\n2.7 ",
+        "carbohydrates": "\n287 "
+    },
+    {
+        "title": "Колбаса полукопченая Одесская",
+        "calories": "\n14.8 ",
+        "proteins": "\n38.1 ",
+        "fats": "\n0.3 ",
+        "carbohydrates": "\n402 "
+    },
+    {
+        "title": "Колбаса полукопченая Останкино салями Венская",
+        "calories": "\n10.0 ",
+        "proteins": "\n37.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n390 "
+    },
+    {
+        "title": "Колбаса полукопченая Полтавская",
+        "calories": "\n16.4 ",
+        "proteins": "\n39.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n417 "
+    },
+    {
+        "title": "Колбаса полукопченая салями любительская",
+        "calories": "\n12.0 ",
+        "proteins": "\n50.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n498 "
+    },
+    {
+        "title": "Колбаса полукопченая Таллиннская",
+        "calories": "\n17.1 ",
+        "proteins": "\n33.8 ",
+        "fats": "\n0.2 ",
+        "carbohydrates": "\n373 "
+    },
+    {
+        "title": "Колбаса полукопченая Украинская",
+        "calories": "\n16.5 ",
+        "proteins": "\n34.4 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n376 "
+    },
+    {
+        "title": "Колбаса полукопченая Чесночная Папа может",
+        "calories": "\n12.0 ",
+        "proteins": "\n21.0 ",
+        "fats": "\n3.0 ",
+        "carbohydrates": "\n249 "
+    },
+    {
+        "title": "Колбаса сыровяленая Дымов салями Милано",
+        "calories": "\n21.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n2.0 ",
+        "carbohydrates": "\n344 "
+    },
+    {
+        "title": "Колбаса сыровяленая Мясницкий ряд Милано нарезка",
+        "calories": "\n15.0 ",
+        "proteins": "\n45.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n465 "
+    },
+    {
+        "title": "Колбаса сыровяленая полусухая Casademont Fuet Extra",
+        "calories": "\n24.0 ",
+        "proteins": "\n32.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n384 "
+    },
+    {
+        "title": "Колбаса сыровяленая полусухая Casademont Fuet Extra с перцем",
+        "calories": "\n22.0 ",
+        "proteins": "\n32.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n376 "
+    },
+    {
+        "title": "Колбаса сыровяленая полусухая Parlo Italiano Салями Милано",
+        "calories": "\n10.0 ",
+        "proteins": "\n55.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n540 "
+    },
+    {
+        "title": "Колбаса сыровяленая полусухая Salumi di Bosco Салями традиционная",
+        "calories": "\n28.0 ",
+        "proteins": "\n19.0 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n290 "
+    },
+    {
+        "title": "Колбаса сыровяленая полусухая Егорьевская ФКГ с трюфелем",
+        "calories": "\n16.0 ",
+        "proteins": "\n40.0 ",
+        "fats": "\n1.0 ",
+        "carbohydrates": "\n428 "
+    },
+    {
+        "title": "Колбаса сыровяленая Сальчичон",
+        "calories": "\n17.0 ",
+        "proteins": "\n31.0 ",
+        "fats": "\n1.1 ",
+        "carbohydrates": "\n351 "
+    },
+    {
+        "title": "Колбаса сыровяленая Суджук",
+        "calories": "\n30.3 ",
+        "proteins": "\n37.9 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n463 "
+    },
+    {
+        "title": "Колбаса сыровяленая Сытный Дом Сопресатта из говядины",
+        "calories": "\n18.0 ",
+        "proteins": "\n35.0 ",
+        "fats": "\n0.2 ",
+        "carbohydrates": "\n402 "
+    },
+    {
+        "title": "Колбаса сыровяленая Чоризо",
+        "calories": "\n24.1 ",
+        "proteins": "\n38.3 ",
+        "fats": "\n1.9 ",
+        "carbohydrates": "\n455 "
+    },
+    {
+        "title": "Колбаса сырокопченая Ближние горки Тоскана",
+        "calories": "\n25.0 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n370 "
+    },
+    {
+        "title": "Колбаса сырокопченая брауншвейгская",
+        "calories": "\n27.7 ",
+        "proteins": "\n42.2 ",
+        "fats": "\n0.2 ",
+        "carbohydrates": "\n491 "
+    },
+    {
+        "title": "Колбаса сырокопченая Доброгост Пепперони",
+        "calories": "\n16.0 ",
+        "proteins": "\n46.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n480 "
+    },
+    {
+        "title": "Колбаса сырокопченая Дымов Классик",
+        "calories": "\n24.0 ",
+        "proteins": "\n26.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n330 "
+    },
+    {
+        "title": "Колбаса сырокопченая Дымов Пепперони",
+        "calories": "\n15.0 ",
+        "proteins": "\n45.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n465 "
+    },
+    {
+        "title": "Колбаса сырокопченая зернистая",
+        "calories": "\n9.9 ",
+        "proteins": "\n62.8 ",
+        "fats": "\n0.3 ",
+        "carbohydrates": "\n606 "
+    },
+    {
+        "title": "Колбаса сырокопченая Клинский свиная",
+        "calories": "\n11.0 ",
+        "proteins": "\n57.3 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n568 "
+    },
+    {
+        "title": "Колбаса сырокопченая любительская",
+        "calories": "\n20.9 ",
+        "proteins": "\n47.8 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n514 "
+    },
+    {
+        "title": "Колбаса сырокопченая московская",
+        "calories": "\n24.8 ",
+        "proteins": "\n41.5 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n473 "
+    },
+    {
+        "title": "Колбаса сырокопченая Охотничья Папа может",
+        "calories": "\n21.0 ",
+        "proteins": "\n48.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n516 "
+    },
+    {
+        "title": "Колбаса сырокопченая Палермо Егорьевская ФКГ",
+        "calories": "\n16.0 ",
+        "proteins": "\n42.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n446 "
+    },
+    {
+        "title": "Колбаса сырокопченая полусухая Велком Чикен салями №2",
+        "calories": "\n21.0 ",
+        "proteins": "\n30.0 ",
+        "fats": "\n0.0 ",
+        "carbohydrates": "\n350 "
+    }
+]

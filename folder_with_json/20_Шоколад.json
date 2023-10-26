@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Шоколад",
+        "calories": "\n5.4 ",
+        "proteins": "\n35.3 ",
+        "fats": "\n56.5 ",
+        "carbohydrates": "\n544 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Апельсин и Бренди",
+        "calories": "\n5.7 ",
+        "proteins": "\n28.5 ",
+        "fats": "\n58.6 ",
+        "carbohydrates": "\n516 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Арахис и Кукурузные хлопья",
+        "calories": "\n7.0 ",
+        "proteins": "\n27.7 ",
+        "fats": "\n59.7 ",
+        "carbohydrates": "\n518 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Капучино",
+        "calories": "\n5.4 ",
+        "proteins": "\n31.6 ",
+        "fats": "\n57.5 ",
+        "carbohydrates": "\n539 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Клубника с Йогуртом",
+        "calories": "\n4.8 ",
+        "proteins": "\n33.5 ",
+        "fats": "\n57.4 ",
+        "carbohydrates": "\n553 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Миндаль и кокос",
+        "calories": "\n6.3 ",
+        "proteins": "\n32.6 ",
+        "fats": "\n56.3 ",
+        "carbohydrates": "\n545 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Молочный",
+        "calories": "\n5.7 ",
+        "proteins": "\n27.9 ",
+        "fats": "\n61.4 ",
+        "carbohydrates": "\n522 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Печенье и Изюм",
+        "calories": "\n5.6 ",
+        "proteins": "\n25.2 ",
+        "fats": "\n62.5 ",
+        "carbohydrates": "\n502 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Солёный арахис и крекер",
+        "calories": "\n7.7 ",
+        "proteins": "\n29.0 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n525 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Темный",
+        "calories": "\n5.7 ",
+        "proteins": "\n28.5 ",
+        "fats": "\n58.7 ",
+        "carbohydrates": "\n517 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Трюфель",
+        "calories": "\n5.3 ",
+        "proteins": "\n33.5 ",
+        "fats": "\n55.3 ",
+        "carbohydrates": "\n546 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Фундук",
+        "calories": "\n6.4 ",
+        "proteins": "\n30.3 ",
+        "fats": "\n57.9 ",
+        "carbohydrates": "\n532 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Фундук и Изюм",
+        "calories": "\n5.7 ",
+        "proteins": "\n25.3 ",
+        "fats": "\n59.6 ",
+        "carbohydrates": "\n493 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Фундук и Хрустящая Вафля",
+        "calories": "\n6.8 ",
+        "proteins": "\n30.6 ",
+        "fats": "\n55.0 ",
+        "carbohydrates": "\n525 "
+    },
+    {
+        "title": "Шоколад Alpen Gold Черника с Йогуртом",
+        "calories": "\n4.8 ",
+        "proteins": "\n33.7 ",
+        "fats": "\n57.2 ",
+        "carbohydrates": "\n553 "
+    },
+    {
+        "title": "Шоколад Bounty",
+        "calories": "\n3.1 ",
+        "proteins": "\n25.3 ",
+        "fats": "\n60.0 ",
+        "carbohydrates": "\n485 "
+    },
+    {
+        "title": "Шоколад Bounty Trio",
+        "calories": "\n3.9 ",
+        "proteins": "\n24.6 ",
+        "fats": "\n57.9 ",
+        "carbohydrates": "\n471 "
+    },
+    {
+        "title": "Шоколад Bounty Райский Ананас",
+        "calories": "\n3.2 ",
+        "proteins": "\n25.6 ",
+        "fats": "\n59.0 ",
+        "carbohydrates": "\n486 "
+    },
+    {
+        "title": "Шоколад Bounty Райское Манго",
+        "calories": "\n3.0 ",
+        "proteins": "\n25.5 ",
+        "fats": "\n59.5 ",
+        "carbohydrates": "\n485 "
+    },
+    {
+        "title": "Шоколад Callebaut без сахара тёмный 53.9%",
+        "calories": "\n5.1 ",
+        "proteins": "\n36.0 ",
+        "fats": "\n45.9 ",
+        "carbohydrates": "\n478 "
+    },
+    {
+        "title": "Шоколад Dove молочный с дробленым фундуком",
+        "calories": "\n7.5 ",
+        "proteins": "\n34.3 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n555 "
+    },
+    {
+        "title": "Шоколад Hershey’s Cookies’n’Creme",
+        "calories": "\n8.0 ",
+        "proteins": "\n27.0 ",
+        "fats": "\n62.0 ",
+        "carbohydrates": "\n520 "
+    },
+    {
+        "title": "Шоколад Kinder",
+        "calories": "\n8.7 ",
+        "proteins": "\n34.7 ",
+        "fats": "\n53.5 ",
+        "carbohydrates": "\n561 "
+    },
+    {
+        "title": "Шоколад Kinder Bueno",
+        "calories": "\n9.3 ",
+        "proteins": "\n37.5 ",
+        "fats": "\n48.2 ",
+        "carbohydrates": "\n568 "
+    },
+    {
+        "title": "Шоколад Kinder сюрприз",
+        "calories": "\n8.6 ",
+        "proteins": "\n32.9 ",
+        "fats": "\n53.0 ",
+        "carbohydrates": "\n543 "
+    },
+    {
+        "title": "Шоколад KitKat",
+        "calories": "\n6.3 ",
+        "proteins": "\n28.2 ",
+        "fats": "\n61.1 ",
+        "carbohydrates": "\n524 "
+    },
+    {
+        "title": "Шоколад KitKat King Size",
+        "calories": "\n6.1 ",
+        "proteins": "\n29.2 ",
+        "fats": "\n60.9 ",
+        "carbohydrates": "\n532 "
+    },
+    {
+        "title": "Шоколад KitKat Вкус Super Хруст",
+        "calories": "\n6.1 ",
+        "proteins": "\n29.2 ",
+        "fats": "\n60.9 ",
+        "carbohydrates": "\n532 "
+    },
+    {
+        "title": "Шоколад Lindt Excellence 85% какао",
+        "calories": "\n11.0 ",
+        "proteins": "\n46.0 ",
+        "fats": "\n19.0 ",
+        "carbohydrates": "\n530 "
+    },
+    {
+        "title": "Шоколад Lindt Excellence 99% какао",
+        "calories": "\n13.0 ",
+        "proteins": "\n49.0 ",
+        "fats": "\n8.0 ",
+        "carbohydrates": "\n530 "
+    },
+    {
+        "title": "Шоколад M&M's с арахисом",
+        "calories": "\n9.6 ",
+        "proteins": "\n26.4 ",
+        "fats": "\n62.2 ",
+        "carbohydrates": "\n512 "
+    },
+    {
+        "title": "Шоколад M&M's с шоколадом",
+        "calories": "\n4.9 ",
+        "proteins": "\n20.3 ",
+        "fats": "\n73.0 ",
+        "carbohydrates": "\n472 "
+    },
+    {
+        "title": "Шоколад M&M's со вкусом лесного ореха",
+        "calories": "\n5.0 ",
+        "proteins": "\n19.6 ",
+        "fats": "\n70.9 ",
+        "carbohydrates": "\n480 "
+    },
+    {
+        "title": "Шоколад M&M's со вкусом малины",
+        "calories": "\n4.3 ",
+        "proteins": "\n19.0 ",
+        "fats": "\n71.3 ",
+        "carbohydrates": "\n474 "
+    },
+    {
+        "title": "Шоколад Mars",
+        "calories": "\n4.4 ",
+        "proteins": "\n18.2 ",
+        "fats": "\n68.0 ",
+        "carbohydrates": "\n453 "
+    },
+    {
+        "title": "Шоколад Mars Max",
+        "calories": "\n4.4 ",
+        "proteins": "\n18.1 ",
+        "fats": "\n68.0 ",
+        "carbohydrates": "\n453 "
+    },
+    {
+        "title": "Шоколад Milka Choko Biscuit",
+        "calories": "\n5.9 ",
+        "proteins": "\n34.0 ",
+        "fats": "\n55.0 ",
+        "carbohydrates": "\n558 "
+    },
+    {
+        "title": "Шоколад Milka Oreo",
+        "calories": "\n5.4 ",
+        "proteins": "\n34.0 ",
+        "fats": "\n56.0 ",
+        "carbohydrates": "\n553 "
+    },
+    {
+        "title": "Шоколад Milka молочный",
+        "calories": "\n5.7 ",
+        "proteins": "\n31.0 ",
+        "fats": "\n57.6 ",
+        "carbohydrates": "\n534 "
+    },
+    {
+        "title": "Шоколад Milka молочный с арахисом и карамелью",
+        "calories": "\n9.1 ",
+        "proteins": "\n33.0 ",
+        "fats": "\n51.0 ",
+        "carbohydrates": "\n546 "
+    },
+    {
+        "title": "Шоколад Milka молочный с фундуком",
+        "calories": "\n6.6 ",
+        "proteins": "\n33.8 ",
+        "fats": "\n53.4 ",
+        "carbohydrates": "\n545 "
+    },
+    {
+        "title": "Шоколад Milka молочный с фундуком и изюмом",
+        "calories": "\n5.6 ",
+        "proteins": "\n26.8 ",
+        "fats": "\n56.9 ",
+        "carbohydrates": "\n495 "
+    },
+    {
+        "title": "Шоколад Milka молочный с цельным фундуком",
+        "calories": "\n7.5 ",
+        "proteins": "\n36.5 ",
+        "fats": "\n49.0 ",
+        "carbohydrates": "\n555 "
+    },
+    {
+        "title": "Шоколад MilkyWay",
+        "calories": "\n3.6 ",
+        "proteins": "\n16.8 ",
+        "fats": "\n71.7 ",
+        "carbohydrates": "\n452 "
+    },
+    {
+        "title": "Шоколад MilkyWay 1+1",
+        "calories": "\n3.5 ",
+        "proteins": "\n16.8 ",
+        "fats": "\n71.7 ",
+        "carbohydrates": "\n452 "
+    },
+    {
+        "title": "Шоколад MilkyWay Crispy Rolls",
+        "calories": "\n7.1 ",
+        "proteins": "\n26.4 ",
+        "fats": "\n62.1 ",
+        "carbohydrates": "\n514 "
+    },
+    {
+        "title": "Шоколад MilkyWay Клубничный коктейль",
+        "calories": "\n3.5 ",
+        "proteins": "\n16.8 ",
+        "fats": "\n71.6 ",
+        "carbohydrates": "\n452 "
+    },
+    {
+        "title": "Шоколад Nestle After Eight",
+        "calories": "\n2.5 ",
+        "proteins": "\n12.8 ",
+        "fats": "\n74.4 ",
+        "carbohydrates": "\n428 "
+    },
+    {
+        "title": "Шоколад Nestle for Men",
+        "calories": "\n7.5 ",
+        "proteins": "\n33.8 ",
+        "fats": "\n54.9 ",
+        "carbohydrates": "\n555 "
+    },
+    {
+        "title": "Шоколад Nestle for Men с фундуком",
+        "calories": "\n8.6 ",
+        "proteins": "\n36.5 ",
+        "fats": "\n47.8 ",
+        "carbohydrates": "\n572 "
+    },
+    {
+        "title": "Шоколад Nestle for Men с цельным миндалем",
+        "calories": "\n8.6 ",
+        "proteins": "\n35.8 ",
+        "fats": "\n51.1 ",
+        "carbohydrates": "\n560 "
+    },
+    {
+        "title": "Шоколад Nestle Nesquik",
+        "calories": "\n5.9 ",
+        "proteins": "\n22.1 ",
+        "fats": "\n65.6 ",
+        "carbohydrates": "\n485 "
+    },
+    {
+        "title": "Шоколад Nue Bitter Chocolate Cocoa Bean",
+        "calories": "\n8.0 ",
+        "proteins": "\n48.0 ",
+        "fats": "\n25.0 ",
+        "carbohydrates": "\n560 "
+    },
+    {
+        "title": "Шоколад Nue Milk Chocolate Gianduia",
+        "calories": "\n6.5 ",
+        "proteins": "\n47.0 ",
+        "fats": "\n40.0 ",
+        "carbohydrates": "\n610 "
+    },
+    {
+        "title": "Шоколад Nuts Арахис",
+        "calories": "\n10.6 ",
+        "proteins": "\n28.5 ",
+        "fats": "\n49.8 ",
+        "carbohydrates": "\n498 "
+    },
+    {
+        "title": "Шоколад Nuts Мегабайт",
+        "calories": "\n6.8 ",
+        "proteins": "\n26.7 ",
+        "fats": "\n59.1 ",
+        "carbohydrates": "\n504 "
+    },
+    {
+        "title": "Шоколад Nuts Мегабайт новая нежная нуга",
+        "calories": "\n6.6 ",
+        "proteins": "\n26.7 ",
+        "fats": "\n59.0 ",
+        "carbohydrates": "\n507 "
+    },
+    {
+        "title": "Шоколад Nuts Ореховый Тюнинг",
+        "calories": "\n6.8 ",
+        "proteins": "\n26.6 ",
+        "fats": "\n59.1 ",
+        "carbohydrates": "\n504 "
+    },
+    {
+        "title": "Шоколад O'Zera Carenero Superior 97.7%",
+        "calories": "\n13.8 ",
+        "proteins": "\n46.7 ",
+        "fats": "\n17.6 ",
+        "carbohydrates": "\n573 "
+    },
+    {
+        "title": "Шоколад Okasi с зелёным чаем матча",
+        "calories": "\n0.0 ",
+        "proteins": "\n34.6 ",
+        "fats": "\n54.2 ",
+        "carbohydrates": "\n563 "
+    },
+    {
+        "title": "Шоколад Okasi с фиолетовым бататом",
+        "calories": "\n8.0 ",
+        "proteins": "\n42.0 ",
+        "fats": "\n48.0 ",
+        "carbohydrates": "\n563 "
+    },
+    {
+        "title": "Шоколад Picnic",
+        "calories": "\n7.4 ",
+        "proteins": "\n28.8 ",
+        "fats": "\n56.6 ",
+        "carbohydrates": "\n504 "
+    },
+    {
+        "title": "Шоколад Picnic Мега",
+        "calories": "\n7.4 ",
+        "proteins": "\n28.8 ",
+        "fats": "\n56.6 ",
+        "carbohydrates": "\n504 "
+    },
+    {
+        "title": "Шоколад Picnic Мега Грецкий орех",
+        "calories": "\n4.2 ",
+        "proteins": "\n33.2 ",
+        "fats": "\n41.7 ",
+        "carbohydrates": "\n473 "
+    },
+    {
+        "title": "Шоколад RED молочный с фундуком и макадамией без сахара",
+        "calories": "\n8.0 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n41.0 ",
+        "carbohydrates": "\n383 "
+    },
+    {
+        "title": "Шоколад RED тёмный классический без сахара",
+        "calories": "\n4.7 ",
+        "proteins": "\n24.0 ",
+        "fats": "\n33.0 ",
+        "carbohydrates": "\n286 "
+    },
+    {
+        "title": "Шоколад Ritter Sport Schokowurfel",
+        "calories": "\n7.0 ",
+        "proteins": "\n37.0 ",
+        "fats": "\n50.0 ",
+        "carbohydrates": "\n562 "
+    },
+    {
+        "title": "Шоколад Ritter Sport белый с цельным лесным орехом",
+        "calories": "\n8.4 ",
+        "proteins": "\n39.9 ",
+        "fats": "\n47.6 ",
+        "carbohydrates": "\n583 "
+    },
+    {
+        "title": "Шоколад Ritter Sport горький с какао из Папуа Новая Гвинея",
+        "calories": "\n6.2 ",
+        "proteins": "\n32.1 ",
+        "fats": "\n52.6 ",
+        "carbohydrates": "\n524 "
+    },
+    {
+        "title": "Шоколад Ritter Sport горький с нежным кремом à la Mousse au Chocolat",
+        "calories": "\n6.6 ",
+        "proteins": "\n35.9 ",
+        "fats": "\n46.4 ",
+        "carbohydrates": "\n535 "
+    },
+    {
+        "title": "Шоколад Ritter Sport горький с элитным какао из Эквадора",
+        "calories": "\n8.3 ",
+        "proteins": "\n44.6 ",
+        "fats": "\n31.0 ",
+        "carbohydrates": "\n558 "
+    },
+    {
+        "title": "Шоколад Ritter Sport зимний Апельсин-Марципан",
+        "calories": "\n6.0 ",
+        "proteins": "\n27.0 ",
+        "fats": "\n57.0 ",
+        "carbohydrates": "\n497 "
+    },
+    {
+        "title": "Шоколад Ritter Sport зимний Ванильный Рогалик",
+        "calories": "\n6.0 ",
+        "proteins": "\n38.0 ",
+        "fats": "\n52.0 ",
+        "carbohydrates": "\n571 "
+    },
+    {
+        "title": "Шоколад Ritter Sport зимний Карамель-Миндаль",
+        "calories": "\n7.0 ",
+        "proteins": "\n31.0 ",
+        "fats": "\n57.0 ",
+        "carbohydrates": "\n532 "
+    },
+    {
+        "title": "Шоколад Ritter Sport молочный с альпийским молоком",
+        "calories": "\n8.3 ",
+        "proteins": "\n31.4 ",
+        "fats": "\n55.6 ",
+        "carbohydrates": "\n538 "
+    },
+    {
+        "title": "Шоколад Ritter Sport молочный с вишней Амарена",
+        "calories": "\n5.0 ",
+        "proteins": "\n38.6 ",
+        "fats": "\n52.0 ",
+        "carbohydrates": "\n574 "
+    },
+    {
+        "title": "Шоколад Ritter Sport молочный с карамелью и орехом",
+        "calories": "\n7.5 ",
+        "proteins": "\n36.6 ",
+        "fats": "\n50.4 ",
+        "carbohydrates": "\n561 "
+    },
+    {
+        "title": "Шоколад Ritter Sport молочный с клубникой в йогурте",
+        "calories": "\n6.3 ",
+        "proteins": "\n37.7 ",
+        "fats": "\n52.4 ",
+        "carbohydrates": "\n570 "
+    },
+    {
+        "title": "Шоколад Ritter Sport молочный с кокосовой начинкой",
+        "calories": "\n7.0 ",
+        "proteins": "\n41.0 ",
+        "fats": "\n48.0 ",
+        "carbohydrates": "\n584 "
+    },
+    {
+        "title": "Шоколад Ritter Sport молочный с кукурузными хлопьями",
+        "calories": "\n6.4 ",
+        "proteins": "\n28.0 ",
+        "fats": "\n60.5 ",
+        "carbohydrates": "\n519 "
+    }
+]

@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Биойогурт Тёма Груша-яблоко",
+        "calories": "\n3.2 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n11.6 ",
+        "carbohydrates": "\n84 "
+    },
+    {
+        "title": "Биойогурт Тёма Зеленое яблоко",
+        "calories": "\n3.2 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n11.7 ",
+        "carbohydrates": "\n85 "
+    },
+    {
+        "title": "Биойогурт Тёма Лесные ягоды",
+        "calories": "\n3.2 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n84 "
+    },
+    {
+        "title": "Биойогурт Тёма Шиповник-малина",
+        "calories": "\n3.2 ",
+        "proteins": "\n2.8 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n86 "
+    },
+    {
+        "title": "Биокефир Агуша 3.2%",
+        "calories": "\n2.7 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n56 "
+    },
+    {
+        "title": "Биокефир Тёма детский 3.2%",
+        "calories": "\n2.8 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n4.1 ",
+        "carbohydrates": "\n56 "
+    },
+    {
+        "title": "Биолакт Тёма питьевой сладкий",
+        "calories": "\n2.8 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n8.3 ",
+        "carbohydrates": "\n74 "
+    },
+    {
+        "title": "Биолакт ФрутоНяня детский сладкий",
+        "calories": "\n2.8 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n8.2 ",
+        "carbohydrates": "\n74 "
+    },
+    {
+        "title": "Биолакт ФрутоНяня кисломолочный без сахара",
+        "calories": "\n3.1 ",
+        "proteins": "\n3.4 ",
+        "fats": "\n4.7 ",
+        "carbohydrates": "\n62 "
+    },
+    {
+        "title": "Биотворог Тёма c черникой",
+        "calories": "\n7.9 ",
+        "proteins": "\n4.2 ",
+        "fats": "\n10.3 ",
+        "carbohydrates": "\n111 "
+    },
+    {
+        "title": "Биотворог Тёма c черносливом",
+        "calories": "\n7.9 ",
+        "proteins": "\n4.2 ",
+        "fats": "\n10.1 ",
+        "carbohydrates": "\n110 "
+    },
+    {
+        "title": "Биотворог Тёма классический",
+        "calories": "\n9.1 ",
+        "proteins": "\n5.0 ",
+        "fats": "\n3.5 ",
+        "carbohydrates": "\n95 "
+    },
+    {
+        "title": "Биотворог Тёма с абрикосом",
+        "calories": "\n7.9 ",
+        "proteins": "\n4.2 ",
+        "fats": "\n10.4 ",
+        "carbohydrates": "\n111 "
+    },
+    {
+        "title": "Биотворог Тёма с яблоком и морковью",
+        "calories": "\n7.9 ",
+        "proteins": "\n4.2 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n109 "
+    },
+    {
+        "title": "Бифилайф Ам-Ам Мамина забота Яблоко и Банан",
+        "calories": "\n2.9 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n10.5 ",
+        "carbohydrates": "\n76 "
+    },
+    {
+        "title": "Борщик Heinz с говядинкой",
+        "calories": "\n11.3 ",
+        "proteins": "\n6.7 ",
+        "fats": "\n67.0 ",
+        "carbohydrates": "\n374 "
+    },
+    {
+        "title": "Вермишелька Heinz звездочки Любопышки",
+        "calories": "\n10.3 ",
+        "proteins": "\n1.3 ",
+        "fats": "\n78.6 ",
+        "carbohydrates": "\n367 "
+    },
+    {
+        "title": "Гречневая каша Nestle безмолочная",
+        "calories": "\n11.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n76.5 ",
+        "carbohydrates": "\n377 "
+    },
+    {
+        "title": "Гречневая каша Nestle безмолочная с черносливом",
+        "calories": "\n11.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n76.5 ",
+        "carbohydrates": "\n377 "
+    },
+    {
+        "title": "Гречневая каша Nestle молочная",
+        "calories": "\n14.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n66.0 ",
+        "carbohydrates": "\n410 "
+    },
+    {
+        "title": "Гречневая каша Nestle молочная с курагой",
+        "calories": "\n14.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n66.0 ",
+        "carbohydrates": "\n410 "
+    },
+    {
+        "title": "Гречневая каша Малютка безмолочная",
+        "calories": "\n11.4 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n76.3 ",
+        "carbohydrates": "\n375 "
+    },
+    {
+        "title": "Гречневая каша Малютка молочная с черносливом",
+        "calories": "\n12.8 ",
+        "proteins": "\n12.4 ",
+        "fats": "\n67.1 ",
+        "carbohydrates": "\n431 "
+    },
+    {
+        "title": "Гречневая каша ФрутоНяня безмолочная с яблоком",
+        "calories": "\n0.7 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n15.0 ",
+        "carbohydrates": "\n63 "
+    },
+    {
+        "title": "Гречневая кашка Heinz грушка абрикос смородинка молочная",
+        "calories": "\n12.0 ",
+        "proteins": "\n2.9 ",
+        "fats": "\n76.2 ",
+        "carbohydrates": "\n379 "
+    },
+    {
+        "title": "Гречневая кашка Heinz низкоаллергенная без молока",
+        "calories": "\n9.5 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n74.0 ",
+        "carbohydrates": "\n350 "
+    },
+    {
+        "title": "Гречневая кашка ФрутоНяня молочная жидкая с яблоком",
+        "calories": "\n2.0 ",
+        "proteins": "\n1.9 ",
+        "fats": "\n9.6 ",
+        "carbohydrates": "\n62 "
+    },
+    {
+        "title": "Зерновая каша Hipp с фруктами",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n15.9 ",
+        "carbohydrates": "\n71 "
+    },
+    {
+        "title": "Зерновая каша Hipp с яблоками и бананами",
+        "calories": "\n0.8 ",
+        "proteins": "\n0.1 ",
+        "fats": "\n14.1 ",
+        "carbohydrates": "\n64 "
+    },
+    {
+        "title": "Йогурт Агуша вязкий с бананом 2.7%",
+        "calories": "\n3.0 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n88 "
+    },
+    {
+        "title": "Йогурт Агуша детский натуральный 2.9%",
+        "calories": "\n3.0 ",
+        "proteins": "\n2.9 ",
+        "fats": "\n10.4 ",
+        "carbohydrates": "\n80 "
+    },
+    {
+        "title": "Йогурт Агуша детский с черносливом 2.6%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.6 ",
+        "fats": "\n11.8 ",
+        "carbohydrates": "\n82 "
+    },
+    {
+        "title": "Йогурт Агуша питьевой натуральный 3.1%",
+        "calories": "\n3.2 ",
+        "proteins": "\n3.1 ",
+        "fats": "\n3.7 ",
+        "carbohydrates": "\n58 "
+    },
+    {
+        "title": "Йогурт Агуша питьевой с персиком 2.7%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n10.7 ",
+        "carbohydrates": "\n81 "
+    },
+    {
+        "title": "Йогурт Агуша питьевой с черносливом 2.7%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.7 ",
+        "fats": "\n10.7 ",
+        "carbohydrates": "\n81 "
+    },
+    {
+        "title": "Йогурт Здрайверы клубника 2.5%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n13.3 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Йогурт Здрайверы мультифрукт 2.5%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n10.5 ",
+        "carbohydrates": "\n76 "
+    },
+    {
+        "title": "Йогурт Здрайверы персик-злаки 2.5%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Йогурт Здрайверы яблоко-банан 2.5%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n14.0 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Йогурт Растишка с бананом и печеньем",
+        "calories": "\n3.8 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n16.5 ",
+        "carbohydrates": "\n108 "
+    },
+    {
+        "title": "Йогурт Растишка с земляникой",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n15.6 ",
+        "carbohydrates": "\n88 "
+    },
+    {
+        "title": "Йогурт Растишка с клубникой и печеньем",
+        "calories": "\n3.8 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n16.5 ",
+        "carbohydrates": "\n108 "
+    },
+    {
+        "title": "Йогурт Растишка с лесными ягодами",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n15.6 ",
+        "carbohydrates": "\n88 "
+    },
+    {
+        "title": "Йогурт Растишка с мякотью вишни",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n15.5 ",
+        "carbohydrates": "\n89 "
+    },
+    {
+        "title": "Йогурт Растишка с мякотью клубники",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n15.4 ",
+        "carbohydrates": "\n88 "
+    },
+    {
+        "title": "Йогурт Растишка с мякотью персика и абрикоса",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n15.6 ",
+        "carbohydrates": "\n88 "
+    },
+    {
+        "title": "Йогурт Растишка с печеньем",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n15.2 ",
+        "carbohydrates": "\n86 "
+    },
+    {
+        "title": "Йогурт Растишка с черникой",
+        "calories": "\n2.9 ",
+        "proteins": "\n1.6 ",
+        "fats": "\n15.6 ",
+        "carbohydrates": "\n88 "
+    },
+    {
+        "title": "Йогуртное пюре Gerber с грушей и бананом",
+        "calories": "\n1.0 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n90 "
+    },
+    {
+        "title": "Йогуртное пюре Gerber с малиной и черникой",
+        "calories": "\n0.8 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n12.0 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Каша 3 злака Nestle молочная с яблоком и грушей",
+        "calories": "\n14.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n67.5 ",
+        "carbohydrates": "\n416 "
+    },
+    {
+        "title": "Каша 5 злаков Nestle молочная с яблоком и бананом",
+        "calories": "\n14.0 ",
+        "proteins": "\n10.0 ",
+        "fats": "\n68.0 ",
+        "carbohydrates": "\n418 "
+    },
+    {
+        "title": "Каша 7 злаков Малютка безмолочная",
+        "calories": "\n10.9 ",
+        "proteins": "\n2.2 ",
+        "fats": "\n73.2 ",
+        "carbohydrates": "\n374 "
+    },
+    {
+        "title": "Кефир Агуша 3.2%",
+        "calories": "\n2.7 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n4.0 ",
+        "carbohydrates": "\n56 "
+    },
+    {
+        "title": "Кисель ФрутоНяня из клюквы",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n11.0 ",
+        "carbohydrates": "\n44 "
+    },
+    {
+        "title": "Кисель ФрутоНяня из малины",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n11.5 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Кисломолочный напиток Агуша Я Сам! Иммунити",
+        "calories": "\n2.0 ",
+        "proteins": "\n3.4 ",
+        "fats": "\n8.3 ",
+        "carbohydrates": "\n72 "
+    },
+    {
+        "title": "Коктейль молочный Агуша Я Сам! кукуруза с бананом",
+        "calories": "\n2.5 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n10.5 ",
+        "carbohydrates": "\n85 "
+    },
+    {
+        "title": "Коктейль молочный Агуша Я Сам! рис-груша-яблоко",
+        "calories": "\n2.6 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n9.4 ",
+        "carbohydrates": "\n75 "
+    },
+    {
+        "title": "Коктейль молочный Агуша Я Сам! с гречкой",
+        "calories": "\n2.5 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n8.0 ",
+        "carbohydrates": "\n75 "
+    },
+    {
+        "title": "Коктейль молочный Здрайверы Клубника 3.2%",
+        "calories": "\n2.8 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n7.5 ",
+        "carbohydrates": "\n70 "
+    },
+    {
+        "title": "Коктейль молочный Здрайверы Крем-Брюле 3.0%",
+        "calories": "\n2.8 ",
+        "proteins": "\n2.0 ",
+        "fats": "\n8.5 ",
+        "carbohydrates": "\n63 "
+    },
+    {
+        "title": "Коктейль молочный Здрайверы Шоколадный 3.0%",
+        "calories": "\n2.9 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n81 "
+    },
+    {
+        "title": "Коктейль молочный ФрутоНяня клубника-земляника",
+        "calories": "\n2.7 ",
+        "proteins": "\n2.1 ",
+        "fats": "\n9.0 ",
+        "carbohydrates": "\n66 "
+    },
+    {
+        "title": "Кукурузная каша Малютка безмолочная",
+        "calories": "\n7.0 ",
+        "proteins": "\n1.0 ",
+        "fats": "\n84.5 ",
+        "carbohydrates": "\n375 "
+    },
+    {
+        "title": "Кукурузная кашка Heinz низкоаллергенная без молока",
+        "calories": "\n7.8 ",
+        "proteins": "\n3.0 ",
+        "fats": "\n80.4 ",
+        "carbohydrates": "\n380 "
+    },
+    {
+        "title": "Кукурузная кашка Heinz тыква чернослив морковочка молочная",
+        "calories": "\n12.9 ",
+        "proteins": "\n6.4 ",
+        "fats": "\n71.2 ",
+        "carbohydrates": "\n394 "
+    },
+    {
+        "title": "Кукурузные палочки ФрутоНяня Яблоко-банан",
+        "calories": "\n6.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n78.0 ",
+        "carbohydrates": "\n345 "
+    },
+    {
+        "title": "Многозерновая кашка 5 злаков Heinz без молока",
+        "calories": "\n6.9 ",
+        "proteins": "\n1.8 ",
+        "fats": "\n83.0 ",
+        "carbohydrates": "\n374 "
+    },
+    {
+        "title": "Многозерновая кашка Heinz Любопышки банан клубника йогуртная",
+        "calories": "\n13.0 ",
+        "proteins": "\n10.9 ",
+        "fats": "\n65.0 ",
+        "carbohydrates": "\n410 "
+    },
+    {
+        "title": "Многозерновая кашка Heinz Любопышки слива абрикос черника молочная",
+        "calories": "\n13.0 ",
+        "proteins": "\n11.0 ",
+        "fats": "\n66.0 ",
+        "carbohydrates": "\n414 "
+    },
+    {
+        "title": "Молоко Агуша с витаминами А и С 3.2%",
+        "calories": "\n2.9 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n4.7 ",
+        "carbohydrates": "\n59 "
+    },
+    {
+        "title": "Молоко Агуша с лактулозой 2.5%",
+        "calories": "\n3.0 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n4.5 ",
+        "carbohydrates": "\n59 "
+    },
+    {
+        "title": "Молоко Агуша Я Сам! Иммунити 2.5%",
+        "calories": "\n2.9 ",
+        "proteins": "\n2.5 ",
+        "fats": "\n4.8 ",
+        "carbohydrates": "\n53 "
+    },
+    {
+        "title": "Молоко Тёма детское 3.2%",
+        "calories": "\n3.0 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n4.7 ",
+        "carbohydrates": "\n60 "
+    },
+    {
+        "title": "Молоко Тёма детское обогащенное 3.2%",
+        "calories": "\n2.9 ",
+        "proteins": "\n3.2 ",
+        "fats": "\n4.7 ",
+        "carbohydrates": "\n59 "
+    },
+    {
+        "title": "Морс Агуша ягодный сбор",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n42 "
+    },
+    {
+        "title": "Морс ФрутоНяня из клюквы и малины",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n10.0 ",
+        "carbohydrates": "\n42 "
+    },
+    {
+        "title": "Морс ФрутоНяня из ягод",
+        "calories": "\n0.0 ",
+        "proteins": "\n0.0 ",
+        "fats": "\n11.4 ",
+        "carbohydrates": "\n46 "
+    },
+    {
+        "title": "Мультизлаковая каша Малютка молочная с печеньем",
+        "calories": "\n13.3 ",
+        "proteins": "\n11.7 ",
+        "fats": "\n66.5 ",
+        "carbohydrates": "\n431 "
+    }
+]
