@@ -37,19 +37,27 @@ class OLXScraper:
 
                 data.append(item)
 
-                # Print the data for each item
-                print("Name:", name_text)
-                print("Price:", price_text)
-                print("City:", city_text)
-                print("Date and Counter:", date_counter_text)
-                print("\n")
-
-            with open("file_volkswagen_passats_from_olx.json", "w", encoding='utf-8') as file:
-                json.dump(data, file, ensure_ascii=False, indent=4)
+            return data
         else:
             print("Failed to retrieve the web page")
+            return []
+
+    def save_to_json(self, data, filename):
+        with open(filename, "w", encoding='utf-8') as file:
+            json.dump(data, file, ensure_ascii=False, indent=4)
+
+    def show_info(self, data):
+        """Print the data for each item"""
+        for item in data:
+            print("Name:", item["name"])
+            print("Price:", item["price"])
+            print("City:", item["city"])
+            print("Date and Counter:", item["date_and_counter"])
+            print("\n")
 
 # Usage
 url = "https://www.olx.pl/oferty/q-volkswagen-cc/?search%5Bfilter_float_price:from%5D=10000&search%5Bfilter_float_price:to%5D=35000"
 scraper = OLXScraper(url)
-scraper.scrape_data()
+data = scraper.scrape_data()
+scraper.show_info(data)
+scraper.save_to_json(data, "file_volkswagen_passats_from_olx.json")
