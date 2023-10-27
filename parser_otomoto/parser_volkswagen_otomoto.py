@@ -48,7 +48,7 @@ class OTOMOTOParser:
             print('\n')
 
     def to_json(self, data):
-        with open(f"file_otomoto_json/file_volkswagen_passat.json", "w", encoding='utf-8') as file:
+        with open(f"folder_otomoto_with_json/file_volkswagen_passat.json", "w", encoding='utf-8') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
 
     def main(self):

@@ -1,9 +1,9 @@
 [
     {
-        "name": "Passat CC Zapraszam",
-        "price": "22 900 złdo negocjacji",
-        "city": "Stoczki - 25 października 2023",
-        "date_and_counter": "2009  - 321 500 km"
+        "name": "Volkswagen Passat CC",
+        "price": "34 900 zł",
+        "city": "Radom - 06 października 2023",
+        "date_and_counter": "2008  - 312 196 km"
     },
     {
         "name": "Volkswagen Passat CC R-Line 1.8 Benzyna 160 KM Opłacony BI-Xenon Parktronik Navi Serwis",
@@ -42,6 +42,12 @@
         "date_and_counter": "2011  - 243 000 km"
     },
     {
+        "name": "VW passat CC 2.0 tdi CR,  210ps DSG, DCC, Highline !! Okazja !",
+        "price": "29 500 złdo negocjacji",
+        "city": "Kowalowa - 21 października 2023",
+        "date_and_counter": "2009  - 280 000 km"
+    },
+    {
         "name": "Volkswagen Passat CC stan bardzo dobry",
         "price": "29 400 złdo negocjacji",
         "city": "Wilkasy - 23 października 2023",
@@ -60,12 +66,6 @@
         "date_and_counter": "2013  - 260 600 km"
     },
     {
-        "name": "VW passat CC 2.0 tdi CR,  210ps DSG, DCC, Highline !! Okazja !",
-        "price": "29 500 złdo negocjacji",
-        "city": "Kowalowa - 21 października 2023",
-        "date_and_counter": "2009  - 280 000 km"
-    },
-    {
         "name": "Volkswagen Passat CC 1,8 TSI Automat Super Stan Alu 18 Okazja",
         "price": "25 666 zł",
         "city": "Bytom - 23 października 2023",
@@ -78,22 +78,22 @@
         "date_and_counter": "2011  - 195 000 km"
     },
     {
-        "name": "Zamiana VW Passat CC KlimatronicNaviTempomatKomputerAlu18Parktornic!",
+        "name": "VW Volkswagen Passat CC xenon navi alu 1.8TSI",
         "price": "29 999 zł",
-        "city": "Gniezno - 26 października 2023",
-        "date_and_counter": "2010  - 245 000 km"
-    },
-    {
-        "name": "Volkswagen Passat CC 2.0tdi 140km Salon Polska Pełna dokumentacja",
-        "price": "31 900 zł",
-        "city": "Malbork - 26 października 2023",
-        "date_and_counter": "2008  - 238 000 km"
+        "city": "Golub-Dobrzyń - 24 października 2023",
+        "date_and_counter": "2010  - 270 000 km"
     },
     {
         "name": "Volkswagen Passat CC",
         "price": "29 500 zł",
         "city": "Miechów - Odświeżono dnia 25 października 2023",
         "date_and_counter": "2009  - 318 000 km"
+    },
+    {
+        "name": "Vw passat CC przebieg autostrada",
+        "price": "30 000 zł",
+        "city": "Sulęcin - Dzisiaj o 05:14",
+        "date_and_counter": "2012  - 199 000 km"
     },
     {
         "name": "Volkswagen CC 2009 R 2,0 CR Full Opcja Bixenon PDC ladny zadbany",
@@ -104,7 +104,7 @@
     {
         "name": "Volkswagen CC VW Passat CC DSG panomara manetki 170km",
         "price": "31 900 złdo negocjacji",
-        "city": "Miechów - 21 października 2023",
+        "city": "Miechów - Dzisiaj o 07:12",
         "date_and_counter": "2009  - 345 000 km"
     },
     {
@@ -120,16 +120,16 @@
         "date_and_counter": "2010  - 113 000 km"
     },
     {
-        "name": "Volkswagen CC Passat CC uszkodzony silnik",
-        "price": "21 900 zł",
-        "city": "Kępno - 24 października 2023",
-        "date_and_counter": "2009  - 269 000 km"
-    },
-    {
         "name": "Volkswagen Passat CC",
         "price": "34 900 zł",
         "city": "Płońsk - 24 października 2023",
         "date_and_counter": "2011  - 112 000 km"
+    },
+    {
+        "name": "Volkswagen CC Passat CC uszkodzony silnik",
+        "price": "21 900 zł",
+        "city": "Kępno - 24 października 2023",
+        "date_and_counter": "2009  - 269 000 km"
     },
     {
         "name": "zamienię  passata cc 2010 12.30.",
@@ -139,15 +139,9 @@
     },
     {
         "name": "Volkswagen Passat CC 2.0tdi 170km 2xpdc panorama tempomat servis z niemiec bezwypadek",
-        "price": "34 900 złdo negocjacji",
+        "price": "33 900 złdo negocjacji",
         "city": "Skwierzyna - 21 października 2023",
         "date_and_counter": "2009  - 198 021 km"
-    },
-    {
-        "name": "Volkswagen Passat cc 2.0 tsi benz,Turbo. 2012r",
-        "price": "33 000 zł",
-        "city": "Tychy - 26 października 2023",
-        "date_and_counter": "2012  - 186 000 km"
     },
     {
         "name": "Volkswagen CC VW cc",
@@ -156,22 +150,22 @@
         "date_and_counter": "2008  - 330 000 km"
     },
     {
-        "name": "Volkswagen Passat CC Volkswagen CC, salon polska, 2 Właściciela",
-        "price": "22 899 złdo negocjacji",
-        "city": "Poznań, Grunwald - 26 października 2023",
-        "date_and_counter": "2008  - 260 000 km"
+        "name": "Volkswagen Passat cc 2.0 tsi benz,Turbo. 2012r",
+        "price": "33 000 zł",
+        "city": "Tychy - 26 października 2023",
+        "date_and_counter": "2012  - 186 000 km"
     },
     {
-        "name": "VW Volkswagen Passat CC xenon navi alu 1.8TSI",
-        "price": "29 999 zł",
-        "city": "Golub-Dobrzyń - 24 października 2023",
-        "date_and_counter": "2010  - 270 000 km"
+        "name": "Volkswagen Passat CC 2.0 TDI DSG",
+        "price": "28 500 złdo negocjacji",
+        "city": "Limanowa - 18 października 2023",
+        "date_and_counter": "2008  - 273 000 km"
     },
     {
-        "name": "Volkswagen Passat CC",
-        "price": "34 900 zł",
-        "city": "Radom - 06 października 2023",
-        "date_and_counter": "2008  - 312 196 km"
+        "name": "Passat CC Zapraszam",
+        "price": "22 900 złdo negocjacji",
+        "city": "Stoczki - 25 października 2023",
+        "date_and_counter": "2009  - 321 500 km"
     },
     {
         "name": "Zamiana VW Passat CC KlimatronicNaviTempomatKomputerAlu18Parktornic!",
@@ -204,6 +198,12 @@
         "date_and_counter": "2014  - 171 000 km"
     },
     {
+        "name": "Volkswagen CC Dsg ,Super stan",
+        "price": "34 900 zł",
+        "city": "Elbląg - 25 października 2023",
+        "date_and_counter": "2009  - 216 000 km"
+    },
+    {
         "name": "Volkswagen Passat CC Anglik zarejestrowany",
         "price": "15 700 zł",
         "city": "Wadowice - 23 października 2023",
@@ -216,40 +216,34 @@
         "date_and_counter": "2010  - 195 000 km"
     },
     {
-        "name": "Volkswagen CC Dsg ,Super stan",
-        "price": "34 900 zł",
-        "city": "Elbląg - 25 października 2023",
-        "date_and_counter": "2009  - 216 000 km"
+        "name": "Volkswagen Passat CC DSG, bogate wyposażenie",
+        "price": "22 999 złdo negocjacji",
+        "city": "Skoczów - Dzisiaj o 05:36",
+        "date_and_counter": "2009  - 295 000 km"
+    },
+    {
+        "name": "Volkswagen Passat CC 2.0tdi 140km Salon Polska Pełna dokumentacja",
+        "price": "31 900 zł",
+        "city": "Malbork - 26 października 2023",
+        "date_and_counter": "2008  - 238 000 km"
+    },
+    {
+        "name": "Volkswagen Passat CC Volkswagen CC, salon polska, 2 Właściciela",
+        "price": "22 899 złdo negocjacji",
+        "city": "Poznań, Grunwald - 26 października 2023",
+        "date_and_counter": "2008  - 260 000 km"
+    },
+    {
+        "name": "Peugeot 5008 LIFT 2.0HDI, 7os, Polski Salon, możliwa ZAMIANA",
+        "price": "24 999 zł",
+        "city": "Pabianice - 16 października 2023",
+        "date_and_counter": "2016  - 284 000 km"
     },
     {
         "name": "Volkswagen Passat CC 2.0 Diesel 170km Dobra wersja",
         "price": "32 900 złdo negocjacji",
         "city": "Kraśnik - 22 października 2023",
         "date_and_counter": "2009  - 210 000 km"
-    },
-    {
-        "name": "Volkswagen Passat CC 2.0 TDI DSG",
-        "price": "28 500 złdo negocjacji",
-        "city": "Limanowa - 18 października 2023",
-        "date_and_counter": "2008  - 273 000 km"
-    },
-    {
-        "name": "Vw golf V 1.9tdi klimatronic 105koni",
-        "price": "11 800 zł",
-        "city": "Kąty - Odświeżono dnia 24 października 2023",
-        "date_and_counter": "2005  - 289 000 km"
-    },
-    {
-        "name": "Wozidło budowlane 1500 cc 40KM (traktor komunalny, Kubota)",
-        "price": "14 000 zł",
-        "city": "Sułów - 26 października 2023",
-        "date_and_counter": "1990"
-    },
-    {
-        "name": "Volkswagen Passat CC 2.0 TFSI 211KM 2012r zamiana na inny",
-        "price": "16 900 złdo negocjacji",
-        "city": "Radom - 23 października 2023",
-        "date_and_counter": "2012  - 205 000 km"
     },
     {
         "name": "Volkswagen Passat CC 2.0TDI DSG",
@@ -264,10 +258,10 @@
         "date_and_counter": "2008  - 320 000 km"
     },
     {
-        "name": "VW Passat CC 2.0 tdi 140km",
-        "price": "29 800 złdo negocjacji",
-        "city": "Wschowa - 26 października 2023",
-        "date_and_counter": "2008  - 208 000 km"
+        "name": "Volkswagen CC Volkswagen passat CC 2.0 TDI 177KM",
+        "price": "29 900 złdo negocjacji",
+        "city": "Dziewierzewo - 26 października 2023",
+        "date_and_counter": "2009  - 368 000 km"
     },
     {
         "name": "Volkswagen Passat CC Volkswagen Passat CC 2.0 TSI DSG",
@@ -276,10 +270,16 @@
         "date_and_counter": "2010  - 233 973 km"
     },
     {
-        "name": "Passat CC Zapraszam",
-        "price": "22 900 złdo negocjacji",
-        "city": "Stoczki - 25 października 2023",
-        "date_and_counter": "2009  - 321 500 km"
+        "name": "Volkswagen Passat CC 2.0 TFSI 211KM 2012r zamiana na inny",
+        "price": "16 900 złdo negocjacji",
+        "city": "Radom - 23 października 2023",
+        "date_and_counter": "2012  - 205 000 km"
+    },
+    {
+        "name": "VW Passat CC 2.0 tdi 140km",
+        "price": "29 800 złdo negocjacji",
+        "city": "Wschowa - 26 października 2023",
+        "date_and_counter": "2008  - 208 000 km"
     },
     {
         "name": "Volkswagen Passat CC VW Passat CC 2.0 TDI DSG 170 KM 2009 Salon Polska",
@@ -288,21 +288,9 @@
         "date_and_counter": "2009  - 322 000 km"
     },
     {
-        "name": "Volkswagen CC Volkswagen passat CC 2.0 TDI 177KM",
-        "price": "29 900 złdo negocjacji",
-        "city": "Dziewierzewo - 26 października 2023",
-        "date_and_counter": "2009  - 368 000 km"
-    },
-    {
         "name": "Volkswagen Passat CC Volkswagen Passat CC Passat CC 2,0 Turbo 200km Mały Przebieg! Automat",
         "price": "34 999 zł",
         "city": "Swarzędz - 21 października 2023",
         "date_and_counter": "2009  - 125 600 km"
-    },
-    {
-        "name": "Volkswagen Passat CC 2.0 TDI   2010 r",
-        "price": "28 500 zł",
-        "city": "Miejska Górka - 26 października 2023",
-        "date_and_counter": "2010  - 279 700 km"
     }
 ]

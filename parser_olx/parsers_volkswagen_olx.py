@@ -44,7 +44,7 @@ class OLXScraper:
             return []
 
     def save_to_json(self, data, filename):
-        with open(f"folder_olx_json/{filename}.json", "w", encoding='utf-8') as file:
+        with open(f"folder_olx_with_json/{filename}.json", "w", encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
 
     def show_info(self, data):
@@ -60,7 +60,7 @@ class OLXScraper:
         if __name__ == "__main__":
             data = main.scrape_data()
             main.show_info(data)
-            main.save_to_json(data, "file_volkswagen_passats_from_olx.json")
+            main.save_to_json(data, "file_volkswagen_passats_from_olx")
 
 
 if __name__ == "__main__":

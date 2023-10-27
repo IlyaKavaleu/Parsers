@@ -1,0 +1,872 @@
+[
+    {
+        "name": "Resident Evil 4 Remake",
+        "ranking": "4.6",
+        "picture": "https://images.stopgame.ru/games/logos/22041/c224x224/G7RVuCnVMx4l-wfHAx79-Q/resident_evil_4_remake-square_3.jpg"
+    },
+    {
+        "name": "Cyberpunk 2077: Phantom Liberty",
+        "ranking": "4.6",
+        "picture": "https://images.stopgame.ru/games/logos/23542/c224x224/wF5fg6BKtnktyb7KjjqlqA/cyberpunk_2077_phantom_liberty-square_1.jpg"
+    },
+    {
+        "name": "Ravenswatch",
+        "ranking": "4.6",
+        "picture": "https://images.stopgame.ru/games/logos/22298/c224x224/JusD0PwnmgBO200PJ7OBcQ/ravenswatch-square.jpg"
+    },
+    {
+        "name": "God of War: Ragnarök",
+        "ranking": "4.5",
+        "picture": "https://images.stopgame.ru/games/logos/21043/c224x224/DhmiRfXdamIwW7RIqsVyiw/god_of_war_ragnar_k-square_1.jpg"
+    },
+    {
+        "name": "Dead Space (2023)",
+        "ranking": "4.5",
+        "picture": "https://images.stopgame.ru/games/logos/20763/c224x224/teLZOY8iI9AIadrYkNn4Eg/dead_space_remake-square_1.jpg"
+    },
+    {
+        "name": "Bomb Rush Cyberfunk",
+        "ranking": "4.5",
+        "picture": "https://images.stopgame.ru/games/logos/20893/c224x224/o_Q9LJpc-qBDYra4bN3wDw/bomb_rush_cyberfunk-square_1.jpg"
+    },
+    {
+        "name": "Grim Guardians: Demon Purge",
+        "ranking": "4.5",
+        "picture": "https://images.stopgame.ru/games/logos/22398/c224x224/ubHP21G1V-mkXCz0y8KKBg/grim_guardians_demon_purge-square.jpg"
+    },
+    {
+        "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Dimension Shellshock",
+        "ranking": "4.5",
+        "picture": "https://images.stopgame.ru/games/logos/28805/c224x224/Dq0Sy_jwDAeHKcNuyBKmWQ/teenage_mutant_ninja_turtles_shredder_s_revenge_dimension_shellshock-square.jpg"
+    },
+    {
+        "name": "The Last of Us: Part I",
+        "ranking": "4.4",
+        "picture": "https://images.stopgame.ru/games/logos/22060/c224x224/xLW_uFb-QuPMNmzTV1XD9A/the_last_of_us_part_i-square.jpg"
+    },
+    {
+        "name": "Neon White",
+        "ranking": "4.4",
+        "picture": "https://images.stopgame.ru/games/logos/20452/c224x224/ozOK2PJ2dIn2DbvSjB0uzQ/neon_white-square.jpg"
+    },
+    {
+        "name": "Shadow Gambit: The Cursed Crew",
+        "ranking": "4.4",
+        "picture": "https://images.stopgame.ru/games/logos/24159/c224x224/AsUxl195BVRUKuWQJxssUQ/shadow_gambit_the_cursed_crew-square.jpg"
+    },
+    {
+        "name": "Risk of Rain 2: Survivors of the Void",
+        "ranking": "4.4",
+        "picture": "https://images.stopgame.ru/games/logos/22104/c224x224/yrHC563CBB97xTCOaf0VSQ/risk_of_rain_2_survivors_of_the_void-square.jpg"
+    },
+    {
+        "name": "River City Girls 2",
+        "ranking": "4.4",
+        "picture": "https://images.stopgame.ru/games/logos/21157/c224x224/Q4HRAQt3j2ywe_5xVqkRxg/river_city_girls_2-square_1.jpg"
+    },
+    {
+        "name": "Elden Ring",
+        "ranking": "4.3",
+        "picture": "https://images.stopgame.ru/games/logos/19106/c224x224/W4u1g0wMBehMBt8-bntRbA/elden_ring-square.jpg"
+    },
+    {
+        "name": "Mount & Blade II: Bannerlord",
+        "ranking": "4.3",
+        "picture": "https://images.stopgame.ru/games/logos/12907/c224x224/LImeshyBnT3R2TSdGn8o7g/mount_blade_2_bannerlord-square_1.jpg"
+    },
+    {
+        "name": "Marvel's Spider-Man 2",
+        "ranking": "4.3",
+        "picture": "https://images.stopgame.ru/games/logos/21046/c224x224/8PItBPACVd8DJmbfvaJhEQ/marvel_s_spider_man_2-square_3.jpg"
+    },
+    {
+        "name": "Infernax",
+        "ranking": "4.3",
+        "picture": "https://images.stopgame.ru/games/logos/21734/c224x224/NwzqEXDMDYijDe08AQrQkQ/infernax-square_1.jpg"
+    },
+    {
+        "name": "Dusk Diver 2",
+        "ranking": "4.3",
+        "picture": "https://images.stopgame.ru/games/logos/21801/c224x224/fv9AODsycuTc_edZMWVdOg/dusk_diver_2-square.jpg"
+    },
+    {
+        "name": "Double Dragon Gaiden: Rise of the Dragons",
+        "ranking": "4.3",
+        "picture": "https://images.stopgame.ru/games/logos/27239/c224x224/8oQC4Kp0qYv5-oON7paRNg/double_dragon_gaiden_rise_of_the_dragons-square.jpg"
+    },
+    {
+        "name": "A Plague Tale: Requiem",
+        "ranking": "4.2",
+        "picture": "https://images.stopgame.ru/games/logos/20491/c224x224/IDUovTCkhIH2btZYF0Oozw/plague_tale_requiem_a-square.jpg"
+    },
+    {
+        "name": "Tunic",
+        "ranking": "4.2",
+        "picture": "https://images.stopgame.ru/games/logos/21522/c224x224/8RP0qIf4ydBn6xHTgM752w/tunic-square.jpg"
+    },
+    {
+        "name": "Lies of P",
+        "ranking": "4.2",
+        "picture": "https://images.stopgame.ru/games/logos/20377/c224x224/41HIoFv-ORtcjv-qxYCO7A/lies_of_p-square_1.jpg"
+    },
+    {
+        "name": "Teardown",
+        "ranking": "4.2",
+        "picture": "https://images.stopgame.ru/games/logos/19895/c224x224/Jacn5qS8xtHtw_wODzoEFA/teardown-square.jpg"
+    },
+    {
+        "name": "FAR: Changing Tides",
+        "ranking": "4.2",
+        "picture": "https://images.stopgame.ru/games/logos/21764/c224x224/7EmcU7j9rQbbRtEQ6-V4DA/far_changing_tides-square.jpg"
+    },
+    {
+        "name": "Like a Dragon: Ishin!",
+        "ranking": "4.2",
+        "picture": "https://images.stopgame.ru/games/logos/22570/c224x224/k0c-urRCVGIemOkPicD_Lg/like_a_dragon_ishin-square_1.jpg"
+    },
+    {
+        "name": "Cultic",
+        "ranking": "4.2",
+        "picture": "https://images.stopgame.ru/games/logos/22300/c224x224/zM2FUGFGYF-55bNmgSL6Pw/cultic-square_3.jpg"
+    },
+    {
+        "name": "Atomic Heart",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/18312/c224x224/ntae3f6TZTG67PDAbdqgsg/atomic_heart-square_1.jpg"
+    },
+    {
+        "name": "Sifu",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/20192/c224x224/McbzakhkTRAsEdXY0zjSUQ/sifu-square_1.jpg"
+    },
+    {
+        "name": "Final Fantasy XVI",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/19941/c224x224/Nw3jmqxjsd2cZysFMUyrNw/final_fantasy_xvi-square_2.jpg"
+    },
+    {
+        "name": "Armored Core VI: Fires of Rubicon",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/23525/c224x224/3e854hcEU_MulwOYva9UPg/armored_core_vi_fires_of_rubicon-square_1.jpg"
+    },
+    {
+        "name": "Aliens: Dark Descent",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/22053/c224x224/xfb-V7q0DUIrR8J9EGOphQ/aliens_dark_descent-square_2.jpg"
+    },
+    {
+        "name": "Postal: Brain Damaged",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/19921/c224x224/YJUt4tzAVoAVsM4kUdhD4Q/postal_brain_damaged-square_1.jpg"
+    },
+    {
+        "name": "Crisis Core -Final Fantasy VII- Reunion",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/22110/c224x224/qgbCG_dnPjqGnbRpD4xFDQ/crisis_core_final_fantasy_vii_reunion-square_2.jpg"
+    },
+    {
+        "name": "Tinykin",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/21690/c224x224/UODqNoiVWFEWDqZ6z8h-2w/tinykin-square_1.jpg"
+    },
+    {
+        "name": "Dead Cells: Return to Castlevania",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/26479/c224x224/G7aXgp5VsPmiFlkmhnyb2Q/dead_cells_return_to_castlevania-square.jpg"
+    },
+    {
+        "name": "Trine 5: A Clockwork Conspiracy",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/26759/c224x224/1F7wh22R51flsFP1tXCKyw/trine_5_a_clockwork_conspiracy-square.jpg"
+    },
+    {
+        "name": "Wizard With a Gun",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/20477/c224x224/eFAofan5Ecs4roN9B57SSg/wizard_with_a_gun-square.jpg"
+    },
+    {
+        "name": "Strayed Lights",
+        "ranking": "4.1",
+        "picture": "https://images.stopgame.ru/games/logos/24170/c224x224/NTdWSeeEPEdMmfWjN0_3xw/strayed_lights-square.jpg"
+    },
+    {
+        "name": "Metal: Hellsinger",
+        "ranking": "4.0",
+        "picture": "https://images.stopgame.ru/games/logos/19760/c224x224/eVp3C3IGBdDlY4LauXMy0w/metal_hellsinger-square_2.jpg"
+    },
+    {
+        "name": "Sonic Frontiers",
+        "ranking": "4.0",
+        "picture": "https://images.stopgame.ru/games/logos/21481/c224x224/mAWiXgyrff_ax26Ya8vvLQ/sonic_frontiers-square_1.jpg"
+    },
+    {
+        "name": "Destiny 2: The Witch Queen",
+        "ranking": "4.0",
+        "picture": "https://images.stopgame.ru/games/logos/21738/c224x224/3vTn00fVEsCdDRm3c82UvA/destiny_2_the_witch_queen-square.jpg"
+    },
+    {
+        "name": "Humanity (2023)",
+        "ranking": "4.0",
+        "picture": "https://images.stopgame.ru/games/logos/26521/c224x224/99SPVCP7Zh-yWPdW5JV0QA/humanity_2023-square.jpg"
+    },
+    {
+        "name": "Miasma Chronicles",
+        "ranking": "4.0",
+        "picture": "https://images.stopgame.ru/games/logos/21992/c224x224/s1ljwspOLgIxswDAFd1URQ/miasma_chronicles-square_1.jpg"
+    },
+    {
+        "name": "Amnesia: The Bunker",
+        "ranking": "3.9",
+        "picture": "https://images.stopgame.ru/games/logos/23387/c224x224/u-C5GRHYMb5H2Jret-WmTw/amnesia_the_bunker-square_3.jpg"
+    },
+    {
+        "name": "Prodeus",
+        "ranking": "3.9",
+        "picture": "https://images.stopgame.ru/games/logos/19552/c224x224/OEWd2RuQorudBjx5AkkmUg/prodeus-square.jpg"
+    },
+    {
+        "name": "Remnant II",
+        "ranking": "3.9",
+        "picture": "https://images.stopgame.ru/games/logos/23537/c224x224/FXz8Cafh325HlM9K976oSg/remnant_2-square_2.jpg"
+    },
+    {
+        "name": "Bendy and the Dark Revival",
+        "ranking": "3.9",
+        "picture": "https://images.stopgame.ru/games/logos/23094/c224x224/m8VKjTZm8CsyHqthlThd2w/bendy_and_the_dark_revival-square.jpg"
+    },
+    {
+        "name": "OlliOlli World",
+        "ranking": "3.9",
+        "picture": "https://images.stopgame.ru/games/logos/21576/c224x224/aGwstvASIv8_lz9xp7_h4w/olliolli_world-square_1.jpg"
+    },
+    {
+        "name": "Eiyuden Chronicle: Rising",
+        "ranking": "3.9",
+        "picture": "https://images.stopgame.ru/games/logos/21950/c224x224/UuxtVPmPIdrDz6NM1VixfQ/eiyuden_chronicle_rising-square_1.jpg"
+    },
+    {
+        "name": "Conan Chop Chop",
+        "ranking": "3.9",
+        "picture": "https://images.stopgame.ru/games/logos/19128/c224x224/u6so_cxMZDbiCrgqzGXLtw/conan_chop_chop-square.jpg"
+    },
+    {
+        "name": "Eternights",
+        "ranking": "3.9",
+        "picture": "https://images.stopgame.ru/games/logos/23802/c224x224/h4xctgdcs9unYoHCoMYrJw/eternights-square.jpg"
+    },
+    {
+        "name": "Horizon Forbidden West",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/19765/c224x224/zVWQTdG4A495bpvVfRn0Nw/horizon_forbidden_west-square_1.jpg"
+    },
+    {
+        "name": "Cult of the Lamb",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/20986/c224x224/Ek-aEhujh5hyOV4GRPqoHg/cult_of_the_lamb-square_1.jpg"
+    },
+    {
+        "name": "Weird West",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/19465/c224x224/lvuQgViV7EtxdKhevyB0WA/weird_west-square.jpg"
+    },
+    {
+        "name": "System Shock (2023)",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/15707/c224x224/99GvfGglfAoLGKFuCQAODA/system_shock_remastered_edition-square_1.jpg"
+    },
+    {
+        "name": "Serious Sam: Siberian Mayhem",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/21580/c224x224/fVEtGGkjcGwwz0x6WSGHAQ/serious_sam_siberian_mayhem-square.jpg"
+    },
+    {
+        "name": "Darkest Dungeon 2",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/18919/c224x224/Ycid8FdftwFhQnDx7imS9Q/darkest_dungeon_2-square.jpg"
+    },
+    {
+        "name": "Midnight Fight Express",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/20985/c224x224/y198MM_AQz5QWNnrNDUf7g/midnight_fight_express-square_1.jpg"
+    },
+    {
+        "name": "ANNO: Mutationem",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/21733/c224x224/xYpSQJ_PTnWZrs1QKIzpdw/anno_mutationem-square.jpg"
+    },
+    {
+        "name": "Afterimage",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/22214/c224x224/iCSvTMaBUMUoE2cTdxrr4g/afterimage-square_1.jpg"
+    },
+    {
+        "name": "Cult of the Lamb: Relics of the Old Faith",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/26828/c224x224/_Yz9ukpbULJL4xdstF5-Yg/cult_of_the_lamb_relics_of_the_old_faith-square.jpg"
+    },
+    {
+        "name": "Ship of Fools",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/21800/c224x224/9lSQziVbslcfV0vdDCmMBg/ship_of_fools-square_1.jpg"
+    },
+    {
+        "name": "Ripout",
+        "ranking": "3.8",
+        "picture": "https://images.stopgame.ru/games/logos/20900/c224x224/k31kLbpDDO0IP3iHYL3-KQ/ripout-square.jpg"
+    },
+    {
+        "name": "Shadow Warrior 3",
+        "ranking": "3.7",
+        "picture": "https://images.stopgame.ru/games/logos/19822/c224x224/lUIFsbBHAzwoVgTO5UseIA/shadow_warrior_3-square_1.jpg"
+    },
+    {
+        "name": "Dead Island 2",
+        "ranking": "3.7",
+        "picture": "https://images.stopgame.ru/games/logos/14462/c224x224/l8rv9auwZh2dPShNcSOBaA/dead_island_2-square_2.jpg"
+    },
+    {
+        "name": "Tiny Tina’s Wonderlands",
+        "ranking": "3.7",
+        "picture": "https://images.stopgame.ru/games/logos/20433/c224x224/i3hrmDg3VGQLpMJgieSBWg/tiny_tina_s_wonderlands-square.jpg"
+    },
+    {
+        "name": "Sniper Elite 5",
+        "ranking": "3.7",
+        "picture": "https://images.stopgame.ru/games/logos/21491/c224x224/lvF0GRgFtXPEUdvxHL99Dg/sniper_elite_5-square_1.jpg"
+    },
+    {
+        "name": "Ghost Song",
+        "ranking": "3.7",
+        "picture": "https://images.stopgame.ru/games/logos/22491/c224x224/8Kcvru6d1yWyjc477LOa-g/ghost_song-square.jpg"
+    },
+    {
+        "name": "Moonscars",
+        "ranking": "3.7",
+        "picture": "https://images.stopgame.ru/games/logos/22129/c224x224/81_yqMgYL9kF885yxi5ZiA/moonscars-square.jpg"
+    },
+    {
+        "name": "Redout 2",
+        "ranking": "3.7",
+        "picture": "https://images.stopgame.ru/games/logos/21809/c224x224/XKQkXX7-ettWQlvk_FcIBg/redout_2-square_1.jpg"
+    },
+    {
+        "name": "Serial Cleaners",
+        "ranking": "3.7",
+        "picture": "https://images.stopgame.ru/games/logos/22144/c224x224/E0UZ6_TeDcbph6sxmJAFoQ/serial_cleaners-square.jpg"
+    },
+    {
+        "name": "Hogwarts Legacy",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/19942/c224x224/gchtCZNkr2s88cBD26HJEQ/hogwarts_legacy-square_1.jpg"
+    },
+    {
+        "name": "Evil West",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/20070/c224x224/QGMmNf67mRf_gQnW9VmxhA/evil_west-square_1.jpg"
+    },
+    {
+        "name": "High on Life",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/22073/c224x224/WtTKZvNMj3QO5HuTTROLkw/high_on_life-square_1.jpg"
+    },
+    {
+        "name": "Warhammer 40,000: Boltgun",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/22035/c224x224/uovlDnfGuFKk_xsAFeMN0w/warhammer_40_000_boltgun-square_1.jpg"
+    },
+    {
+        "name": "Atomic Heart: Annihilation Instinct",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/28772/c224x224/wZSSHY7UkozliK5FYn-WRg/atomic_heart_annihilation_instinct-square.jpg"
+    },
+    {
+        "name": "Asterigos: Curse of the Stars",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/21906/c224x224/lUWKGXMy7PsZScUnGlMO3Q/asterigos_curse_of_the_stars-square_1.jpg"
+    },
+    {
+        "name": "Soulstice",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/20535/c224x224/GLHiBYBSoPZJybfyfZE8ng/soulstice-square_1.jpg"
+    },
+    {
+        "name": "The Entropy Centre",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/22072/c224x224/IPLV9hZUsaV7RI4G71WN3Q/the_entropy_centre-square_1.jpg"
+    },
+    {
+        "name": "MADiSON",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/21399/c224x224/yyjnoHz2O1CGz-YCJUC_4g/madison-square_1.jpg"
+    },
+    {
+        "name": "Rollerdrome",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/22125/c224x224/hFcB2Vfrf6yn5JAlw6Q4dw/rollerdrome-square_1.jpg"
+    },
+    {
+        "name": "Tchia",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/22064/c224x224/-U3x0UGKXWuY5xz1lIw2gQ/tchia-square.jpg"
+    },
+    {
+        "name": "Little Devil Inside",
+        "ranking": "2023",
+        "picture": "https://images.stopgame.ru/games/logos/15116/c224x224/RNNJQKDwKvvs1eSVUadsRQ/little_devil_inside-square.jpg"
+    },
+    {
+        "name": "Alan Wake II",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/21476/c224x224/KgFFzwGVgKmjCroxJ1Qfxw/alan_wake_ii-square_1.jpg"
+    },
+    {
+        "name": "SpiderHeck",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/22561/c224x224/cK7IdkJ0HlsQy6tbRWi0Vw/spiderheck-square_1.jpg"
+    },
+    {
+        "name": "Gibbon: Beyond the Trees",
+        "ranking": "3.6",
+        "picture": "https://images.stopgame.ru/games/logos/25223/c224x224/_eLzNOx8-b5EKtc01y8l2A/gibbon_beyond_the_trees-square.jpg"
+    },
+    {
+        "name": "Dying Light 2: Stay Human",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/18440/c224x224/EEGsCxnHNs4RqEs0IPE0nA/dying_light_2_stay_human-square.jpg"
+    },
+    {
+        "name": "Star Wars Jedi: Survivor",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/22018/c224x224/ZUaPEuFMcokHBGDmAHjaYQ/star_wars_jedi_survivor-square_3.jpg"
+    },
+    {
+        "name": "Resident Evil: Village — Shadows of Rose",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/22668/c224x224/22WUbRvGG-gJCp8mIbM3tQ/resident_evil_village_shadows_of_rose-square.jpg"
+    },
+    {
+        "name": "ELEX II",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/20511/c224x224/P41OPeFoauX_td8DWukKIQ/elex_ii-square.jpg"
+    },
+    {
+        "name": "Trepang2",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/20991/c224x224/S9kAmHRASsmsjCxQQEp_yQ/trepang2-square_1.jpg"
+    },
+    {
+        "name": "Chivalry II",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/19117/c224x224/gl7ClGdAvkf2_u0vqvTqDw/chivalry_2-square.jpg"
+    },
+    {
+        "name": "Evil Dead: The Game",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/20069/c224x224/ieqMly49YOVIHyqZujVc2w/evil_dead_the_game-square_1.jpg"
+    },
+    {
+        "name": "Blacktail",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/21957/c224x224/uik3miq8DqQH1cVXUKux8Q/blacktail-square.jpg"
+    },
+    {
+        "name": "Goat Simulator 3",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/22055/c224x224/bS4RVt1HKVCJJgTpFgHWQQ/goat_simulator_3-square.jpg"
+    },
+    {
+        "name": "Warhammer 40,000: Shootas, Blood & Teef",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/21754/c224x224/Z5zv8bpBszqrrJ9NpSiIww/warhammer_40_000_shootas_blood_teef-square_2.jpg"
+    },
+    {
+        "name": "The Texas Chain Saw Massacre",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/21487/c224x224/9Z9eoH4VOxJswtvMbftD_Q/the_texas_chain_saw_massacre-square.jpg"
+    },
+    {
+        "name": "Valkyrie Elysium",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/21790/c224x224/9vsCi4ZU3mfjmvHP3vjfvA/valkyrie_elysium-square.jpg"
+    },
+    {
+        "name": "Moving Out 2",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/22458/c224x224/qaWXJa7W9Q9by9cWz82D9Q/moving_out_2-square.jpg"
+    },
+    {
+        "name": "The Callisto Protocol",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/20066/c224x224/ZpM5BLpqiBqo9LbsH0gS-A/callisto_protocol-square.jpg"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare II",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/21721/c224x224/dPOiMU6QdC7Z1zt44sR5Bw/call_of_duty_modern_warfare_2_2022-square.jpg"
+    },
+    {
+        "name": "GhostWire: Tokyo",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/19120/c224x224/nKwTSm6c6hY5pVox_gAu0g/ghostwire_tokyo-square.jpg"
+    },
+    {
+        "name": "Stranger of Paradise: Final Fantasy Origin",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/20508/c224x224/h78zUPVGdZuKQZCzhhzq1w/stranger_of_paradise_final_fantasy_origin-square_1.jpg"
+    },
+    {
+        "name": "Salt and Sacrifice",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/20439/c224x224/Cfisb_QKUnvStIbc6EXEBg/salt_and_sacrifice-square.jpg"
+    },
+    {
+        "name": "FOBIA: St. Dinfna Hotel",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/21995/c224x224/wbyRJF63zrWjWJ9Mh3FaNg/fobia_st_dinfna_hotel-square_1.jpg"
+    },
+    {
+        "name": "Dolmen",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/21743/c224x224/vp6DMPSoe2GS-98zLb9QSQ/dolmen-square_1.jpg"
+    },
+    {
+        "name": "Batora: Lost Haven",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/20161/c224x224/jyI0UpWUt4M--TbDwbd1wg/batora_lost_haven-square_2.jpg"
+    },
+    {
+        "name": "Blind Fate: Edo no Yami",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/21591/c224x224/IG49C8kDUVM9h5FT-7RGcQ/blind_fate_edo_no_yami-square.jpg"
+    },
+    {
+        "name": "Ghostbusters: Spirits Unleashed",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/21824/c224x224/vaAKOr0MH0bNeDC17icHkg/ghostbusters_spirits_unleashed-square_1.jpg"
+    },
+    {
+        "name": "Trek to Yomi",
+        "ranking": "3.3",
+        "picture": "https://images.stopgame.ru/games/logos/20476/c224x224/reka6W4OpYr5ZYWxyCFUrA/trek_to_yomi-square.jpg"
+    },
+    {
+        "name": "Payday 3",
+        "ranking": "3.3",
+        "picture": "https://images.stopgame.ru/games/logos/20440/c224x224/sbnQTd9T-H4vVaxZOoT3bA/payday_3-square_3.jpg"
+    },
+    {
+        "name": "Horizon Forbidden West: The Burning Shores",
+        "ranking": "3.3",
+        "picture": "https://images.stopgame.ru/games/logos/23524/c224x224/wKKbN1fc8YOF6iD88cbfXA/horizon_forbidden_west_the_burning_shores-square_2.jpg"
+    },
+    {
+        "name": "Assassin's Creed Valhalla: Dawn of Ragnarok",
+        "ranking": "3.3",
+        "picture": "https://images.stopgame.ru/games/logos/21501/c224x224/oQhqQ48zmwRqj9lT4nKzzQ/assassin_s_creed_valhalla_dawn_of_ragnarok-square.jpg"
+    },
+    {
+        "name": "MultiVersus",
+        "ranking": "3.3",
+        "picture": "https://images.stopgame.ru/games/logos/21363/c224x224/ZlgiwNPORcam1yJHYz8Grw/multiversus-square.jpg"
+    },
+    {
+        "name": "Clash: Artifacts of Chaos",
+        "ranking": "3.3",
+        "picture": "https://images.stopgame.ru/games/logos/20664/c224x224/dIj5z7b0YKLnRltsvT8kNA/clash_artifacts_of_chaos-square_2.jpg"
+    },
+    {
+        "name": "Outriders: Worldslayer",
+        "ranking": "3.3",
+        "picture": "https://images.stopgame.ru/games/logos/22098/c224x224/p3V_no-xD6HOktxLS25IkA/outriders_worldslayer-square.jpg"
+    },
+    {
+        "name": "Sclash",
+        "ranking": "3.3",
+        "picture": "https://images.stopgame.ru/games/logos/28518/c224x224/pEJMBQXidJzz0xPXgMMpMg/sclash-square.jpg"
+    },
+    {
+        "name": "Scorn",
+        "ranking": "3.2",
+        "picture": "https://images.stopgame.ru/games/logos/17483/c224x224/mMjkAmGjzFQUZi6xrt4J1w/scorn-square_3.jpg"
+    },
+    {
+        "name": "Wo Long: Fallen Dynasty",
+        "ranking": "3.2",
+        "picture": "https://images.stopgame.ru/games/logos/22487/c224x224/j2-qI4Hn7n-cbe_5Wo5grA/wo_long_fallen_dynasty-square.jpg"
+    },
+    {
+        "name": "Steelrising",
+        "ranking": "3.2",
+        "picture": "https://images.stopgame.ru/games/logos/19824/c224x224/B_V1seDA6u39c_JRiMjCKw/steelrising-square_2.jpg"
+    },
+    {
+        "name": "Ad Infinitum",
+        "ranking": "3.2",
+        "picture": "https://images.stopgame.ru/games/logos/20665/c224x224/27c2VLAVQrf5Q-di3E1rtw/ad_infinitum-square_1.jpg"
+    },
+    {
+        "name": "Call of Duty: Warzone 2.0",
+        "ranking": "3.1",
+        "picture": "https://images.stopgame.ru/games/logos/22577/c224x224/V7BVnaNkisFxOfE6wgK_0Q/call_of_duty_warzone_2_0-square_1.jpg"
+    },
+    {
+        "name": "Destiny 2: Lightfall",
+        "ranking": "3.1",
+        "picture": "https://images.stopgame.ru/games/logos/22446/c224x224/a0WbZRVpKUXLrdu-35yTAg/destiny_2_lightfall-square_1.jpg"
+    },
+    {
+        "name": "Destroy All Humans! 2: Reprobed",
+        "ranking": "3.1",
+        "picture": "https://images.stopgame.ru/games/logos/21094/c224x224/NPSVhuQa5w239TfQzQsbCw/destroy_all_humans_2_reprobed-square.jpg"
+    },
+    {
+        "name": "Daymare: 1994 Sandcastle",
+        "ranking": "3.1",
+        "picture": "https://images.stopgame.ru/games/logos/20534/c224x224/HZW1Bq4CoAkZUG6VAX9DIQ/daymare_1994_sandcastle-square.jpg"
+    },
+    {
+        "name": "Forspoken: In Tanta We Trust",
+        "ranking": "3.1",
+        "picture": "https://images.stopgame.ru/games/logos/26582/c224x224/BBgXt5N6OTdyyS5O_H4BCw/forspoken_in_tanta_we_trust-square.jpg"
+    },
+    {
+        "name": "Winter Ember",
+        "ranking": "3.1",
+        "picture": "https://images.stopgame.ru/games/logos/21531/c224x224/PWRQ0J3G21ZhFkCmWSzzNw/winter_ember-square.jpg"
+    },
+    {
+        "name": "The Last Hero of Nostalgaia",
+        "ranking": "3.1",
+        "picture": "https://images.stopgame.ru/games/logos/22587/c224x224/hWIoVVxAF86B8Z_rWjmi8Q/the_last_hero_of_nostalgaia-square.jpg"
+    },
+    {
+        "name": "Oxide Room 104",
+        "ranking": "3.1",
+        "picture": "https://images.stopgame.ru/games/logos/26925/c224x224/xshYrinLMKwjSSB5ZywIOw/oxide_room_104-square.jpg"
+    },
+    {
+        "name": "Thymesia",
+        "ranking": "3.0",
+        "picture": "https://images.stopgame.ru/games/logos/20552/c224x224/yCquTHQo6-51NDaWZNJVsQ/thymesia-square.jpg"
+    },
+    {
+        "name": "Scars Above",
+        "ranking": "3.0",
+        "picture": "https://images.stopgame.ru/games/logos/22455/c224x224/u-DVbjocRVQgR5sFhljEFQ/scars_above-square_1.jpg"
+    },
+    {
+        "name": "Minecraft Legends",
+        "ranking": "3.0",
+        "picture": "https://images.stopgame.ru/games/logos/22079/c224x224/eBl-GTRDo03-OqiWlV4G7g/minecraft_legends-square_1.jpg"
+    },
+    {
+        "name": "Wild Hearts",
+        "ranking": "3.0",
+        "picture": "https://images.stopgame.ru/games/logos/22596/c224x224/-9XjAVbBcydcZhWjK2B-TQ/wild_hearts-square_1.jpg"
+    },
+    {
+        "name": "Meet Your Maker",
+        "ranking": "3.0",
+        "picture": "https://images.stopgame.ru/games/logos/22393/c224x224/SBRCXVyCTF5b4V1u7ZGLnQ/meet_your_maker-square_1.jpg"
+    },
+    {
+        "name": "Crime Boss: Rockay City",
+        "ranking": "3.0",
+        "picture": "https://images.stopgame.ru/games/logos/23541/c224x224/JykmeG8GRgz-Y-lCzvjQoQ/crime_boss_rockay_city-square.jpg"
+    },
+    {
+        "name": "Assassin's Creed Mirage",
+        "ranking": "2.9",
+        "picture": "https://images.stopgame.ru/games/logos/22500/c224x224/bv6eGZNYr9OC-OO0yk5Kxw/assassin_s_creed_mirage-square_2.jpg"
+    },
+    {
+        "name": "The Callisto Protocol: Final Transmission",
+        "ranking": "2.9",
+        "picture": "https://images.stopgame.ru/games/logos/28301/c224x224/Gor8O6KNd6HkFbj0LwnLzA/the_callisto_protocol_final_transmission-square_1.jpg"
+    },
+    {
+        "name": "The Chant",
+        "ranking": "2.9",
+        "picture": "https://images.stopgame.ru/games/logos/21991/c224x224/Wz08xls2CgmZ5fFQu2MEew/the_chant-square_3.jpg"
+    },
+    {
+        "name": "Dead by Daylight: Sadako Rising",
+        "ranking": "2.9",
+        "picture": "https://images.stopgame.ru/games/logos/21815/c224x224/u3txozGV5ryrLEQ-F_QwUg/dead_by_daylight_sadako_rising-square.jpg"
+    },
+    {
+        "name": "Testament: The Order of High Human",
+        "ranking": "2.9",
+        "picture": "https://images.stopgame.ru/games/logos/27598/c224x224/zn22IjptVIdJp3Q_1ZqesA/testament_the_order_of_high_human-square.jpg"
+    },
+    {
+        "name": "Divine Knockout",
+        "ranking": "2.9",
+        "picture": "https://images.stopgame.ru/games/logos/23373/c224x224/CHz7VH83MDvfGeFZ8-Xvfw/divine_knockout-square.jpg"
+    },
+    {
+        "name": "Far Cry 6: Lost Between Worlds",
+        "ranking": "2.9",
+        "picture": "https://images.stopgame.ru/games/logos/23337/c224x224/qvOz5GtyGPsItA6Cw7cYwQ/far_cry_6_lost_between_worlds-square.jpg"
+    },
+    {
+        "name": "Assassin's Creed Valhalla: The Last Chapter",
+        "ranking": "2.8",
+        "picture": "https://images.stopgame.ru/games/logos/26388/c224x224/Y9VWIuTcmK6zVZ-e6KJcFg/assassin_s_creed_valhalla_the_last_chapter-square.jpg"
+    },
+    {
+        "name": "Disney Speedstorm",
+        "ranking": "2.8",
+        "picture": "https://images.stopgame.ru/games/logos/22063/c224x224/XMyUDqZAENBOGCIEc3sYcA/disney_speedstorm-square_1.jpg"
+    },
+    {
+        "name": "Arma Reforger",
+        "ranking": "2.8",
+        "picture": "https://images.stopgame.ru/games/logos/21980/c224x224/UsKV36Sfp-XfJfqi2eEPTA/arma_reforger-square_1.jpg"
+    },
+    {
+        "name": "Crash Team Rumble",
+        "ranking": "2.8",
+        "picture": "https://images.stopgame.ru/games/logos/23540/c224x224/6hs7lEjU8iZgFLi-0UMbgA/crash_team_rumble-square.jpg"
+    },
+    {
+        "name": "Overwatch 2",
+        "ranking": "2.6",
+        "picture": "https://images.stopgame.ru/games/logos/19379/c224x224/EOhUDjg-mW6aenxciyAwcQ/overwatch_2-square_2.jpg"
+    },
+    {
+        "name": "Far Cry 6 Joseph: Collapse",
+        "ranking": "2.6",
+        "picture": "https://images.stopgame.ru/games/logos/21712/c224x224/3kMGFsD_lz9st-w8KLWFUw/far_cry_6_joseph_collapse-square.jpg"
+    },
+    {
+        "name": "Wanted: Dead",
+        "ranking": "2.6",
+        "picture": "https://images.stopgame.ru/games/logos/21150/c224x224/WBLIDy-0p2nYrB1o8c0P1g/wanted_dead-square_1.jpg"
+    },
+    {
+        "name": "Gungrave G.O.R.E",
+        "ranking": "2.6",
+        "picture": "https://images.stopgame.ru/games/logos/21769/c224x224/9-8qoPqFqp14lHEPrbgmdg/gungrave_g_o_r_e-square.jpg"
+    },
+    {
+        "name": "Atlas Fallen",
+        "ranking": "2.6",
+        "picture": "https://images.stopgame.ru/games/logos/22449/c224x224/qwjxBCje1LhtyTXtPjcjnw/atlas_fallen-square.jpg"
+    },
+    {
+        "name": "Grand Theft Auto Online: The Criminal Enterprises",
+        "ranking": "2.6",
+        "picture": "https://images.stopgame.ru/games/logos/23173/c224x224/yioFwiaNcg2dYW8_rDbsJQ/grand_theft_auto_online_the_criminal_enterprises-square.jpg"
+    },
+    {
+        "name": "Postal 4: No Regerts",
+        "ranking": "2.5",
+        "picture": "https://images.stopgame.ru/games/logos/19346/c224x224/gAo-v33_YAsq8CGA4jWXIw/postal_4_no_regerts-square.jpg"
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six: Extraction",
+        "ranking": "2.5",
+        "picture": "https://images.stopgame.ru/games/logos/19114/c224x224/zAFeIKZx4gXrq5N1G_Sh1w/tom_clancy_s_rainbow_six_quarantine-square.jpg"
+    },
+    {
+        "name": "Exoprimal",
+        "ranking": "2.5",
+        "picture": "https://images.stopgame.ru/games/logos/21789/c224x224/O2V8sA8lkGJ5zX21JPMSNA/exoprimal-square_2.jpg"
+    },
+    {
+        "name": "Unholy",
+        "ranking": "2.5",
+        "picture": "https://images.stopgame.ru/games/logos/22578/c224x224/fKzIZ7iPi9COzDyKJn07gA/unholy-square.jpg"
+    },
+    {
+        "name": "The Last Oricru",
+        "ranking": "2.4",
+        "picture": "https://images.stopgame.ru/games/logos/22638/c224x224/w0XQDVm-MrotUxsewytgyg/last_oricru-square.jpg"
+    },
+    {
+        "name": "Gotham Knights",
+        "ranking": "2.3",
+        "picture": "https://images.stopgame.ru/games/logos/19885/c224x224/rpldO7EFmheJ64xJ_8tGiw/gotham_knights-square.jpg"
+    },
+    {
+        "name": "Fort Solis",
+        "ranking": "2.3",
+        "picture": "https://images.stopgame.ru/games/logos/22054/c224x224/JCwaMqPhZZmZ7-CWe_U2ng/fort_solis-square_3.jpg"
+    },
+    {
+        "name": "Dying Light 2: Stay Human - Bloody Ties",
+        "ranking": "2.3",
+        "picture": "https://images.stopgame.ru/games/logos/23147/c224x224/vKuMXWsJiepG_qkXwnAShg/dying_light_2_stay_human_bloody_ties-square.jpg"
+    },
+    {
+        "name": "Cursed to Golf",
+        "ranking": "2.3",
+        "picture": "https://images.stopgame.ru/games/logos/22127/c224x224/OB6mIU1d9ysyZ1TvhT_5uw/cursed_to_golf-square.jpg"
+    },
+    {
+        "name": "Saints Row (2022)",
+        "ranking": "2.2",
+        "picture": "https://images.stopgame.ru/games/logos/20982/c224x224/lIKnh0JlExy2JBqvRswIEA/saints_row_2022-square.jpg"
+    },
+    {
+        "name": "Far Cry 6 Pagan: Control",
+        "ranking": "2.2",
+        "picture": "https://images.stopgame.ru/games/logos/26783/c224x224/X6nJM_zxJ1ZzlI9JrN_wew/far_cry_6_pagan_control-square.jpg"
+    },
+    {
+        "name": "GhostWire: Tokyo - Spider's Thread",
+        "ranking": "2.2",
+        "picture": "https://images.stopgame.ru/games/logos/26817/c224x224/Jolktao6bbybpgCSnoCSNQ/ghostwire_tokyo_spider_s_thread-square.jpg"
+    },
+    {
+        "name": "New Tales from the Borderlands",
+        "ranking": "2.1",
+        "picture": "https://images.stopgame.ru/games/logos/22432/c224x224/gldaC44ICX04zetjkixUiw/new_tales_from_the_borderlands-square_1.jpg"
+    },
+    {
+        "name": "Resident Evil Re:Verse",
+        "ranking": "1.9",
+        "picture": "https://images.stopgame.ru/games/logos/20129/c224x224/DDhfsLYIbgGZXoG4SRe0Ug/resident_evil_re_verse-square.jpg"
+    },
+    {
+        "name": "Metal Gear Solid: Master Collection Vol. 1",
+        "ranking": "1.7",
+        "picture": "https://images.stopgame.ru/games/logos/29009/c224x224/uNXCq8XDtz7wMln5XHOKkw/metal_gear_solid_master_collection_vol_1-square.jpg"
+    },
+    {
+        "name": "Immortals of Aveum",
+        "ranking": "1.7",
+        "picture": "https://images.stopgame.ru/games/logos/23534/c224x224/IaxhBi26bSMn7A7IwGBtlg/immortals_of_aveum-square_1.jpg"
+    },
+    {
+        "name": "DC League of Super-Pets: The Adventures of Krypto and Ace",
+        "ranking": "1.7",
+        "picture": "https://images.stopgame.ru/games/logos/22362/c224x224/aKHlCDFc5Z_VfwOYet4PRA/dc_league_of_super_pets_the_adventures_of_krypto_and_ace-square_1.jpg"
+    },
+    {
+        "name": "Forspoken",
+        "ranking": "1.5",
+        "picture": "https://images.stopgame.ru/games/logos/19783/c224x224/-9wOxhT51YQOoGMLYYKcSA/project_athia-square.jpg"
+    },
+    {
+        "name": "Babylon's Fall",
+        "ranking": "1.5",
+        "picture": "https://images.stopgame.ru/games/logos/18446/c224x224/IVtSMVUWSfAH69kt4iQlBw/babylon_s_fall-square_1.jpg"
+    },
+    {
+        "name": "The Lord of the Rings: Gollum",
+        "ranking": "1.4",
+        "picture": "https://images.stopgame.ru/games/logos/19687/c224x224/XJVcbirGgszFltuX3qMohw/lord_of_the_rings_gollum-square_1.jpg"
+    },
+    {
+        "name": "Saints Row: The Heist and The Hazardous",
+        "ranking": "1.1",
+        "picture": "https://images.stopgame.ru/games/logos/27339/c224x224/m_xA7GB6a7nwawW7EYsaYw/saints_row_the_heist_and_the_hazardous-square_1.jpg"
+    },
+    {
+        "name": "Skull Island Rise of Kong",
+        "ranking": "1.0",
+        "picture": "https://images.stopgame.ru/games/logos/28776/c224x224/WRgDC_bI17LTcD4DUbbJvw/skull_island_rise_of_kong-square_2.jpg"
+    }
+]
