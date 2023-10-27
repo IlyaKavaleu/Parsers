@@ -44,7 +44,7 @@ class OLXScraper:
             return []
 
     def save_to_json(self, data, filename):
-        with open(filename, "w", encoding='utf-8') as file:
+        with open(f"folder_olx_json/{filename}.json", "w", encoding='utf-8') as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
 
     def show_info(self, data):

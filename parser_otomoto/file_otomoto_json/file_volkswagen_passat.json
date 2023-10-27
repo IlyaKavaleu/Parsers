@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Dziewierzewo (Kujawsko-pomorskie)Podbite ",
+        "published_date": "Dziewierzewo (Kujawsko-pomorskie)",
+        "price": "29 900PLN"
+    },
+    {
+        "name": "Volkswagen CC 2.0 TDI BlueMotion Technology DSG",
+        "all_information": "Volkswagen CC 2.0 TDI BlueMotion Technology DSG",
+        "image": "",
+        "city": "Kraków (Małopolskie)Opublikowano ",
+        "published_date": "Podbite ",
+        "price": "36 500PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Gdańsk (Pomorskie)Podbite ",
+        "published_date": "Kraków (Małopolskie)",
+        "price": "28 500PLN"
+    },
+    {
+        "name": "Volkswagen CC 2.0 Blue TDI DSG SCR",
+        "all_information": "Volkswagen CC 2.0 Blue TDI DSG SCR",
+        "image": "",
+        "city": "Elbląg (Warmińsko-mazurskie)Opublikowano ",
+        "published_date": "Opublikowano ",
+        "price": "34 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Stargard (Zachodniopomorskie)Podbite ",
+        "published_date": "Gdańsk (Pomorskie)",
+        "price": "21 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Warszawa (Mazowieckie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "49 000PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Bydgoszcz (Kujawsko-pomorskie)Podbite ",
+        "published_date": "Elbląg (Warmińsko-mazurskie)",
+        "price": "39 900PLN"
+    },
+    {
+        "name": "Volkswagen CC 2.0 TSI",
+        "all_information": "Volkswagen CC 2.0 TSI",
+        "image": "",
+        "city": "Kadzidło (Mazowieckie)Podbite ",
+        "published_date": "Opublikowano ",
+        "price": "39 999PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Kępno (Wielkopolskie)Podbite ",
+        "published_date": "Stargard (Zachodniopomorskie)",
+        "price": "21 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Zgorzelec (Dolnośląskie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "43 000PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Sieradz (Łódzkie)Podbite ",
+        "published_date": "Warszawa (Mazowieckie)",
+        "price": "31 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Bolesławiec (Dolnośląskie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "37 000PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Myślenice (Małopolskie)Opublikowano ",
+        "published_date": "Bydgoszcz (Kujawsko-pomorskie)",
+        "price": "30 900PLN"
+    },
+    {
+        "name": "Volkswagen CC 2.0 TDI BlueMotion Technology DSG",
+        "all_information": "Volkswagen CC 2.0 TDI BlueMotion Technology DSG",
+        "image": "",
+        "city": "Elbląg (Warmińsko-mazurskie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "39 900PLN"
+    },
+    {
+        "name": "Volkswagen CC 2.0 TSI DSG",
+        "all_information": "Volkswagen CC 2.0 TSI DSG",
+        "image": "",
+        "city": "Bydgoszcz (Kujawsko-pomorskie)Podbite ",
+        "published_date": "Kadzidło (Mazowieckie)",
+        "price": "31 800PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Leżajsk (Podkarpackie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "35 900PLN"
+    },
+    {
+        "name": "Volkswagen CC 2.0 TDI BlueMotion Technology DSG",
+        "all_information": "Volkswagen CC 2.0 TDI BlueMotion Technology DSG",
+        "image": "",
+        "city": "Białystok (Podlaskie)Podbite ",
+        "published_date": "Kępno (Wielkopolskie)",
+        "price": "33 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Kraków (Małopolskie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "40 000PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Kórnik (Wielkopolskie)Opublikowano ",
+        "published_date": "Zgorzelec (Dolnośląskie)",
+        "price": "22 000PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Kielce (Świętokrzyskie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "35 800PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Białystok (Podlaskie)Podbite ",
+        "published_date": "Sieradz (Łódzkie)",
+        "price": "34 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Gdańsk (Pomorskie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "31 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Pruszcz Gdański (Pomorskie)Podbite ",
+        "published_date": "Bolesławiec (Dolnośląskie)",
+        "price": "24 500PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Miechów (Małopolskie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "31 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Widawa (Łódzkie)Podbite ",
+        "published_date": "Myślenice (Małopolskie)",
+        "price": "34 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Żuków (Mazowieckie)Podbite ",
+        "published_date": "Opublikowano ",
+        "price": "34 500PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Pyrzyce (Zachodniopomorskie)Opublikowano ",
+        "published_date": "Elbląg (Warmińsko-mazurskie)",
+        "price": "29 500PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Warszawa (Mazowieckie)Opublikowano ",
+        "published_date": "Podbite ",
+        "price": "27 999PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
+        "city": "Bolesławiec (Dolnośląskie)Podbite ",
+        "published_date": "Bydgoszcz (Kujawsko-pomorskie)",
+        "price": "32 900PLN"
+    }
+]
