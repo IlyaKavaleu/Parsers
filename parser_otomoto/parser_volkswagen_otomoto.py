@@ -51,13 +51,9 @@ class OTOMOTOParser:
         with open(f"folder_otomoto_with_json/file_volkswagen_passat.json", "w", encoding='utf-8') as file:
             json.dump(data, file, indent=4, ensure_ascii=False)
 
-    def main(self):
-        data = self.scrape_data()
-        self.show_info(data)
-        self.to_json(data)
 
-
-if __name__ == "__main__":
-    url = 'https://www.otomoto.pl/osobowe/volkswagen/cc?search%5Bfilter_float_year%3Ato%5D=2011'
-    otomoto = OTOMOTOParser(url)
-    otomoto.main()
+url = 'https://www.otomoto.pl/osobowe/volkswagen/cc?search%5Bfilter_float_year%3Ato%5D=2011'
+otomoto = OTOMOTOParser(url)
+data = otomoto.scrape_data()
+otomoto.show_info(data)
+otomoto.to_json(data)

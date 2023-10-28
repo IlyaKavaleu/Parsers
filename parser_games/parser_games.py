@@ -5,7 +5,6 @@ import lxml
 
 
 class GAMEParser:
-
     def __init__(self):
         print(' === Parsing process start === ')
 
@@ -28,9 +27,9 @@ class GAMEParser:
             page += 1
         return info
 
-    def to_json(self, data):
+    def to_json(self, dates):
         with open('folder_game_with_json/game_json.json', 'w', encoding='utf-8') as file:
-            json.dump(data, file, ensure_ascii=False, indent=4)
+            json.dump(dates, file, ensure_ascii=False, indent=4)
 
     def show(self, dates):
         for data in dates:
@@ -39,12 +38,8 @@ class GAMEParser:
             print("Image: ", data['picture'])
             print('\n')
 
-    def main(self):
-        data = self.scrap()
-        self.to_json(data)
-        self.show(data)
 
-
-if __name__ == '__main__':
-    game = GAMEParser()
-    game.main()
+game = GAMEParser()
+data = game.scrap()
+game.to_json(data)
+game.show(data)

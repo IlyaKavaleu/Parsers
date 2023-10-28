@@ -1,18 +1,10 @@
 [
     {
-        "name": "Volkswagen CC",
-        "all_information": "Volkswagen CC",
-        "image": "",
-        "city": "Dziewierzewo (Kujawsko-pomorskie)Podbite ",
-        "published_date": "Dziewierzewo (Kujawsko-pomorskie)",
-        "price": "29 900PLN"
-    },
-    {
         "name": "Volkswagen CC 2.0 TDI BlueMotion Technology DSG",
         "all_information": "Volkswagen CC 2.0 TDI BlueMotion Technology DSG",
         "image": "",
-        "city": "Kraków (Małopolskie)Opublikowano ",
-        "published_date": "Podbite ",
+        "city": "Kraków (Małopolskie)Podbite ",
+        "published_date": "Kraków (Małopolskie)",
         "price": "36 500PLN"
     },
     {
@@ -20,7 +12,7 @@
         "all_information": "Volkswagen CC",
         "image": "",
         "city": "Gdańsk (Pomorskie)Podbite ",
-        "published_date": "Kraków (Małopolskie)",
+        "published_date": "Podbite ",
         "price": "31 900PLN"
     },
     {
@@ -28,15 +20,23 @@
         "all_information": "Volkswagen CC",
         "image": "",
         "city": "Miechów (Małopolskie)Podbite ",
-        "published_date": "Opublikowano ",
+        "published_date": "Gdańsk (Pomorskie)",
         "price": "31 900PLN"
     },
     {
         "name": "Volkswagen CC",
         "all_information": "Volkswagen CC",
         "image": "",
+        "city": "Dziewierzewo (Kujawsko-pomorskie)Podbite ",
+        "published_date": "Podbite ",
+        "price": "29 900PLN"
+    },
+    {
+        "name": "Volkswagen CC",
+        "all_information": "Volkswagen CC",
+        "image": "",
         "city": "Gdańsk (Pomorskie)Podbite ",
-        "published_date": "Gdańsk (Pomorskie)",
+        "published_date": "Miechów (Małopolskie)",
         "price": "28 500PLN"
     },
     {
@@ -52,7 +52,7 @@
         "all_information": "Volkswagen CC",
         "image": "",
         "city": "Stargard (Zachodniopomorskie)Podbite ",
-        "published_date": "Miechów (Małopolskie)",
+        "published_date": "Dziewierzewo (Kujawsko-pomorskie)",
         "price": "21 900PLN"
     },
     {
@@ -155,32 +155,16 @@
         "name": "Volkswagen CC",
         "all_information": "Volkswagen CC",
         "image": "",
-        "city": "Kraków (Małopolskie)Podbite ",
-        "published_date": "Podbite ",
-        "price": "40 000PLN"
-    },
-    {
-        "name": "Volkswagen CC",
-        "all_information": "Volkswagen CC",
-        "image": "",
         "city": "Kórnik (Wielkopolskie)Opublikowano ",
-        "published_date": "Kępno (Wielkopolskie)",
+        "published_date": "Podbite ",
         "price": "22 000PLN"
     },
     {
         "name": "Volkswagen CC",
         "all_information": "Volkswagen CC",
         "image": "",
-        "city": "Kielce (Świętokrzyskie)Podbite ",
-        "published_date": "Podbite ",
-        "price": "35 800PLN"
-    },
-    {
-        "name": "Volkswagen CC",
-        "all_information": "Volkswagen CC",
-        "image": "",
         "city": "Białystok (Podlaskie)Podbite ",
-        "published_date": "Zgorzelec (Dolnośląskie)",
+        "published_date": "Kępno (Wielkopolskie)",
         "price": "34 900PLN"
     },
     {
@@ -196,7 +180,7 @@
         "all_information": "Volkswagen CC",
         "image": "",
         "city": "Widawa (Łódzkie)Podbite ",
-        "published_date": "Sieradz (Łódzkie)",
+        "published_date": "Zgorzelec (Dolnośląskie)",
         "price": "34 900PLN"
     },
     {
@@ -212,23 +196,15 @@
         "all_information": "Volkswagen CC",
         "image": "",
         "city": "Pyrzyce (Zachodniopomorskie)Opublikowano ",
-        "published_date": "Bolesławiec (Dolnośląskie)",
+        "published_date": "Sieradz (Łódzkie)",
         "price": "29 500PLN"
     },
     {
         "name": "Volkswagen CC",
         "all_information": "Volkswagen CC",
         "image": "",
-        "city": "Warszawa (Mazowieckie)Opublikowano ",
-        "published_date": "Podbite ",
-        "price": "24 000PLN"
-    },
-    {
-        "name": "Volkswagen CC",
-        "all_information": "Volkswagen CC",
-        "image": "",
         "city": "Bolesławiec (Dolnośląskie)Podbite ",
-        "published_date": "Myślenice (Małopolskie)",
+        "published_date": "Podbite ",
         "price": "32 900PLN"
     }
 ]

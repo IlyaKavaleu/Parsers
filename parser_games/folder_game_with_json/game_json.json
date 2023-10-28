@@ -30,6 +30,11 @@
         "picture": "https://images.stopgame.ru/games/logos/20893/c224x224/o_Q9LJpc-qBDYra4bN3wDw/bomb_rush_cyberfunk-square_1.jpg"
     },
     {
+        "name": "Ghostrunner 2",
+        "ranking": "4.5",
+        "picture": "https://images.stopgame.ru/games/logos/20367/c224x224/CWODZjwjmtIiSkA5TGyvQg/ghostrunner_2-square_2.jpg"
+    },
+    {
         "name": "Grim Guardians: Demon Purge",
         "ranking": "4.5",
         "picture": "https://images.stopgame.ru/games/logos/22398/c224x224/ubHP21G1V-mkXCz0y8KKBg/grim_guardians_demon_purge-square.jpg"
@@ -123,6 +128,11 @@
         "name": "Like a Dragon: Ishin!",
         "ranking": "4.2",
         "picture": "https://images.stopgame.ru/games/logos/22570/c224x224/k0c-urRCVGIemOkPicD_Lg/like_a_dragon_ishin-square_1.jpg"
+    },
+    {
+        "name": "Alan Wake II",
+        "ranking": "4.2",
+        "picture": "https://images.stopgame.ru/games/logos/21476/c224x224/KgFFzwGVgKmjCroxJ1Qfxw/alan_wake_ii-square_1.jpg"
     },
     {
         "name": "Cultic",
@@ -310,11 +320,6 @@
         "picture": "https://images.stopgame.ru/games/logos/21800/c224x224/9lSQziVbslcfV0vdDCmMBg/ship_of_fools-square_1.jpg"
     },
     {
-        "name": "Ripout",
-        "ranking": "3.8",
-        "picture": "https://images.stopgame.ru/games/logos/20900/c224x224/k31kLbpDDO0IP3iHYL3-KQ/ripout-square.jpg"
-    },
-    {
         "name": "Shadow Warrior 3",
         "ranking": "3.7",
         "picture": "https://images.stopgame.ru/games/logos/19822/c224x224/lUIFsbBHAzwoVgTO5UseIA/shadow_warrior_3-square_1.jpg"
@@ -350,6 +355,11 @@
         "picture": "https://images.stopgame.ru/games/logos/21809/c224x224/XKQkXX7-ettWQlvk_FcIBg/redout_2-square_1.jpg"
     },
     {
+        "name": "Ripout",
+        "ranking": "3.7",
+        "picture": "https://images.stopgame.ru/games/logos/20900/c224x224/k31kLbpDDO0IP3iHYL3-KQ/ripout-square.jpg"
+    },
+    {
         "name": "Serial Cleaners",
         "ranking": "3.7",
         "picture": "https://images.stopgame.ru/games/logos/22144/c224x224/E0UZ6_TeDcbph6sxmJAFoQ/serial_cleaners-square.jpg"
@@ -368,11 +378,6 @@
         "name": "High on Life",
         "ranking": "3.6",
         "picture": "https://images.stopgame.ru/games/logos/22073/c224x224/WtTKZvNMj3QO5HuTTROLkw/high_on_life-square_1.jpg"
-    },
-    {
-        "name": "Warhammer 40,000: Boltgun",
-        "ranking": "3.6",
-        "picture": "https://images.stopgame.ru/games/logos/22035/c224x224/uovlDnfGuFKk_xsAFeMN0w/warhammer_40_000_boltgun-square_1.jpg"
     },
     {
         "name": "Atomic Heart: Annihilation Instinct",
@@ -415,11 +420,6 @@
         "picture": "https://images.stopgame.ru/games/logos/15116/c224x224/RNNJQKDwKvvs1eSVUadsRQ/little_devil_inside-square.jpg"
     },
     {
-        "name": "Alan Wake II",
-        "ranking": "3.6",
-        "picture": "https://images.stopgame.ru/games/logos/21476/c224x224/KgFFzwGVgKmjCroxJ1Qfxw/alan_wake_ii-square_1.jpg"
-    },
-    {
         "name": "SpiderHeck",
         "ranking": "3.6",
         "picture": "https://images.stopgame.ru/games/logos/22561/c224x224/cK7IdkJ0HlsQy6tbRWi0Vw/spiderheck-square_1.jpg"
@@ -443,6 +443,11 @@
         "name": "Resident Evil: Village — Shadows of Rose",
         "ranking": "3.5",
         "picture": "https://images.stopgame.ru/games/logos/22668/c224x224/22WUbRvGG-gJCp8mIbM3tQ/resident_evil_village_shadows_of_rose-square.jpg"
+    },
+    {
+        "name": "Warhammer 40,000: Boltgun",
+        "ranking": "3.5",
+        "picture": "https://images.stopgame.ru/games/logos/22035/c224x224/uovlDnfGuFKk_xsAFeMN0w/warhammer_40_000_boltgun-square_1.jpg"
     },
     {
         "name": "ELEX II",
@@ -500,11 +505,6 @@
         "picture": "https://images.stopgame.ru/games/logos/20066/c224x224/ZpM5BLpqiBqo9LbsH0gS-A/callisto_protocol-square.jpg"
     },
     {
-        "name": "Call of Duty: Modern Warfare II",
-        "ranking": "3.4",
-        "picture": "https://images.stopgame.ru/games/logos/21721/c224x224/dPOiMU6QdC7Z1zt44sR5Bw/call_of_duty_modern_warfare_2_2022-square.jpg"
-    },
-    {
         "name": "GhostWire: Tokyo",
         "ranking": "3.4",
         "picture": "https://images.stopgame.ru/games/logos/19120/c224x224/nKwTSm6c6hY5pVox_gAu0g/ghostwire_tokyo-square.jpg"
@@ -535,14 +535,19 @@
         "picture": "https://images.stopgame.ru/games/logos/20161/c224x224/jyI0UpWUt4M--TbDwbd1wg/batora_lost_haven-square_2.jpg"
     },
     {
+        "name": "Ghostbusters: Spirits Unleashed",
+        "ranking": "3.4",
+        "picture": "https://images.stopgame.ru/games/logos/21824/c224x224/vaAKOr0MH0bNeDC17icHkg/ghostbusters_spirits_unleashed-square_1.jpg"
+    },
+    {
         "name": "Blind Fate: Edo no Yami",
         "ranking": "3.4",
         "picture": "https://images.stopgame.ru/games/logos/21591/c224x224/IG49C8kDUVM9h5FT-7RGcQ/blind_fate_edo_no_yami-square.jpg"
     },
     {
-        "name": "Ghostbusters: Spirits Unleashed",
-        "ranking": "3.4",
-        "picture": "https://images.stopgame.ru/games/logos/21824/c224x224/vaAKOr0MH0bNeDC17icHkg/ghostbusters_spirits_unleashed-square_1.jpg"
+        "name": "Call of Duty: Modern Warfare II",
+        "ranking": "3.3",
+        "picture": "https://images.stopgame.ru/games/logos/21721/c224x224/dPOiMU6QdC7Z1zt44sR5Bw/call_of_duty_modern_warfare_2_2022-square.jpg"
     },
     {
         "name": "Trek to Yomi",
@@ -800,6 +805,11 @@
         "picture": "https://images.stopgame.ru/games/logos/23147/c224x224/vKuMXWsJiepG_qkXwnAShg/dying_light_2_stay_human_bloody_ties-square.jpg"
     },
     {
+        "name": "GhostWire: Tokyo - Spider's Thread",
+        "ranking": "2.3",
+        "picture": "https://images.stopgame.ru/games/logos/26817/c224x224/Jolktao6bbybpgCSnoCSNQ/ghostwire_tokyo_spider_s_thread-square.jpg"
+    },
+    {
         "name": "Cursed to Golf",
         "ranking": "2.3",
         "picture": "https://images.stopgame.ru/games/logos/22127/c224x224/OB6mIU1d9ysyZ1TvhT_5uw/cursed_to_golf-square.jpg"
@@ -815,11 +825,6 @@
         "picture": "https://images.stopgame.ru/games/logos/26783/c224x224/X6nJM_zxJ1ZzlI9JrN_wew/far_cry_6_pagan_control-square.jpg"
     },
     {
-        "name": "GhostWire: Tokyo - Spider's Thread",
-        "ranking": "2.2",
-        "picture": "https://images.stopgame.ru/games/logos/26817/c224x224/Jolktao6bbybpgCSnoCSNQ/ghostwire_tokyo_spider_s_thread-square.jpg"
-    },
-    {
         "name": "New Tales from the Borderlands",
         "ranking": "2.1",
         "picture": "https://images.stopgame.ru/games/logos/22432/c224x224/gldaC44ICX04zetjkixUiw/new_tales_from_the_borderlands-square_1.jpg"
@@ -831,7 +836,7 @@
     },
     {
         "name": "Metal Gear Solid: Master Collection Vol. 1",
-        "ranking": "1.7",
+        "ranking": "1.9",
         "picture": "https://images.stopgame.ru/games/logos/29009/c224x224/uNXCq8XDtz7wMln5XHOKkw/metal_gear_solid_master_collection_vol_1-square.jpg"
     },
     {
