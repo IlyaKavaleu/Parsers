@@ -1,562 +1,562 @@
 [
     {
         "title": "7up",
-        "calories": "\n0.0 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n8.7 ",
-        "carbohydrates": "\n38 "
+        "calories": "0.0",
+        "proteins": "0.0",
+        "fats": "8.7",
+        "carbohydrates": "38"
     },
     {
         "title": "Actimel Вишня",
-        "calories": "\n2.9 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n11.5 ",
-        "carbohydrates": "\n74 "
+        "calories": "2.9",
+        "proteins": "1.5",
+        "fats": "11.5",
+        "carbohydrates": "74"
     },
     {
         "title": "Actimel Гранат",
-        "calories": "\n2.7 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n11.5 ",
-        "carbohydrates": "\n73 "
+        "calories": "2.7",
+        "proteins": "1.5",
+        "fats": "11.5",
+        "carbohydrates": "73"
     },
     {
         "title": "Actimel Земляника и шиповник",
-        "calories": "\n2.7 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n11.5 ",
-        "carbohydrates": "\n73 "
+        "calories": "2.7",
+        "proteins": "1.5",
+        "fats": "11.5",
+        "carbohydrates": "73"
     },
     {
         "title": "Actimel Клубника",
-        "calories": "\n2.7 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n11.5 ",
-        "carbohydrates": "\n72 "
+        "calories": "2.7",
+        "proteins": "1.5",
+        "fats": "11.5",
+        "carbohydrates": "72"
     },
     {
         "title": "Actimel Малина и клюква",
-        "calories": "\n2.7 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n11.5 ",
-        "carbohydrates": "\n72 "
+        "calories": "2.7",
+        "proteins": "1.5",
+        "fats": "11.5",
+        "carbohydrates": "72"
     },
     {
         "title": "Actimel Мультифрукт",
-        "calories": "\n2.7 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n12.0 ",
-        "carbohydrates": "\n75 "
+        "calories": "2.7",
+        "proteins": "1.5",
+        "fats": "12.0",
+        "carbohydrates": "75"
     },
     {
         "title": "Actimel Натуральный",
-        "calories": "\n2.8 ",
-        "proteins": "\n1.6 ",
-        "fats": "\n10.5 ",
-        "carbohydrates": "\n71 "
+        "calories": "2.8",
+        "proteins": "1.6",
+        "fats": "10.5",
+        "carbohydrates": "71"
     },
     {
         "title": "Actimel Черника и ежевика",
-        "calories": "\n2.9 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n11.5 ",
-        "carbohydrates": "\n74 "
+        "calories": "2.9",
+        "proteins": "1.5",
+        "fats": "11.5",
+        "carbohydrates": "74"
     },
     {
         "title": "Exponenta High-Pro Черника-Алоэ",
-        "calories": "\n12.0 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n2.5 ",
-        "carbohydrates": "\n60 "
+        "calories": "12.0",
+        "proteins": "0.0",
+        "fats": "2.5",
+        "carbohydrates": "60"
     },
     {
         "title": "Fruttis Сливочное лакомство Клубника-Земляника",
-        "calories": "\n2.2 ",
-        "proteins": "\n5.0 ",
-        "fats": "\n17.0 ",
-        "carbohydrates": "\n122 "
+        "calories": "2.2",
+        "proteins": "5.0",
+        "fats": "17.0",
+        "carbohydrates": "122"
     },
     {
         "title": "Neo Имунеле Natural",
-        "calories": "\n1.8 ",
-        "proteins": "\n0.9 ",
-        "fats": "\n11.8 ",
-        "carbohydrates": "\n63 "
+        "calories": "1.8",
+        "proteins": "0.9",
+        "fats": "11.8",
+        "carbohydrates": "63"
     },
     {
         "title": "Neo Имунеле Гранат-Вишня",
-        "calories": "\n2.5 ",
-        "proteins": "\n1.2 ",
-        "fats": "\n12.4 ",
-        "carbohydrates": "\n70 "
+        "calories": "2.5",
+        "proteins": "1.2",
+        "fats": "12.4",
+        "carbohydrates": "70"
     },
     {
         "title": "Neo Имунеле Клюква-Малина",
-        "calories": "\n2.5 ",
-        "proteins": "\n1.2 ",
-        "fats": "\n12.6 ",
-        "carbohydrates": "\n71 "
+        "calories": "2.5",
+        "proteins": "1.2",
+        "fats": "12.6",
+        "carbohydrates": "71"
     },
     {
         "title": "Neo Имунеле Лесные ягоды",
-        "calories": "\n2.5 ",
-        "proteins": "\n1.2 ",
-        "fats": "\n13.1 ",
-        "carbohydrates": "\n73 "
+        "calories": "2.5",
+        "proteins": "1.2",
+        "fats": "13.1",
+        "carbohydrates": "73"
     },
     {
         "title": "Абрикос",
-        "calories": "\n0.9 ",
-        "proteins": "\n0.1 ",
-        "fats": "\n9.0 ",
-        "carbohydrates": "\n44 "
+        "calories": "0.9",
+        "proteins": "0.1",
+        "fats": "9.0",
+        "carbohydrates": "44"
     },
     {
         "title": "Абрикос консервированный",
-        "calories": "\n0.4 ",
-        "proteins": "\n0.1 ",
-        "fats": "\n15.5 ",
-        "carbohydrates": "\n67 "
+        "calories": "0.4",
+        "proteins": "0.1",
+        "fats": "15.5",
+        "carbohydrates": "67"
     },
     {
         "title": "Абрикосовая косточка",
-        "calories": "\n14.0 ",
-        "proteins": "\n27.7 ",
-        "fats": "\n56.3 ",
-        "carbohydrates": "\n440 "
+        "calories": "14.0",
+        "proteins": "27.7",
+        "fats": "56.3",
+        "carbohydrates": "440"
     },
     {
         "title": "Абрикосовый компот",
-        "calories": "\n0.5 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n21.0 ",
-        "carbohydrates": "\n85 "
+        "calories": "0.5",
+        "proteins": "0.0",
+        "fats": "21.0",
+        "carbohydrates": "85"
     },
     {
         "title": "Абрикосовый сок",
-        "calories": "\n0.9 ",
-        "proteins": "\n0.1 ",
-        "fats": "\n9.0 ",
-        "carbohydrates": "\n38 "
+        "calories": "0.9",
+        "proteins": "0.1",
+        "fats": "9.0",
+        "carbohydrates": "38"
     },
     {
         "title": "Абсент",
-        "calories": "\n0.0 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n8.8 ",
-        "carbohydrates": "\n171 "
+        "calories": "0.0",
+        "proteins": "0.0",
+        "fats": "8.8",
+        "carbohydrates": "171"
     },
     {
         "title": "Авокадо",
-        "calories": "\n2.0 ",
-        "proteins": "\n20.0 ",
-        "fats": "\n6.0 ",
-        "carbohydrates": "\n212 "
+        "calories": "2.0",
+        "proteins": "20.0",
+        "fats": "6.0",
+        "carbohydrates": "212"
     },
     {
         "title": "Агар пищевой",
-        "calories": "\n4.0 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n76.0 ",
-        "carbohydrates": "\n301 "
+        "calories": "4.0",
+        "proteins": "0.0",
+        "fats": "76.0",
+        "carbohydrates": "301"
     },
     {
         "title": "Аджика",
-        "calories": "\n1.0 ",
-        "proteins": "\n3.7 ",
-        "fats": "\n5.8 ",
-        "carbohydrates": "\n59 "
+        "calories": "1.0",
+        "proteins": "3.7",
+        "fats": "5.8",
+        "carbohydrates": "59"
     },
     {
         "title": "Ажгон",
-        "calories": "\n19.7 ",
-        "proteins": "\n14.5 ",
-        "fats": "\n11.9 ",
-        "carbohydrates": "\n333 "
+        "calories": "19.7",
+        "proteins": "14.5",
+        "fats": "11.9",
+        "carbohydrates": "333"
     },
     {
         "title": "Азу",
-        "calories": "\n11.9 ",
-        "proteins": "\n14.2 ",
-        "fats": "\n10.2 ",
-        "carbohydrates": "\n214 "
+        "calories": "11.9",
+        "proteins": "14.2",
+        "fats": "10.2",
+        "carbohydrates": "214"
     },
     {
         "title": "Айва",
-        "calories": "\n0.6 ",
-        "proteins": "\n0.5 ",
-        "fats": "\n9.8 ",
-        "carbohydrates": "\n40 "
+        "calories": "0.6",
+        "proteins": "0.5",
+        "fats": "9.8",
+        "carbohydrates": "40"
     },
     {
         "title": "Айвовый компот",
-        "calories": "\n0.4 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n20.0 ",
-        "carbohydrates": "\n79 "
+        "calories": "0.4",
+        "proteins": "0.0",
+        "fats": "20.0",
+        "carbohydrates": "79"
     },
     {
         "title": "Айвовый сок",
-        "calories": "\n0.5 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n10.6 ",
-        "carbohydrates": "\n45 "
+        "calories": "0.5",
+        "proteins": "0.0",
+        "fats": "10.6",
+        "carbohydrates": "45"
     },
     {
         "title": "Айран (тан) газированный",
-        "calories": "\n1.1 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n1.4 ",
-        "carbohydrates": "\n24 "
+        "calories": "1.1",
+        "proteins": "1.5",
+        "fats": "1.4",
+        "carbohydrates": "24"
     },
     {
         "title": "Айран (тан) из козьего молока",
-        "calories": "\n1.1 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n1.4 ",
-        "carbohydrates": "\n24 "
+        "calories": "1.1",
+        "proteins": "1.5",
+        "fats": "1.4",
+        "carbohydrates": "24"
     },
     {
         "title": "Айран (тан) негазированный",
-        "calories": "\n1.1 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n1.4 ",
-        "carbohydrates": "\n24 "
+        "calories": "1.1",
+        "proteins": "1.5",
+        "fats": "1.4",
+        "carbohydrates": "24"
     },
     {
         "title": "Айран (тан) негазированный нежирный",
-        "calories": "\n1.1 ",
-        "proteins": "\n0.2 ",
-        "fats": "\n1.4 ",
-        "carbohydrates": "\n12 "
+        "calories": "1.1",
+        "proteins": "0.2",
+        "fats": "1.4",
+        "carbohydrates": "12"
     },
     {
         "title": "Айран (тан) с укропом и огурцом",
-        "calories": "\n1.1 ",
-        "proteins": "\n1.0 ",
-        "fats": "\n1.4 ",
-        "carbohydrates": "\n19 "
+        "calories": "1.1",
+        "proteins": "1.0",
+        "fats": "1.4",
+        "carbohydrates": "19"
     },
     {
         "title": "Айран (тан) сильногазированный",
-        "calories": "\n1.1 ",
-        "proteins": "\n1.0 ",
-        "fats": "\n1.4 ",
-        "carbohydrates": "\n19 "
+        "calories": "1.1",
+        "proteins": "1.0",
+        "fats": "1.4",
+        "carbohydrates": "19"
     },
     {
         "title": "Аквафаба нутовая",
-        "calories": "\n0.4 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n0.9 ",
-        "carbohydrates": "\n5 "
+        "calories": "0.4",
+        "proteins": "0.0",
+        "fats": "0.9",
+        "carbohydrates": "5"
     },
     {
         "title": "Аквафаба сублимированная Гала-Гала",
-        "calories": "\n6.1 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n14.0 ",
-        "carbohydrates": "\n84 "
+        "calories": "6.1",
+        "proteins": "0.0",
+        "fats": "14.0",
+        "carbohydrates": "84"
     },
     {
         "title": "Аки",
-        "calories": "\n1.0 ",
-        "proteins": "\n15.0 ",
-        "fats": "\n8.0 ",
-        "carbohydrates": "\n151 "
+        "calories": "1.0",
+        "proteins": "15.0",
+        "fats": "8.0",
+        "carbohydrates": "151"
     },
     {
         "title": "Активиа Быстрый завтрак Клубника",
-        "calories": "\n4.3 ",
-        "proteins": "\n2.8 ",
-        "fats": "\n20.9 ",
-        "carbohydrates": "\n127 "
+        "calories": "4.3",
+        "proteins": "2.8",
+        "fats": "20.9",
+        "carbohydrates": "127"
     },
     {
         "title": "Активиа Быстрый завтрак Натуральный",
-        "calories": "\n4.8 ",
-        "proteins": "\n3.1 ",
-        "fats": "\n14.4 ",
-        "carbohydrates": "\n107 "
+        "calories": "4.8",
+        "proteins": "3.1",
+        "fats": "14.4",
+        "carbohydrates": "107"
     },
     {
         "title": "Активиа Быстрый завтрак с овсянкой Яблоко-Груша",
-        "calories": "\n3.6 ",
-        "proteins": "\n3.1 ",
-        "fats": "\n16.7 ",
-        "carbohydrates": "\n110 "
+        "calories": "3.6",
+        "proteins": "3.1",
+        "fats": "16.7",
+        "carbohydrates": "110"
     },
     {
         "title": "Активиа Кефирная 1%",
-        "calories": "\n2.9 ",
-        "proteins": "\n1.0 ",
-        "fats": "\n4.5 ",
-        "carbohydrates": "\n39 "
+        "calories": "2.9",
+        "proteins": "1.0",
+        "fats": "4.5",
+        "carbohydrates": "39"
     },
     {
         "title": "Активиа Кефирная 3%",
-        "calories": "\n2.9 ",
-        "proteins": "\n3.0 ",
-        "fats": "\n3.6 ",
-        "carbohydrates": "\n53 "
+        "calories": "2.9",
+        "proteins": "3.0",
+        "fats": "3.6",
+        "carbohydrates": "53"
     },
     {
         "title": "Активиа Момент удовольствия Вишня",
-        "calories": "\n4.3 ",
-        "proteins": "\n2.7 ",
-        "fats": "\n13.7 ",
-        "carbohydrates": "\n97 "
+        "calories": "4.3",
+        "proteins": "2.7",
+        "fats": "13.7",
+        "carbohydrates": "97"
     },
     {
         "title": "Активиа Момент удовольствия Земляника",
-        "calories": "\n4.3 ",
-        "proteins": "\n2.7 ",
-        "fats": "\n12.9 ",
-        "carbohydrates": "\n97 "
+        "calories": "4.3",
+        "proteins": "2.7",
+        "fats": "12.9",
+        "carbohydrates": "97"
     },
     {
         "title": "Активиа Питьевая Ананас",
-        "calories": "\n2.8 ",
-        "proteins": "\n2.0 ",
-        "fats": "\n12.2 ",
-        "carbohydrates": "\n77 "
+        "calories": "2.8",
+        "proteins": "2.0",
+        "fats": "12.2",
+        "carbohydrates": "77"
     },
     {
         "title": "Активиа Питьевая Бифидойогурт Классический 1.5%",
-        "calories": "\n3.4 ",
-        "proteins": "\n1.5 ",
-        "fats": "\n4.4 ",
-        "carbohydrates": "\n45 "
+        "calories": "3.4",
+        "proteins": "1.5",
+        "fats": "4.4",
+        "carbohydrates": "45"
     },
     {
         "title": "Активиа Питьевая Вишня и чёрная смородина",
-        "calories": "\n2.6 ",
-        "proteins": "\n2.0 ",
-        "fats": "\n12.8 ",
-        "carbohydrates": "\n81 "
+        "calories": "2.6",
+        "proteins": "2.0",
+        "fats": "12.8",
+        "carbohydrates": "81"
     },
     {
         "title": "Активиа Питьевая Злаки",
-        "calories": "\n2.8 ",
-        "proteins": "\n2.2 ",
-        "fats": "\n12.4 ",
-        "carbohydrates": "\n81 "
+        "calories": "2.8",
+        "proteins": "2.2",
+        "fats": "12.4",
+        "carbohydrates": "81"
     },
     {
         "title": "Активиа Питьевая Клубника и земляника",
-        "calories": "\n2.8 ",
-        "proteins": "\n2.2 ",
-        "fats": "\n12.4 ",
-        "carbohydrates": "\n81 "
+        "calories": "2.8",
+        "proteins": "2.2",
+        "fats": "12.4",
+        "carbohydrates": "81"
     },
     {
         "title": "Активиа Питьевая Малина и злаки",
-        "calories": "\n2.8 ",
-        "proteins": "\n2.1 ",
-        "fats": "\n11.0 ",
-        "carbohydrates": "\n74 "
+        "calories": "2.8",
+        "proteins": "2.1",
+        "fats": "11.0",
+        "carbohydrates": "74"
     },
     {
         "title": "Активиа Питьевая Натуральная",
-        "calories": "\n3.2 ",
-        "proteins": "\n2.4 ",
-        "fats": "\n4.5 ",
-        "carbohydrates": "\n52 "
+        "calories": "3.2",
+        "proteins": "2.4",
+        "fats": "4.5",
+        "carbohydrates": "52"
     },
     {
         "title": "Активиа Питьевая Тыква банан и корица",
-        "calories": "\n2.9 ",
-        "proteins": "\n2.1 ",
-        "fats": "\n10.9 ",
-        "carbohydrates": "\n74 "
+        "calories": "2.9",
+        "proteins": "2.1",
+        "fats": "10.9",
+        "carbohydrates": "74"
     },
     {
         "title": "Активиа Питьевая Чернослив",
-        "calories": "\n2.8 ",
-        "proteins": "\n2.0 ",
-        "fats": "\n12.8 ",
-        "carbohydrates": "\n80 "
+        "calories": "2.8",
+        "proteins": "2.0",
+        "fats": "12.8",
+        "carbohydrates": "80"
     },
     {
         "title": "Активиа Питьевая Яблоко и злаки",
-        "calories": "\n2.8 ",
-        "proteins": "\n2.2 ",
-        "fats": "\n13.0 ",
-        "carbohydrates": "\n83 "
+        "calories": "2.8",
+        "proteins": "2.2",
+        "fats": "13.0",
+        "carbohydrates": "83"
     },
     {
         "title": "Активиа Семейная Клубника",
-        "calories": "\n3.9 ",
-        "proteins": "\n3.2 ",
-        "fats": "\n13.6 ",
-        "carbohydrates": "\n98 "
+        "calories": "3.9",
+        "proteins": "3.2",
+        "fats": "13.6",
+        "carbohydrates": "98"
     },
     {
         "title": "Активиа Семейная Персик",
-        "calories": "\n3.9 ",
-        "proteins": "\n3.2 ",
-        "fats": "\n13.6 ",
-        "carbohydrates": "\n98 "
+        "calories": "3.9",
+        "proteins": "3.2",
+        "fats": "13.6",
+        "carbohydrates": "98"
     },
     {
         "title": "Активиа Творожная Клубника",
-        "calories": "\n5.0 ",
-        "proteins": "\n4.5 ",
-        "fats": "\n15.5 ",
-        "carbohydrates": "\n123 "
+        "calories": "5.0",
+        "proteins": "4.5",
+        "fats": "15.5",
+        "carbohydrates": "123"
     },
     {
         "title": "Активиа Творожная Малина",
-        "calories": "\n4.2 ",
-        "proteins": "\n4.5 ",
-        "fats": "\n11.4 ",
-        "carbohydrates": "\n102 "
+        "calories": "4.2",
+        "proteins": "4.5",
+        "fats": "11.4",
+        "carbohydrates": "102"
     },
     {
         "title": "Активиа Творожная Мюсли",
-        "calories": "\n5.0 ",
-        "proteins": "\n4.5 ",
-        "fats": "\n15.5 ",
-        "carbohydrates": "\n123 "
+        "calories": "5.0",
+        "proteins": "4.5",
+        "fats": "15.5",
+        "carbohydrates": "123"
     },
     {
         "title": "Активиа Творожная Мюсли и манго",
-        "calories": "\n4.8 ",
-        "proteins": "\n4.5 ",
-        "fats": "\n14.7 ",
-        "carbohydrates": "\n119 "
+        "calories": "4.8",
+        "proteins": "4.5",
+        "fats": "14.7",
+        "carbohydrates": "119"
     },
     {
         "title": "Активиа Творожная Натуральная",
-        "calories": "\n5.9 ",
-        "proteins": "\n4.5 ",
-        "fats": "\n3.7 ",
-        "carbohydrates": "\n79 "
+        "calories": "5.9",
+        "proteins": "4.5",
+        "fats": "3.7",
+        "carbohydrates": "79"
     },
     {
         "title": "Активиа Творожная Отруби и злаки",
-        "calories": "\n4.9 ",
-        "proteins": "\n4.3 ",
-        "fats": "\n13.7 ",
-        "carbohydrates": "\n113 "
+        "calories": "4.9",
+        "proteins": "4.3",
+        "fats": "13.7",
+        "carbohydrates": "113"
     },
     {
         "title": "Активиа Творожная Чернослив",
-        "calories": "\n4.7 ",
-        "proteins": "\n4.2 ",
-        "fats": "\n14.4 ",
-        "carbohydrates": "\n114 "
+        "calories": "4.7",
+        "proteins": "4.2",
+        "fats": "14.4",
+        "carbohydrates": "114"
     },
     {
         "title": "Активиа Фреш Арбуз",
-        "calories": "\n2.8 ",
-        "proteins": "\n1.6 ",
-        "fats": "\n12.3 ",
-        "carbohydrates": "\n74 "
+        "calories": "2.8",
+        "proteins": "1.6",
+        "fats": "12.3",
+        "carbohydrates": "74"
     },
     {
         "title": "Активиа Фреш Вишня",
-        "calories": "\n2.8 ",
-        "proteins": "\n1.6 ",
-        "fats": "\n11.0 ",
-        "carbohydrates": "\n70 "
+        "calories": "2.8",
+        "proteins": "1.6",
+        "fats": "11.0",
+        "carbohydrates": "70"
     },
     {
         "title": "Активиа Фреш Гранат и Малина",
-        "calories": "\n2.8 ",
-        "proteins": "\n1.6 ",
-        "fats": "\n11.0 ",
-        "carbohydrates": "\n70 "
+        "calories": "2.8",
+        "proteins": "1.6",
+        "fats": "11.0",
+        "carbohydrates": "70"
     },
     {
         "title": "Активиа Фреш Манго",
-        "calories": "\n2.8 ",
-        "proteins": "\n1.6 ",
-        "fats": "\n12.0 ",
-        "carbohydrates": "\n73 "
+        "calories": "2.8",
+        "proteins": "1.6",
+        "fats": "12.0",
+        "carbohydrates": "73"
     },
     {
         "title": "Активиа Фреш Персик",
-        "calories": "\n2.8 ",
-        "proteins": "\n1.6 ",
-        "fats": "\n11.0 ",
-        "carbohydrates": "\n70 "
+        "calories": "2.8",
+        "proteins": "1.6",
+        "fats": "11.0",
+        "carbohydrates": "70"
     },
     {
         "title": "Актуаль на сыворотке вкус арбуза",
-        "calories": "\n0.5 ",
-        "proteins": "\n0.1 ",
-        "fats": "\n8.6 ",
-        "carbohydrates": "\n37 "
+        "calories": "0.5",
+        "proteins": "0.1",
+        "fats": "8.6",
+        "carbohydrates": "37"
     },
     {
         "title": "Акула катран",
-        "calories": "\n19.9 ",
-        "proteins": "\n7.0 ",
-        "fats": "\n0.0 ",
-        "carbohydrates": "\n142 "
+        "calories": "19.9",
+        "proteins": "7.0",
+        "fats": "0.0",
+        "carbohydrates": "142"
     },
     {
         "title": "Акульи плавники",
-        "calories": "\n21.0 ",
-        "proteins": "\n4.8 ",
-        "fats": "\n0.0 ",
-        "carbohydrates": "\n130 "
+        "calories": "21.0",
+        "proteins": "4.8",
+        "fats": "0.0",
+        "carbohydrates": "130"
     },
     {
         "title": "Алыча",
-        "calories": "\n0.2 ",
-        "proteins": "\n0.0 ",
-        "fats": "\n6.9 ",
-        "carbohydrates": "\n27 "
+        "calories": "0.2",
+        "proteins": "0.0",
+        "fats": "6.9",
+        "carbohydrates": "27"
     },
     {
         "title": "Амарант",
-        "calories": "\n13.6 ",
-        "proteins": "\n7.0 ",
-        "fats": "\n69.0 ",
-        "carbohydrates": "\n371 "
+        "calories": "13.6",
+        "proteins": "7.0",
+        "fats": "69.0",
+        "carbohydrates": "371"
     },
     {
         "title": "Амарантовые отруби Di&Di с гречей",
-        "calories": "\n19.0 ",
-        "proteins": "\n5.5 ",
-        "fats": "\n55.0 ",
-        "carbohydrates": "\n345 "
+        "calories": "19.0",
+        "proteins": "5.5",
+        "fats": "55.0",
+        "carbohydrates": "345"
     },
     {
         "title": "Амарантовые отруби Di&Di с ламинарией",
-        "calories": "\n20.4 ",
-        "proteins": "\n5.1 ",
-        "fats": "\n37.0 ",
-        "carbohydrates": "\n311 "
+        "calories": "20.4",
+        "proteins": "5.1",
+        "fats": "37.0",
+        "carbohydrates": "311"
     },
     {
         "title": "Амарантовые отруби Di&Di с топинамбуром",
-        "calories": "\n19.0 ",
-        "proteins": "\n5.5 ",
-        "fats": "\n55.0 ",
-        "carbohydrates": "\n345 "
+        "calories": "19.0",
+        "proteins": "5.5",
+        "fats": "55.0",
+        "carbohydrates": "345"
     },
     {
         "title": "Американская смесь Hortex",
-        "calories": "\n2.4 ",
-        "proteins": "\n0.5 ",
-        "fats": "\n5.1 ",
-        "carbohydrates": "\n39 "
+        "calories": "2.4",
+        "proteins": "0.5",
+        "fats": "5.1",
+        "carbohydrates": "39"
     },
     {
         "title": "Амур белый",
-        "calories": "\n18.6 ",
-        "proteins": "\n5.3 ",
-        "fats": "\n0.0 ",
-        "carbohydrates": "\n134 "
+        "calories": "18.6",
+        "proteins": "5.3",
+        "fats": "0.0",
+        "carbohydrates": "134"
     },
     {
         "title": "Амур чёрный",
-        "calories": "\n17.5 ",
-        "proteins": "\n2.0 ",
-        "fats": "\n0.0 ",
-        "carbohydrates": "\n88 "
+        "calories": "17.5",
+        "proteins": "2.0",
+        "fats": "0.0",
+        "carbohydrates": "88"
     }
 ]

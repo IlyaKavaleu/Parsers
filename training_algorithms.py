@@ -1,19 +1,46 @@
-# def quicksort(arr):
-#     if len(arr) < 2:
-#         return arr
+def search(attr, item):
+    keys = list(attr.keys())
+    low = 0
+    high = len(keys) - 1
+
+    while low <= high:
+        mid = (low + high) // 2
+        mid_key = keys[mid]
+
+        if mid_key == item:
+            return attr[mid_key]
+        elif mid_key < item:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return None
+
+
+listik_1 = {9: '8', 8: '6', 7: '5', 6: '3', 5: '1', 4: '9', 3: '0', 2: '2', 1: '404', 0: '5996'}
+d = dict(sorted(listik_1.items()))
+print(d)
+print(search(d, 9))
+
+# s = search(listik_1, 3)  # You should search for the value, not the index
+# if s is not None:
+#     print(f"Value '{item}' found at index {s}.")
+# else:
+#     print("Value not found.")
+
+
+# def quicksort(array):
+#     if len(array) < 2:
+#         return array
 #     else:
-#         pinot = arr[0]
-#         less = [i for i in arr[1:] if i < pinot]
-#         print(less)
-#         more = [i for i in arr[1:] if i > pinot]
-#         print(more)
-#         print()
-#         return quicksort(less) + [pinot] + quicksort(more)
+#         pinot = array[0]
+#         less = [x for x in array if x < pinot]
+#         more = [x for x in array if x > pinot]
+#     return quicksort(less) + [pinot] + quicksort(more)
 #
 #
 # items = [7, 4, 3, 5, 3, 0, 8, 2, 1]
 # print(quicksort(items))
-
+#
 # def sel(arr):
 #     n = len(arr)
 #     for i in range(n):
@@ -27,8 +54,8 @@
 #
 # my_list = [64, 25, 12, 22, 11]
 # print(sel(my_list))
-
-
+#
+#
 # def findSmallest(arr):
 #     value = arr[0]
 #     index_now = 0
@@ -47,8 +74,8 @@
 #
 #
 # print(selectionSort([5, 3, 6, 2, 10]))
-
-
+#
+#
 # def a(attr):
 #     dates = len(attr)
 #     for x in attr:
@@ -59,27 +86,7 @@
 # listik = [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
 # print(a(listik))
 #
-# def search(attr, item):
-#     low = 0
-#     high = len(attr) - 1
-#     while low <= high:
-#         mid = int((low + high) / 2)
-#         guess = attr[mid]
-#         if guess == item:
-#             return mid  # Return the index where the item was found
-#         if guess < item:
-#             low = mid + 1
-#         else:
-#             high = mid - 1
-#     return None
 #
-# listik_1 = {9: '8', 8: '6', 7: '5', 6: '3', 5: '1', 4: '9', 3: '0', 2: '2', 1: '404', 0: '5996'}
-# s = search(listik_1, 3)  # You should search for the value, not the index
-# if s is not None:
-#     print(f"Value '{item}' found at index {s}.")
-# else:
-#     print("Value not found.")
-
 # class Bubble_and_SEARCH_item:
 #     def __init__(self, items):
 #         self.items = items

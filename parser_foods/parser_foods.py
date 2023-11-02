@@ -82,7 +82,6 @@ for category_name, category_href in categories_all.items():
     carbohydrates = table_head[4].text
     calories = table_head[5].text
 
-    dates = [empty, product, proteins, fats, carbohydrates, calories]
     with open(f"folder_with_csv_files/{count}_{category_name}.csv", "w", newline='') as file:
         writer = csv.writer(file)
         writer.writerow((empty, product, proteins, fats, carbohydrates, calories))
@@ -101,26 +100,18 @@ for category_name, category_href in categories_all.items():
 
         product_info.append(
             {
-                "title": title,
-                "calories": calories,
-                "proteins": proteins,
-                "fats": fats,
-                "carbohydrates": carbohydrates
+                "title": title.strip(),
+                "calories": calories.strip(),
+                "proteins": proteins.strip(),
+                "fats": fats.strip(),
+                "carbohydrates": carbohydrates.strip()
             }
         )
-
-        with open(f"folder_with_csv_files/{count}_{category_name}.csv", "a", encoding="utf-8") as file:
+        with open(f"folder_with_csv_files/{count}_{category_name}.csv", "a", encoding="utf-8",) as file:
             writer = csv.writer(file)
-            writer.writerow(
-                (
-                    title,
-                    calories,
-                    proteins,
-                    fats,
-                    carbohydrates
-                )
-            )
-    with open(f"folder_with_json/{count}_{category_name}.json", "w", encoding="utf-8") as file:
+            writer.writerow((title, calories, proteins, fats, carbohydrates))
+
+    with open(f"folder_with_json/{count}_{category_name}.json", "w", encoding='utf-8') as file:
         json.dump(product_info, file, indent=4, ensure_ascii=False)
 
     count += 1
@@ -131,4 +122,4 @@ for category_name, category_href in categories_all.items():
         print('Program final!')
         break
     print(f"Stay: {iteration}")
-    sleep(random.randrange(2, 4))
+    # sleep(random.randrange(2, 4))
